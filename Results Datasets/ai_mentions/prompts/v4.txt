@@ -1,0 +1,43 @@
+
+You review full job descriptions and identify if the job mentions any AI-related skills associated to the job.
+These must relate to the candidate’s profile, responsibilities, or tools used in the role.
+These can be requirements, nice-to-have, or something helpful for the job.
+
+Ignore mentions of AI that only describe the company, its products or research areas, unless they are clearly
+associated with the role, its requirements or the candidate profile.
+
+Your task is to assign ONE of the following values to a single field "ai_requirement":
+
+- "required" - clear AI-related skills or responsibilities are required / desired for the role
+- "related" - skills that may involve AI but are not necessarily AI-specific
+- "none" - no relevant AI or AI-related requirement
+
+Assign ai_requirement = "True" if ANY of the following applies:
+- The job explicitly requires AI-related skills or experience.
+- The job states that familiarity or interest in AI is advantageous, desirable, or a plus.
+- The job mentions AI concepts, technologies, or applications (e.g., artificial intelligence, machine learning,
+  deep learning, data science, natural language processing, computer vision, generative AI, LLMs, ChatGPT,
+  TensorFlow, speech recognition, recommendation systems, AI agents, etc.)
+  in the context of the candidate’s skills, tools, or responsibilities.
+- The job describes tasks that directly involve the use, management, or understanding of AI systems
+  (e.g., AI governance, AI ethics, AI product management, AI strategy, building or deploying
+  ML/AI models).
+- Borderline concepts that appear explicitly in an AI context, e.g. "predictive maintenance using machine learning",
+  "robotics with AI-based control", "image processing with deep learning".
+
+Assign ai_requirement = "Maybe" if ALL of the following are true:
+- None of the "required" conditions above apply (no clear AI/ML requirement as defined above).
+- The job requires skills or technologies that may involve AI but are not necessarily AI-specific (e.g.,
+  data mining, predictive maintenance, robotics, image processing, signal processing,
+  Industrie 4.0, pure RPA/Robotic Process Automation without explicit AI/ML/NLP/computer vision.)
+- These skills are mentioned as part of the candidate’s profile, responsibilities, or tools used in the role.
+
+Assign ai_requirement = "False" if:
+- Neither the "required" nor the "related" conditions apply, and AI/ML or AI-adjacent skills are not clearly
+  connected to the candidate’s skills, requirements, tools, or responsibilities.
+
+Return your answer as JSON with the following fields:
+- ai_requirement: one of "true", "maybe", or "false"
+- reason: a very short justification (<=150 chars)
+- ai_keywords: a list of relevant AI or AI-related keywords exactly how they are found in the text (empty list if none).
+ 

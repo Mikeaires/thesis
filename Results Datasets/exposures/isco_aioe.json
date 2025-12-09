@@ -1,0 +1,5649 @@
+{
+  "0110": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "55-1011",
+      "55-1012",
+      "55-1013",
+      "55-1014",
+      "55-1015",
+      "55-1016",
+      "55-1017",
+      "55-1019"
+    ]
+  },
+  "0210": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "55-2011",
+      "55-2012",
+      "55-2013"
+    ]
+  },
+  "0211": {
+    "aioe": 1.140157,
+    "matched_soc_codes": [
+      "19-2099"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-2099"
+    ]
+  },
+  "0310": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "55-3011",
+      "55-3012",
+      "55-3013",
+      "55-3014",
+      "55-3015",
+      "55-3016",
+      "55-3017",
+      "55-3018",
+      "55-3019"
+    ]
+  },
+  "0315": {
+    "aioe": 0.4845738,
+    "matched_soc_codes": [
+      "53-2022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "53-2022"
+    ]
+  },
+  "1111": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-1031"
+    ]
+  },
+  "1112": {
+    "aioe": 0.9799637666666667,
+    "matched_soc_codes": [
+      "11-1011",
+      "11-1021",
+      "11-9161"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-1011",
+      "11-1021",
+      "11-9161"
+    ]
+  },
+  "1113": {
+    "aioe": 1.334246,
+    "matched_soc_codes": [
+      "11-1011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-1011",
+      "11-1031"
+    ]
+  },
+  "1114": {
+    "aioe": 0.9444178333333334,
+    "matched_soc_codes": [
+      "11-1021",
+      "11-2031",
+      "11-9199"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "11-1021",
+      "11-2031",
+      "11-9199"
+    ]
+  },
+  "1120": {
+    "aioe": 0.95456165,
+    "matched_soc_codes": [
+      "11-1011",
+      "11-1021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-1011",
+      "11-1021"
+    ]
+  },
+  "1211": {
+    "aioe": 1.446232,
+    "matched_soc_codes": [
+      "11-3031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-3031"
+    ]
+  },
+  "1212": {
+    "aioe": 1.301025,
+    "matched_soc_codes": [
+      "11-3111",
+      "11-3121",
+      "11-3131"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-3111",
+      "11-3121",
+      "11-3131"
+    ]
+  },
+  "1213": {
+    "aioe": 0.9646872,
+    "matched_soc_codes": [
+      "11-9199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9199"
+    ]
+  },
+  "1219": {
+    "aioe": 0.93615125,
+    "matched_soc_codes": [
+      "11-2031",
+      "11-3011",
+      "11-3061",
+      "11-9061",
+      "11-9131",
+      "11-9199"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-2031",
+      "11-3011",
+      "11-3061",
+      "11-9061",
+      "11-9131",
+      "11-9199"
+    ]
+  },
+  "1221": {
+    "aioe": 1.290656,
+    "matched_soc_codes": [
+      "11-2021",
+      "11-2022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-2021",
+      "11-2022"
+    ]
+  },
+  "1222": {
+    "aioe": 1.294038,
+    "matched_soc_codes": [
+      "11-2011",
+      "11-2031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-2011",
+      "11-2031"
+    ]
+  },
+  "1223": {
+    "aioe": 1.08245825,
+    "matched_soc_codes": [
+      "11-9041",
+      "11-9121"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9041",
+      "11-9121"
+    ]
+  },
+  "1311": {
+    "aioe": -0.1443684,
+    "matched_soc_codes": [
+      "11-9013"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9013"
+    ]
+  },
+  "1312": {
+    "aioe": -0.1443684,
+    "matched_soc_codes": [
+      "11-9013"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9013"
+    ]
+  },
+  "1321": {
+    "aioe": 0.5086878,
+    "matched_soc_codes": [
+      "11-3051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-3051"
+    ]
+  },
+  "1322": {
+    "aioe": 0.9646872,
+    "matched_soc_codes": [
+      "11-9199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9199"
+    ]
+  },
+  "1323": {
+    "aioe": 1.029139,
+    "matched_soc_codes": [
+      "11-9021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9021"
+    ]
+  },
+  "1324": {
+    "aioe": 0.8907923,
+    "matched_soc_codes": [
+      "11-3071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-3071"
+    ]
+  },
+  "1330": {
+    "aioe": 1.059853,
+    "matched_soc_codes": [
+      "11-3021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-3021"
+    ]
+  },
+  "1341": {
+    "aioe": 0.838007,
+    "matched_soc_codes": [
+      "11-9031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9031"
+    ]
+  },
+  "1342": {
+    "aioe": 1.260259,
+    "matched_soc_codes": [
+      "11-9111"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9111"
+    ]
+  },
+  "1343": {
+    "aioe": 0.91756815,
+    "matched_soc_codes": [
+      "11-1021",
+      "11-9111"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-1021",
+      "11-9111"
+    ]
+  },
+  "1344": {
+    "aioe": 1.156153,
+    "matched_soc_codes": [
+      "11-9151"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9151"
+    ]
+  },
+  "1345": {
+    "aioe": 0.9546955,
+    "matched_soc_codes": [
+      "11-9032",
+      "11-9033",
+      "11-9039"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9032",
+      "11-9033",
+      "11-9039"
+    ]
+  },
+  "1346": {
+    "aioe": 1.01055465,
+    "matched_soc_codes": [
+      "11-1021",
+      "11-3031"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "11-1021",
+      "11-3031"
+    ]
+  },
+  "1349": {
+    "aioe": 0.9646872,
+    "matched_soc_codes": [
+      "11-9199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9199"
+    ]
+  },
+  "1411": {
+    "aioe": 0.4021726,
+    "matched_soc_codes": [
+      "11-9081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9081"
+    ]
+  },
+  "1412": {
+    "aioe": -0.1213112,
+    "matched_soc_codes": [
+      "11-9051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "11-9051"
+    ]
+  },
+  "1420": {
+    "aioe": 0.5748773,
+    "matched_soc_codes": [
+      "11-1021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-1021"
+    ]
+  },
+  "1431": {
+    "aioe": 0.89730395,
+    "matched_soc_codes": [
+      "11-9071",
+      "11-9199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9071",
+      "11-9199"
+    ]
+  },
+  "1439": {
+    "aioe": 0.9646872,
+    "matched_soc_codes": [
+      "11-9199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9199"
+    ]
+  },
+  "2111": {
+    "aioe": 1.3597365,
+    "matched_soc_codes": [
+      "19-2011",
+      "19-2012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-2011",
+      "19-2012"
+    ]
+  },
+  "2112": {
+    "aioe": 1.373917,
+    "matched_soc_codes": [
+      "19-2021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-2021"
+    ]
+  },
+  "2113": {
+    "aioe": 0.76694105,
+    "matched_soc_codes": [
+      "19-2031",
+      "19-2032"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "19-2031",
+      "19-2032"
+    ]
+  },
+  "2114": {
+    "aioe": 0.6774276,
+    "matched_soc_codes": [
+      "19-2042",
+      "19-2043"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-2042",
+      "19-2043"
+    ]
+  },
+  "2120": {
+    "aioe": 1.4396134,
+    "matched_soc_codes": [
+      "15-2011",
+      "15-2021",
+      "15-2031",
+      "15-2041",
+      "19-3022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-2011",
+      "15-2021",
+      "15-2031",
+      "15-2041",
+      "19-3022"
+    ]
+  },
+  "2131": {
+    "aioe": 0.9014893333333333,
+    "matched_soc_codes": [
+      "19-1011",
+      "19-1012",
+      "19-1013",
+      "19-1021",
+      "19-1022",
+      "19-1023",
+      "19-1029",
+      "19-1041",
+      "19-1042"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "19-1011",
+      "19-1012",
+      "19-1013",
+      "19-1021",
+      "19-1022",
+      "19-1023",
+      "19-1029",
+      "19-1041",
+      "19-1042",
+      "19-1099"
+    ]
+  },
+  "2132": {
+    "aioe": 0.4360305666666666,
+    "matched_soc_codes": [
+      "19-1013",
+      "19-1032",
+      "25-9021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "19-1013",
+      "19-1032",
+      "25-9021"
+    ]
+  },
+  "2133": {
+    "aioe": 0.54157215,
+    "matched_soc_codes": [
+      "19-1031",
+      "19-2041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-1031",
+      "19-2041"
+    ]
+  },
+  "2141": {
+    "aioe": 1.13787,
+    "matched_soc_codes": [
+      "17-2112"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2112"
+    ]
+  },
+  "2142": {
+    "aioe": 1.282867,
+    "matched_soc_codes": [
+      "17-2051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2051"
+    ]
+  },
+  "2143": {
+    "aioe": 1.343561,
+    "matched_soc_codes": [
+      "17-2081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2081"
+    ]
+  },
+  "2144": {
+    "aioe": 0.957906975,
+    "matched_soc_codes": [
+      "17-2011",
+      "17-2021",
+      "17-2121",
+      "17-2141"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2011",
+      "17-2021",
+      "17-2121",
+      "17-2141"
+    ]
+  },
+  "2145": {
+    "aioe": 1.341336,
+    "matched_soc_codes": [
+      "17-2041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2041"
+    ]
+  },
+  "2146": {
+    "aioe": 1.166191,
+    "matched_soc_codes": [
+      "17-2131",
+      "17-2151",
+      "17-2171",
+      "19-2032"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "17-2131",
+      "17-2151",
+      "17-2171",
+      "19-2032"
+    ]
+  },
+  "2149": {
+    "aioe": 1.02203408,
+    "matched_soc_codes": [
+      "17-2031",
+      "17-2111",
+      "17-2131",
+      "17-2161",
+      "17-2199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-2031",
+      "17-2111",
+      "17-2131",
+      "17-2161",
+      "17-2199"
+    ]
+  },
+  "2151": {
+    "aioe": 1.126725,
+    "matched_soc_codes": [
+      "17-2071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-2071"
+    ]
+  },
+  "2152": {
+    "aioe": 0.9036349,
+    "matched_soc_codes": [
+      "17-2061",
+      "17-2072"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-2061",
+      "17-2072"
+    ]
+  },
+  "2153": {
+    "aioe": 0.6654578,
+    "matched_soc_codes": [
+      "17-2072"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-2072"
+    ]
+  },
+  "2161": {
+    "aioe": 1.047142,
+    "matched_soc_codes": [
+      "17-1011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-1011"
+    ]
+  },
+  "2162": {
+    "aioe": 1.034388,
+    "matched_soc_codes": [
+      "17-1012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-1012"
+    ]
+  },
+  "2163": {
+    "aioe": 0.7235964500000001,
+    "matched_soc_codes": [
+      "27-1021",
+      "27-1022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-1021",
+      "27-1022",
+      "27-1029"
+    ]
+  },
+  "2164": {
+    "aioe": 1.227516,
+    "matched_soc_codes": [
+      "19-3051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-3051"
+    ]
+  },
+  "2165": {
+    "aioe": 0.48152925,
+    "matched_soc_codes": [
+      "17-1021",
+      "17-1022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "17-1021",
+      "17-1022"
+    ]
+  },
+  "2166": {
+    "aioe": 0.71078045,
+    "matched_soc_codes": [
+      "27-1014",
+      "27-1024"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-1014",
+      "27-1024"
+    ]
+  },
+  "2211": {
+    "aioe": 0.978212075,
+    "matched_soc_codes": [
+      "29-1062",
+      "29-1063",
+      "29-1065",
+      "29-1069"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-1062",
+      "29-1063",
+      "29-1065",
+      "29-1069"
+    ]
+  },
+  "2212": {
+    "aioe": 0.49084064000000005,
+    "matched_soc_codes": [
+      "29-1061",
+      "29-1064",
+      "29-1066",
+      "29-1067",
+      "29-1069"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-1061",
+      "29-1064",
+      "29-1066",
+      "29-1067",
+      "29-1069"
+    ]
+  },
+  "2221": {
+    "aioe": 0.22026199999999999,
+    "matched_soc_codes": [
+      "29-1141",
+      "29-1151",
+      "29-1171"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1141",
+      "29-1151",
+      "29-1171"
+    ]
+  },
+  "2222": {
+    "aioe": 0.1966265,
+    "matched_soc_codes": [
+      "29-1161"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1161"
+    ]
+  },
+  "2230": {
+    "aioe": 0.7109566,
+    "matched_soc_codes": [
+      "29-1199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-1199"
+    ]
+  },
+  "2240": {
+    "aioe": 0.1059147,
+    "matched_soc_codes": [
+      "29-1071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1071"
+    ]
+  },
+  "2250": {
+    "aioe": -0.0749958,
+    "matched_soc_codes": [
+      "29-1131"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1131"
+    ]
+  },
+  "2261": {
+    "aioe": -0.103693525,
+    "matched_soc_codes": [
+      "29-1021",
+      "29-1022",
+      "29-1023",
+      "29-1024"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1021",
+      "29-1022",
+      "29-1023",
+      "29-1024",
+      "29-1029"
+    ]
+  },
+  "2262": {
+    "aioe": 0.6058705,
+    "matched_soc_codes": [
+      "29-1051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1051"
+    ]
+  },
+  "2263": {
+    "aioe": 0.76329755,
+    "matched_soc_codes": [
+      "21-1091",
+      "29-9011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-1091",
+      "29-9011"
+    ]
+  },
+  "2264": {
+    "aioe": -0.19569115,
+    "matched_soc_codes": [
+      "29-1123",
+      "29-1128"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1123",
+      "29-1128"
+    ]
+  },
+  "2265": {
+    "aioe": 1.342809,
+    "matched_soc_codes": [
+      "29-1031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1031"
+    ]
+  },
+  "2266": {
+    "aioe": 0.88958665,
+    "matched_soc_codes": [
+      "29-1127",
+      "29-1181"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1127",
+      "29-1181"
+    ]
+  },
+  "2267": {
+    "aioe": 0.5040194,
+    "matched_soc_codes": [
+      "29-1041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1041"
+    ]
+  },
+  "2269": {
+    "aioe": 0.5015898,
+    "matched_soc_codes": [
+      "29-1011",
+      "29-1081",
+      "29-1122",
+      "29-1125",
+      "29-1199",
+      "29-9092"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-1011",
+      "29-1081",
+      "29-1122",
+      "29-1125",
+      "29-1129",
+      "29-1199",
+      "29-9092"
+    ]
+  },
+  "2310": {
+    "aioe": 1.2398400742857143,
+    "matched_soc_codes": [
+      "25-1011",
+      "25-1021",
+      "25-1022",
+      "25-1031",
+      "25-1032",
+      "25-1041",
+      "25-1042",
+      "25-1043",
+      "25-1051",
+      "25-1052",
+      "25-1053",
+      "25-1054",
+      "25-1061",
+      "25-1062",
+      "25-1063",
+      "25-1064",
+      "25-1065",
+      "25-1066",
+      "25-1067",
+      "25-1071",
+      "25-1072",
+      "25-1081",
+      "25-1082",
+      "25-1111",
+      "25-1112",
+      "25-1113",
+      "25-1121",
+      "25-1122",
+      "25-1123",
+      "25-1124",
+      "25-1125",
+      "25-1126",
+      "25-1191",
+      "25-1192",
+      "25-1193"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-1011",
+      "25-1021",
+      "25-1022",
+      "25-1031",
+      "25-1032",
+      "25-1041",
+      "25-1042",
+      "25-1043",
+      "25-1051",
+      "25-1052",
+      "25-1053",
+      "25-1054",
+      "25-1061",
+      "25-1062",
+      "25-1063",
+      "25-1064",
+      "25-1065",
+      "25-1066",
+      "25-1067",
+      "25-1069",
+      "25-1071",
+      "25-1072",
+      "25-1081",
+      "25-1082",
+      "25-1111",
+      "25-1112",
+      "25-1113",
+      "25-1121",
+      "25-1122",
+      "25-1123",
+      "25-1124",
+      "25-1125",
+      "25-1126",
+      "25-1191",
+      "25-1192",
+      "25-1193",
+      "25-1199"
+    ]
+  },
+  "2320": {
+    "aioe": 0.35186270000000003,
+    "matched_soc_codes": [
+      "25-1194",
+      "25-2023",
+      "25-2032"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-1194",
+      "25-2023",
+      "25-2032"
+    ]
+  },
+  "2330": {
+    "aioe": 1.191325,
+    "matched_soc_codes": [
+      "25-2031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-2031"
+    ]
+  },
+  "2341": {
+    "aioe": 1.0866970500000002,
+    "matched_soc_codes": [
+      "25-2021",
+      "25-2022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-2021",
+      "25-2022"
+    ]
+  },
+  "2342": {
+    "aioe": 0.19752095,
+    "matched_soc_codes": [
+      "25-2011",
+      "25-2012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-2011",
+      "25-2012"
+    ]
+  },
+  "2351": {
+    "aioe": 1.301855,
+    "matched_soc_codes": [
+      "25-9031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-9031"
+    ]
+  },
+  "2352": {
+    "aioe": 0.5404701199999999,
+    "matched_soc_codes": [
+      "25-2051",
+      "25-2052",
+      "25-2053",
+      "25-2054",
+      "25-2059"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-2051",
+      "25-2052",
+      "25-2053",
+      "25-2054",
+      "25-2059"
+    ]
+  },
+  "2353": {
+    "aioe": 1.0668776666666666,
+    "matched_soc_codes": [
+      "25-3011",
+      "25-3021",
+      "25-3099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "25-3011",
+      "25-3021",
+      "25-3099"
+    ]
+  },
+  "2354": {
+    "aioe": 0.526352,
+    "matched_soc_codes": [
+      "25-3021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "25-3021"
+    ]
+  },
+  "2355": {
+    "aioe": 0.9258409999999999,
+    "matched_soc_codes": [
+      "25-3021",
+      "25-3099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "25-3021",
+      "25-3099"
+    ]
+  },
+  "2356": {
+    "aioe": 1.198409,
+    "matched_soc_codes": [
+      "13-1151"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1151"
+    ]
+  },
+  "2359": {
+    "aioe": 1.1496293499999999,
+    "matched_soc_codes": [
+      "21-1012",
+      "25-3099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "21-1012",
+      "25-3099",
+      "25-9099"
+    ]
+  },
+  "2411": {
+    "aioe": 1.4262179999999998,
+    "matched_soc_codes": [
+      "13-2011",
+      "13-2031",
+      "13-2082"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-2011",
+      "13-2031",
+      "13-2082"
+    ]
+  },
+  "2412": {
+    "aioe": 1.390682,
+    "matched_soc_codes": [
+      "13-2051",
+      "13-2052"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-2051",
+      "13-2052"
+    ]
+  },
+  "2413": {
+    "aioe": 1.4173156666666664,
+    "matched_soc_codes": [
+      "13-2041",
+      "13-2051",
+      "13-2061"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-2041",
+      "13-2051",
+      "13-2061"
+    ]
+  },
+  "2421": {
+    "aioe": 1.3648600000000002,
+    "matched_soc_codes": [
+      "13-1081",
+      "13-1111"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-1081",
+      "13-1111"
+    ]
+  },
+  "2422": {
+    "aioe": 1.047687,
+    "matched_soc_codes": [
+      "13-1199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1199"
+    ]
+  },
+  "2423": {
+    "aioe": 1.277449425,
+    "matched_soc_codes": [
+      "13-1071",
+      "13-1075",
+      "13-1141",
+      "21-1012"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "13-1071",
+      "13-1075",
+      "13-1141",
+      "21-1012"
+    ]
+  },
+  "2424": {
+    "aioe": 1.198409,
+    "matched_soc_codes": [
+      "13-1151"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1151"
+    ]
+  },
+  "2431": {
+    "aioe": 1.2073422,
+    "matched_soc_codes": [
+      "13-1161",
+      "27-3043"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1161",
+      "27-3043"
+    ]
+  },
+  "2432": {
+    "aioe": 1.284927,
+    "matched_soc_codes": [
+      "27-3031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-3031"
+    ]
+  },
+  "2433": {
+    "aioe": 1.1036967500000001,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-4011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-1012",
+      "41-4011"
+    ]
+  },
+  "2434": {
+    "aioe": 1.1176031666666668,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-4011",
+      "41-9031"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-1012",
+      "41-4011",
+      "41-9031"
+    ]
+  },
+  "2511": {
+    "aioe": 1.1762095000000001,
+    "matched_soc_codes": [
+      "15-1111",
+      "15-1121"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1111",
+      "15-1121"
+    ]
+  },
+  "2512": {
+    "aioe": 1.2421155,
+    "matched_soc_codes": [
+      "15-1132",
+      "15-1133"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1132",
+      "15-1133"
+    ]
+  },
+  "2513": {
+    "aioe": 1.089463,
+    "matched_soc_codes": [
+      "15-1134"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "15-1134"
+    ]
+  },
+  "2514": {
+    "aioe": 1.271506,
+    "matched_soc_codes": [
+      "15-1131"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1131"
+    ]
+  },
+  "2519": {
+    "aioe": 1.232705,
+    "matched_soc_codes": [
+      "15-1199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "15-1199"
+    ]
+  },
+  "2521": {
+    "aioe": 1.284863,
+    "matched_soc_codes": [
+      "15-1141"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1141"
+    ]
+  },
+  "2522": {
+    "aioe": 0.7895315,
+    "matched_soc_codes": [
+      "15-1142"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "15-1142"
+    ]
+  },
+  "2523": {
+    "aioe": 0.5803306,
+    "matched_soc_codes": [
+      "15-1143"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1143"
+    ]
+  },
+  "2529": {
+    "aioe": 1.2414255,
+    "matched_soc_codes": [
+      "15-1122",
+      "15-1199"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "15-1122",
+      "15-1199"
+    ]
+  },
+  "2611": {
+    "aioe": 1.328783,
+    "matched_soc_codes": [
+      "23-1011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "23-1011"
+    ]
+  },
+  "2612": {
+    "aioe": 1.435604,
+    "matched_soc_codes": [
+      "23-1021",
+      "23-1023"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "23-1021",
+      "23-1023"
+    ]
+  },
+  "2619": {
+    "aioe": 1.431593,
+    "matched_soc_codes": [
+      "23-1022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "23-1022"
+    ]
+  },
+  "2621": {
+    "aioe": 0.7066129999999999,
+    "matched_soc_codes": [
+      "25-4011",
+      "25-4012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-4011",
+      "25-4012"
+    ]
+  },
+  "2622": {
+    "aioe": 0.7439546,
+    "matched_soc_codes": [
+      "25-4021",
+      "25-9011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-4021",
+      "25-9011"
+    ]
+  },
+  "2631": {
+    "aioe": 1.403764,
+    "matched_soc_codes": [
+      "19-3011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-3011"
+    ]
+  },
+  "2632": {
+    "aioe": 1.1813298333333335,
+    "matched_soc_codes": [
+      "19-3041",
+      "19-3091",
+      "19-3092"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-3041",
+      "19-3091",
+      "19-3092"
+    ]
+  },
+  "2633": {
+    "aioe": 1.281944,
+    "matched_soc_codes": [
+      "19-3093",
+      "19-3094",
+      "19-3099"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "19-3093",
+      "19-3094",
+      "19-3099"
+    ]
+  },
+  "2634": {
+    "aioe": 1.4162299999999999,
+    "matched_soc_codes": [
+      "19-3031",
+      "19-3032",
+      "19-3039"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-3031",
+      "19-3032",
+      "19-3039"
+    ]
+  },
+  "2635": {
+    "aioe": 0.9499703374999999,
+    "matched_soc_codes": [
+      "21-1011",
+      "21-1013",
+      "21-1014",
+      "21-1015",
+      "21-1021",
+      "21-1022",
+      "21-1023",
+      "21-1092"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-1011",
+      "21-1013",
+      "21-1014",
+      "21-1015",
+      "21-1019",
+      "21-1021",
+      "21-1022",
+      "21-1023",
+      "21-1029",
+      "21-1092",
+      "21-1099"
+    ]
+  },
+  "2636": {
+    "aioe": 1.2467405,
+    "matched_soc_codes": [
+      "21-2011",
+      "21-2021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-2011",
+      "21-2021"
+    ]
+  },
+  "2641": {
+    "aioe": 1.1000498,
+    "matched_soc_codes": [
+      "27-3041",
+      "27-3042",
+      "27-3043"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "27-3041",
+      "27-3042",
+      "27-3043"
+    ]
+  },
+  "2642": {
+    "aioe": 1.1574499999999999,
+    "matched_soc_codes": [
+      "27-3022",
+      "27-3041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-3022",
+      "27-3041"
+    ]
+  },
+  "2643": {
+    "aioe": 1.2196835,
+    "matched_soc_codes": [
+      "19-3099",
+      "27-3091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "19-3099",
+      "27-3091"
+    ]
+  },
+  "2651": {
+    "aioe": -0.7492891,
+    "matched_soc_codes": [
+      "27-1012",
+      "27-1013"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "27-1012",
+      "27-1013"
+    ]
+  },
+  "2652": {
+    "aioe": 0.43947915000000004,
+    "matched_soc_codes": [
+      "27-2041",
+      "27-2042"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-2041",
+      "27-2042"
+    ]
+  },
+  "2653": {
+    "aioe": -2.1227635,
+    "matched_soc_codes": [
+      "27-2031",
+      "27-2032"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-2031",
+      "27-2032"
+    ]
+  },
+  "2654": {
+    "aioe": 0.9823426,
+    "matched_soc_codes": [
+      "27-1011",
+      "27-2012",
+      "27-4032"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-1011",
+      "27-2012",
+      "27-4032"
+    ]
+  },
+  "2655": {
+    "aioe": 0.1590935,
+    "matched_soc_codes": [
+      "27-2011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-2011"
+    ]
+  },
+  "2656": {
+    "aioe": 0.8926460666666666,
+    "matched_soc_codes": [
+      "27-3011",
+      "27-3012",
+      "27-3021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-3011",
+      "27-3012",
+      "27-3021"
+    ]
+  },
+  "2659": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-2099"
+    ]
+  },
+  "3111": {
+    "aioe": 0.19872533333333334,
+    "matched_soc_codes": [
+      "19-4031",
+      "19-4041",
+      "19-4099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "19-4031",
+      "19-4041",
+      "19-4099"
+    ]
+  },
+  "3112": {
+    "aioe": 0.15467016,
+    "matched_soc_codes": [
+      "17-3022",
+      "17-3031",
+      "33-1021",
+      "33-2021",
+      "47-4011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "17-3022",
+      "17-3031",
+      "33-1021",
+      "33-2021",
+      "47-4011"
+    ]
+  },
+  "3113": {
+    "aioe": 0.023737249999999988,
+    "matched_soc_codes": [
+      "17-3023",
+      "17-3024"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "17-3023",
+      "17-3024"
+    ]
+  },
+  "3114": {
+    "aioe": 0.3515252,
+    "matched_soc_codes": [
+      "17-3023"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-3023"
+    ]
+  },
+  "3115": {
+    "aioe": 0.04044515,
+    "matched_soc_codes": [
+      "17-3021",
+      "17-3024",
+      "17-3027",
+      "17-3029"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "17-3021",
+      "17-3024",
+      "17-3027",
+      "17-3029"
+    ]
+  },
+  "3116": {
+    "aioe": 0.1941278,
+    "matched_soc_codes": [
+      "17-3029"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-3029"
+    ]
+  },
+  "3117": {
+    "aioe": 0.13869684999999998,
+    "matched_soc_codes": [
+      "17-3029",
+      "19-4041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "17-3029",
+      "19-4041"
+    ]
+  },
+  "3118": {
+    "aioe": 0.52637895,
+    "matched_soc_codes": [
+      "17-3011",
+      "17-3012",
+      "17-3013",
+      "27-1013"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-3011",
+      "17-3012",
+      "17-3013",
+      "17-3019",
+      "27-1013"
+    ]
+  },
+  "3119": {
+    "aioe": 0.13633781,
+    "matched_soc_codes": [
+      "17-3025",
+      "17-3026",
+      "17-3029",
+      "19-4051",
+      "19-4092",
+      "19-4099",
+      "33-1021",
+      "33-2021",
+      "33-2022",
+      "53-6041"
+    ],
+    "partial_mapping_count": 4,
+    "soc_codes": [
+      "17-3025",
+      "17-3026",
+      "17-3029",
+      "19-4051",
+      "19-4092",
+      "19-4099",
+      "33-1021",
+      "33-2021",
+      "33-2022",
+      "53-6041"
+    ]
+  },
+  "3121": {
+    "aioe": -0.3054048,
+    "matched_soc_codes": [
+      "47-1011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-1011"
+    ]
+  },
+  "3122": {
+    "aioe": -0.0845282,
+    "matched_soc_codes": [
+      "51-1011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-1011"
+    ]
+  },
+  "3123": {
+    "aioe": -0.3054048,
+    "matched_soc_codes": [
+      "47-1011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-1011"
+    ]
+  },
+  "3131": {
+    "aioe": 0.20973637500000003,
+    "matched_soc_codes": [
+      "51-1011",
+      "51-8011",
+      "51-8012",
+      "51-8013"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-1011",
+      "51-8011",
+      "51-8012",
+      "51-8013"
+    ]
+  },
+  "3132": {
+    "aioe": -0.5105173999999999,
+    "matched_soc_codes": [
+      "51-1011",
+      "51-8031",
+      "51-8099",
+      "53-7072"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "51-1011",
+      "51-8031",
+      "51-8099",
+      "53-7072"
+    ]
+  },
+  "3133": {
+    "aioe": -0.3831282,
+    "matched_soc_codes": [
+      "51-8091"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-8091"
+    ]
+  },
+  "3134": {
+    "aioe": -0.550384025,
+    "matched_soc_codes": [
+      "51-8092",
+      "51-8093",
+      "53-7071",
+      "53-7072"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-8092",
+      "51-8093",
+      "53-7071",
+      "53-7072"
+    ]
+  },
+  "3135": {
+    "aioe": -1.167465,
+    "matched_soc_codes": [
+      "51-4051"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-4051"
+    ]
+  },
+  "3139": {
+    "aioe": -0.0241824,
+    "matched_soc_codes": [
+      "51-4012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-4012"
+    ]
+  },
+  "3141": {
+    "aioe": 0.15909035,
+    "matched_soc_codes": [
+      "19-4021",
+      "19-4091"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-4021",
+      "19-4091"
+    ]
+  },
+  "3142": {
+    "aioe": 0.095719,
+    "matched_soc_codes": [
+      "19-4011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-4011"
+    ]
+  },
+  "3143": {
+    "aioe": -0.6672396,
+    "matched_soc_codes": [
+      "19-4093"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "19-4093"
+    ]
+  },
+  "3151": {
+    "aioe": -0.1899353,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-5031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-5031"
+    ]
+  },
+  "3152": {
+    "aioe": -0.14078115,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-5021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-5021"
+    ]
+  },
+  "3153": {
+    "aioe": -0.08072376666666668,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-2011",
+      "53-2012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-2011",
+      "53-2012"
+    ]
+  },
+  "3154": {
+    "aioe": 0.64971125,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-2021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-2021"
+    ]
+  },
+  "3155": {
+    "aioe": 0.3515252,
+    "matched_soc_codes": [
+      "17-3023"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-3023"
+    ]
+  },
+  "3211": {
+    "aioe": -0.20522642000000002,
+    "matched_soc_codes": [
+      "29-1124",
+      "29-2032",
+      "29-2033",
+      "29-2034",
+      "29-2035"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-1124",
+      "29-2032",
+      "29-2033",
+      "29-2034",
+      "29-2035"
+    ]
+  },
+  "3212": {
+    "aioe": 0.07723760000000002,
+    "matched_soc_codes": [
+      "29-2011",
+      "29-2012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2011",
+      "29-2012"
+    ]
+  },
+  "3213": {
+    "aioe": 0.0070256,
+    "matched_soc_codes": [
+      "29-2052"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2052"
+    ]
+  },
+  "3214": {
+    "aioe": 0.034459775,
+    "matched_soc_codes": [
+      "29-2091",
+      "29-2092",
+      "51-9081",
+      "51-9082"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2091",
+      "29-2092",
+      "51-9081",
+      "51-9082"
+    ]
+  },
+  "3221": {
+    "aioe": -0.5137373,
+    "matched_soc_codes": [
+      "29-2061"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2061"
+    ]
+  },
+  "3222": {
+    "aioe": 0.2295568,
+    "matched_soc_codes": [
+      "29-9099"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-9099"
+    ]
+  },
+  "3230": {
+    "aioe": 0.2295568,
+    "matched_soc_codes": [
+      "29-9099"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-9099"
+    ]
+  },
+  "3240": {
+    "aioe": -0.56795015,
+    "matched_soc_codes": [
+      "29-2056",
+      "31-9096"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-2056",
+      "31-9096"
+    ]
+  },
+  "3251": {
+    "aioe": -0.47169194999999997,
+    "matched_soc_codes": [
+      "29-2021",
+      "31-9091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-2021",
+      "31-9091"
+    ]
+  },
+  "3252": {
+    "aioe": 0.5738765,
+    "matched_soc_codes": [
+      "29-2071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2071"
+    ]
+  },
+  "3253": {
+    "aioe": 0.0371229,
+    "matched_soc_codes": [
+      "21-1094"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-1094"
+    ]
+  },
+  "3254": {
+    "aioe": 0.1013966,
+    "matched_soc_codes": [
+      "29-2081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2081"
+    ]
+  },
+  "3255": {
+    "aioe": -0.41004330000000005,
+    "matched_soc_codes": [
+      "29-1199",
+      "31-2021",
+      "31-9011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "29-1199",
+      "31-2021",
+      "31-9011"
+    ]
+  },
+  "3256": {
+    "aioe": 0.11426285,
+    "matched_soc_codes": [
+      "29-2057",
+      "31-9092"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2057",
+      "31-9092"
+    ]
+  },
+  "3257": {
+    "aioe": 0.13325944999999997,
+    "matched_soc_codes": [
+      "29-9012",
+      "45-2011",
+      "53-1031",
+      "53-6051"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "29-9012",
+      "45-2011",
+      "53-1031",
+      "53-6051"
+    ]
+  },
+  "3258": {
+    "aioe": -0.6863446,
+    "matched_soc_codes": [
+      "29-2041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "29-2041"
+    ]
+  },
+  "3259": {
+    "aioe": -0.14181405,
+    "matched_soc_codes": [
+      "29-1126",
+      "29-2031",
+      "29-2051",
+      "29-2053",
+      "29-2054",
+      "29-2055",
+      "29-2099",
+      "29-9099",
+      "31-2011",
+      "31-9099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "29-1126",
+      "29-2031",
+      "29-2051",
+      "29-2053",
+      "29-2054",
+      "29-2055",
+      "29-2099",
+      "29-9099",
+      "31-2011",
+      "31-9099"
+    ]
+  },
+  "3311": {
+    "aioe": 1.2862464999999998,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-3031"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-1012",
+      "41-3031"
+    ]
+  },
+  "3312": {
+    "aioe": 1.38556,
+    "matched_soc_codes": [
+      "13-2071",
+      "13-2072"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-2071",
+      "13-2072"
+    ]
+  },
+  "3313": {
+    "aioe": 1.039749,
+    "matched_soc_codes": [
+      "43-3031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-3031"
+    ]
+  },
+  "3314": {
+    "aioe": 1.1168657666666666,
+    "matched_soc_codes": [
+      "15-2091",
+      "19-4061",
+      "43-9111"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-2091",
+      "15-2099",
+      "19-4061",
+      "43-9111"
+    ]
+  },
+  "3315": {
+    "aioe": 0.9262799333333334,
+    "matched_soc_codes": [
+      "13-1031",
+      "13-1032",
+      "13-2021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-1031",
+      "13-1032",
+      "13-2021"
+    ]
+  },
+  "3321": {
+    "aioe": 1.3280349999999999,
+    "matched_soc_codes": [
+      "13-2053",
+      "41-1012",
+      "41-3021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-2053",
+      "41-1012",
+      "41-3021"
+    ]
+  },
+  "3322": {
+    "aioe": 1.0831339,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-3099",
+      "41-4011",
+      "41-4012"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-1012",
+      "41-3099",
+      "41-4011",
+      "41-4012"
+    ]
+  },
+  "3323": {
+    "aioe": 1.0322373999999999,
+    "matched_soc_codes": [
+      "13-1021",
+      "13-1022",
+      "13-1023"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-1021",
+      "13-1022",
+      "13-1023"
+    ]
+  },
+  "3324": {
+    "aioe": 1.3259693333333333,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-3031",
+      "43-5011"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "41-1012",
+      "41-3031",
+      "43-5011"
+    ]
+  },
+  "3331": {
+    "aioe": 0.32954685000000006,
+    "matched_soc_codes": [
+      "43-5011",
+      "43-5071"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-5011",
+      "43-5071"
+    ]
+  },
+  "3332": {
+    "aioe": 0.3740207,
+    "matched_soc_codes": [
+      "13-1121"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-1121"
+    ]
+  },
+  "3333": {
+    "aioe": 0.46232375,
+    "matched_soc_codes": [
+      "13-1071",
+      "13-1074"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1071",
+      "13-1074"
+    ]
+  },
+  "3334": {
+    "aioe": 1.136554125,
+    "matched_soc_codes": [
+      "11-9141",
+      "41-1012",
+      "41-9021",
+      "41-9022"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9141",
+      "41-1012",
+      "41-9021",
+      "41-9022"
+    ]
+  },
+  "3339": {
+    "aioe": 1.208236857142857,
+    "matched_soc_codes": [
+      "13-1011",
+      "13-1051",
+      "13-1199",
+      "13-2099",
+      "41-1012",
+      "41-3011",
+      "41-3041"
+    ],
+    "partial_mapping_count": 4,
+    "soc_codes": [
+      "13-1011",
+      "13-1051",
+      "13-1199",
+      "13-2099",
+      "41-1012",
+      "41-3011",
+      "41-3041",
+      "41-9099"
+    ]
+  },
+  "3341": {
+    "aioe": 1.038688,
+    "matched_soc_codes": [
+      "43-1011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-1011"
+    ]
+  },
+  "3342": {
+    "aioe": 1.014541,
+    "matched_soc_codes": [
+      "43-6012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-6012"
+    ]
+  },
+  "3343": {
+    "aioe": 0.9574445,
+    "matched_soc_codes": [
+      "23-2091",
+      "43-6011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "23-2091",
+      "43-6011"
+    ]
+  },
+  "3344": {
+    "aioe": 1.140286,
+    "matched_soc_codes": [
+      "31-9094",
+      "43-6013"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "31-9094",
+      "43-6013"
+    ]
+  },
+  "3351": {
+    "aioe": -0.05410719999999999,
+    "matched_soc_codes": [
+      "13-1041",
+      "33-1012",
+      "33-3051"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "13-1041",
+      "33-1012",
+      "33-3051"
+    ]
+  },
+  "3352": {
+    "aioe": 1.36682,
+    "matched_soc_codes": [
+      "13-2081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-2081"
+    ]
+  },
+  "3353": {
+    "aioe": 0.96220325,
+    "matched_soc_codes": [
+      "13-1041",
+      "43-4061"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "13-1041",
+      "43-4061"
+    ]
+  },
+  "3354": {
+    "aioe": 0.9321937499999999,
+    "matched_soc_codes": [
+      "13-1041",
+      "43-4031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "13-1041",
+      "43-4031"
+    ]
+  },
+  "3355": {
+    "aioe": 0.016719899999999996,
+    "matched_soc_codes": [
+      "33-1012",
+      "33-3021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "33-1012",
+      "33-3021"
+    ]
+  },
+  "3359": {
+    "aioe": 0.1704867,
+    "matched_soc_codes": [
+      "45-2011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "45-2011"
+    ]
+  },
+  "3411": {
+    "aioe": 0.8335613000000001,
+    "matched_soc_codes": [
+      "23-1012",
+      "23-2011",
+      "23-2093",
+      "33-3011",
+      "33-9021",
+      "33-9031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "23-1012",
+      "23-2011",
+      "23-2093",
+      "23-2099",
+      "33-3011",
+      "33-9021",
+      "33-9031"
+    ]
+  },
+  "3412": {
+    "aioe": 0.4652255,
+    "matched_soc_codes": [
+      "21-1093"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-1093"
+    ]
+  },
+  "3413": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "21-2099"
+    ]
+  },
+  "3421": {
+    "aioe": -1.814336,
+    "matched_soc_codes": [
+      "27-2021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-2021"
+    ]
+  },
+  "3422": {
+    "aioe": 0.20355236666666668,
+    "matched_soc_codes": [
+      "25-3021",
+      "27-2022",
+      "27-2023"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "25-3021",
+      "27-2022",
+      "27-2023"
+    ]
+  },
+  "3423": {
+    "aioe": -0.3716062,
+    "matched_soc_codes": [
+      "25-3021",
+      "29-9091",
+      "39-1021",
+      "39-9031"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "25-3021",
+      "29-9091",
+      "39-1021",
+      "39-9031"
+    ]
+  },
+  "3431": {
+    "aioe": -0.1680973,
+    "matched_soc_codes": [
+      "27-4021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-4021"
+    ]
+  },
+  "3432": {
+    "aioe": 0.0227782333333333,
+    "matched_soc_codes": [
+      "27-1025",
+      "27-1026",
+      "27-1027"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-1025",
+      "27-1026",
+      "27-1027"
+    ]
+  },
+  "3433": {
+    "aioe": -0.3275913666666667,
+    "matched_soc_codes": [
+      "25-4013",
+      "25-4031",
+      "27-1012"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "25-4013",
+      "25-4031",
+      "27-1012"
+    ]
+  },
+  "3434": {
+    "aioe": -0.26259625,
+    "matched_soc_codes": [
+      "35-1011",
+      "35-1012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "35-1011",
+      "35-1012"
+    ]
+  },
+  "3435": {
+    "aioe": -0.4533608,
+    "matched_soc_codes": [
+      "39-3092"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "27-1019",
+      "27-2099",
+      "27-3099",
+      "27-4099",
+      "39-3092",
+      "39-3099"
+    ]
+  },
+  "3511": {
+    "aioe": 0.7040519,
+    "matched_soc_codes": [
+      "43-9011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-9011"
+    ]
+  },
+  "3512": {
+    "aioe": 0.299343,
+    "matched_soc_codes": [
+      "15-1151"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1151"
+    ]
+  },
+  "3513": {
+    "aioe": 0.7860606,
+    "matched_soc_codes": [
+      "15-1152"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "15-1152"
+    ]
+  },
+  "3514": {
+    "aioe": 0.9394972500000001,
+    "matched_soc_codes": [
+      "15-1134",
+      "15-1142"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "15-1134",
+      "15-1142"
+    ]
+  },
+  "3521": {
+    "aioe": 0.2122243,
+    "matched_soc_codes": [
+      "27-4011",
+      "27-4012",
+      "27-4013",
+      "27-4014",
+      "27-4031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-4011",
+      "27-4012",
+      "27-4013",
+      "27-4014",
+      "27-4031",
+      "27-4099"
+    ]
+  },
+  "3522": {
+    "aioe": 0.3515252,
+    "matched_soc_codes": [
+      "17-3023"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "17-3023"
+    ]
+  },
+  "4110": {
+    "aioe": 1.2383682999999999,
+    "matched_soc_codes": [
+      "43-3061",
+      "43-9061"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-3061",
+      "43-9061"
+    ]
+  },
+  "4120": {
+    "aioe": 1.099056,
+    "matched_soc_codes": [
+      "43-6014"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-6014"
+    ]
+  },
+  "4131": {
+    "aioe": 0.6219606,
+    "matched_soc_codes": [
+      "43-9022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-9022"
+    ]
+  },
+  "4132": {
+    "aioe": 0.3108081,
+    "matched_soc_codes": [
+      "43-9021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-9021"
+    ]
+  },
+  "4211": {
+    "aioe": -0.022963700000000004,
+    "matched_soc_codes": [
+      "43-3071",
+      "43-5051"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-3071",
+      "43-5051"
+    ]
+  },
+  "4212": {
+    "aioe": 0.38393940000000004,
+    "matched_soc_codes": [
+      "39-1011",
+      "39-1012",
+      "39-3011",
+      "39-3012",
+      "43-3041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "39-1011",
+      "39-1012",
+      "39-3011",
+      "39-3012",
+      "39-3019",
+      "43-3041"
+    ]
+  },
+  "4213": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-9099",
+      "43-3099"
+    ]
+  },
+  "4214": {
+    "aioe": 1.257279,
+    "matched_soc_codes": [
+      "13-1131",
+      "43-3011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "13-1131",
+      "43-3011"
+    ]
+  },
+  "4221": {
+    "aioe": 0.8923683333333333,
+    "matched_soc_codes": [
+      "41-1012",
+      "41-3041",
+      "43-4181"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "41-1012",
+      "41-3041",
+      "43-4181"
+    ]
+  },
+  "4222": {
+    "aioe": 0.98471895,
+    "matched_soc_codes": [
+      "43-4051",
+      "43-4171"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-4051",
+      "43-4171"
+    ]
+  },
+  "4223": {
+    "aioe": 1.0014882,
+    "matched_soc_codes": [
+      "43-2011",
+      "43-2021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-2011",
+      "43-2021"
+    ]
+  },
+  "4224": {
+    "aioe": 0.73107235,
+    "matched_soc_codes": [
+      "39-6012",
+      "43-4081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "39-6012",
+      "43-4081"
+    ]
+  },
+  "4225": {
+    "aioe": 1.081472,
+    "matched_soc_codes": [
+      "43-4021",
+      "43-4171"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-4021",
+      "43-4171"
+    ]
+  },
+  "4226": {
+    "aioe": 1.013186,
+    "matched_soc_codes": [
+      "43-4171"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-4171"
+    ]
+  },
+  "4227": {
+    "aioe": 1.297031,
+    "matched_soc_codes": [
+      "43-4111"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-4111"
+    ]
+  },
+  "4229": {
+    "aioe": 1.226286,
+    "matched_soc_codes": [
+      "43-4061"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-2099",
+      "43-4061",
+      "43-4199"
+    ]
+  },
+  "4311": {
+    "aioe": 1.1866020000000002,
+    "matched_soc_codes": [
+      "43-3021",
+      "43-3031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-3021",
+      "43-3031"
+    ]
+  },
+  "4312": {
+    "aioe": 1.2729534,
+    "matched_soc_codes": [
+      "43-4011",
+      "43-4041",
+      "43-4131",
+      "43-4141",
+      "43-9041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-3099",
+      "43-4011",
+      "43-4041",
+      "43-4131",
+      "43-4141",
+      "43-9041"
+    ]
+  },
+  "4313": {
+    "aioe": 1.257632,
+    "matched_soc_codes": [
+      "43-3051"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-3051"
+    ]
+  },
+  "4321": {
+    "aioe": -0.5738983333333333,
+    "matched_soc_codes": [
+      "43-5071",
+      "43-5081",
+      "43-5111"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-5071",
+      "43-5081",
+      "43-5111"
+    ]
+  },
+  "4322": {
+    "aioe": 0.6999103,
+    "matched_soc_codes": [
+      "43-5061"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-5061"
+    ]
+  },
+  "4323": {
+    "aioe": 1.234523,
+    "matched_soc_codes": [
+      "43-5032"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-5032"
+    ]
+  },
+  "4411": {
+    "aioe": 0.12092844999999999,
+    "matched_soc_codes": [
+      "25-4031",
+      "43-4121"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "25-4031",
+      "43-4121"
+    ]
+  },
+  "4412": {
+    "aioe": -0.9091991800000001,
+    "matched_soc_codes": [
+      "43-5021",
+      "43-5051",
+      "43-5052",
+      "43-5053",
+      "43-9051"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-5021",
+      "43-5051",
+      "43-5052",
+      "43-5053",
+      "43-9051"
+    ]
+  },
+  "4413": {
+    "aioe": 1.288375,
+    "matched_soc_codes": [
+      "43-9081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-9081"
+    ]
+  },
+  "4414": {
+    "aioe": -0.07173494999999999,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-9021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "39-1021",
+      "39-9021"
+    ]
+  },
+  "4415": {
+    "aioe": -0.11658304999999997,
+    "matched_soc_codes": [
+      "43-4071",
+      "43-9071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-4071",
+      "43-9071"
+    ]
+  },
+  "4416": {
+    "aioe": 1.353098,
+    "matched_soc_codes": [
+      "43-4161"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-4161"
+    ]
+  },
+  "4419": {
+    "aioe": 0.9943220500000001,
+    "matched_soc_codes": [
+      "43-4021",
+      "43-4151"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-4021",
+      "43-4151",
+      "43-4199",
+      "43-9199"
+    ]
+  },
+  "5111": {
+    "aioe": -0.3302395666666667,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-2031",
+      "53-6061"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-1031",
+      "53-2031",
+      "53-6061"
+    ]
+  },
+  "5112": {
+    "aioe": -0.11430019999999999,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-6061"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-1031",
+      "53-6061"
+    ]
+  },
+  "5113": {
+    "aioe": 0.4652621333333333,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-7011",
+      "39-7012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "39-1021",
+      "39-7011",
+      "39-7012"
+    ]
+  },
+  "5120": {
+    "aioe": -0.6031166,
+    "matched_soc_codes": [
+      "35-1012",
+      "35-2012",
+      "35-2013",
+      "35-2014",
+      "35-2015"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "35-1012",
+      "35-2012",
+      "35-2013",
+      "35-2014",
+      "35-2015",
+      "35-2019"
+    ]
+  },
+  "5131": {
+    "aioe": -0.83756045,
+    "matched_soc_codes": [
+      "35-3031",
+      "35-3041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "35-3031",
+      "35-3041"
+    ]
+  },
+  "5132": {
+    "aioe": -0.6159883,
+    "matched_soc_codes": [
+      "35-3011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "35-3011"
+    ]
+  },
+  "5141": {
+    "aioe": -0.3272021,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-5011",
+      "39-5012"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "39-1021",
+      "39-5011",
+      "39-5012"
+    ]
+  },
+  "5142": {
+    "aioe": -0.3077427,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-5012",
+      "39-5091",
+      "39-5092",
+      "39-5093",
+      "39-5094"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "39-1021",
+      "39-5012",
+      "39-5091",
+      "39-5092",
+      "39-5093",
+      "39-5094"
+    ]
+  },
+  "5151": {
+    "aioe": -0.5854128,
+    "matched_soc_codes": [
+      "37-1011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "37-1011"
+    ]
+  },
+  "5152": {
+    "aioe": -0.5854128,
+    "matched_soc_codes": [
+      "37-1011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-1011",
+      "39-9099"
+    ]
+  },
+  "5153": {
+    "aioe": -1.436201,
+    "matched_soc_codes": [
+      "37-2011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-2011"
+    ]
+  },
+  "5161": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-2099"
+    ]
+  },
+  "5162": {
+    "aioe": -0.07173494999999999,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-9021"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "39-1021",
+      "39-9021",
+      "39-9099"
+    ]
+  },
+  "5163": {
+    "aioe": -0.48868739999999994,
+    "matched_soc_codes": [
+      "39-4011",
+      "39-4021",
+      "39-4031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "39-4011",
+      "39-4021",
+      "39-4031"
+    ]
+  },
+  "5164": {
+    "aioe": -0.5372728999999999,
+    "matched_soc_codes": [
+      "31-9096",
+      "39-1021",
+      "39-2011",
+      "39-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "31-9096",
+      "39-1021",
+      "39-2011",
+      "39-2021"
+    ]
+  },
+  "5165": {
+    "aioe": 0.526352,
+    "matched_soc_codes": [
+      "25-3021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "25-3021"
+    ]
+  },
+  "5169": {
+    "aioe": 0.151064075,
+    "matched_soc_codes": [
+      "35-9031",
+      "39-1021",
+      "39-9032",
+      "39-9041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "35-9031",
+      "39-1021",
+      "39-9032",
+      "39-9041",
+      "39-9099"
+    ]
+  },
+  "5211": {
+    "aioe": 1.107101,
+    "matched_soc_codes": [
+      "41-9091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "41-9091"
+    ]
+  },
+  "5212": {
+    "aioe": 0.19004019999999994,
+    "matched_soc_codes": [
+      "35-3041",
+      "41-9091"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "35-3041",
+      "41-9091"
+    ]
+  },
+  "5221": {
+    "aioe": 0.5748773,
+    "matched_soc_codes": [
+      "11-1021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-1021"
+    ]
+  },
+  "5222": {
+    "aioe": 0.0191826,
+    "matched_soc_codes": [
+      "41-1011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-1011"
+    ]
+  },
+  "5223": {
+    "aioe": -0.015591999999999995,
+    "matched_soc_codes": [
+      "41-2022",
+      "41-2031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-2022",
+      "41-2031"
+    ]
+  },
+  "5230": {
+    "aioe": -0.14909065,
+    "matched_soc_codes": [
+      "41-2011",
+      "41-2012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-2011",
+      "41-2012"
+    ]
+  },
+  "5241": {
+    "aioe": -1.122021,
+    "matched_soc_codes": [
+      "41-9012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-9012"
+    ]
+  },
+  "5242": {
+    "aioe": 0.1235652,
+    "matched_soc_codes": [
+      "41-9011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-9011"
+    ]
+  },
+  "5243": {
+    "aioe": 1.107101,
+    "matched_soc_codes": [
+      "41-9091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "41-9091"
+    ]
+  },
+  "5244": {
+    "aioe": 1.118129,
+    "matched_soc_codes": [
+      "41-9041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "41-9041"
+    ]
+  },
+  "5245": {
+    "aioe": -0.5374322500000001,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-6031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-6031"
+    ]
+  },
+  "5246": {
+    "aioe": -0.9809000666666666,
+    "matched_soc_codes": [
+      "35-3021",
+      "35-3022",
+      "35-9011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "35-3021",
+      "35-3022",
+      "35-9011"
+    ]
+  },
+  "5249": {
+    "aioe": 0.0784367,
+    "matched_soc_codes": [
+      "41-2021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "41-2021",
+      "41-9099"
+    ]
+  },
+  "5311": {
+    "aioe": 0.023414049999999992,
+    "matched_soc_codes": [
+      "39-1021",
+      "39-9011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "39-1021",
+      "39-9011"
+    ]
+  },
+  "5312": {
+    "aioe": 0.4516636,
+    "matched_soc_codes": [
+      "25-9041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "25-9041"
+    ]
+  },
+  "5321": {
+    "aioe": -0.7002931,
+    "matched_soc_codes": [
+      "31-1013",
+      "31-1014"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "31-1013",
+      "31-1014"
+    ]
+  },
+  "5322": {
+    "aioe": -0.26280396666666667,
+    "matched_soc_codes": [
+      "31-1011",
+      "39-1021",
+      "39-9021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "31-1011",
+      "39-1021",
+      "39-9021"
+    ]
+  },
+  "5329": {
+    "aioe": -0.6074795749999999,
+    "matched_soc_codes": [
+      "31-1015",
+      "31-2012",
+      "31-2022",
+      "31-9091",
+      "31-9093",
+      "31-9095",
+      "31-9097",
+      "31-9099"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "31-1015",
+      "31-2012",
+      "31-2022",
+      "31-9091",
+      "31-9093",
+      "31-9095",
+      "31-9097",
+      "31-9099"
+    ]
+  },
+  "5411": {
+    "aioe": -0.9566265,
+    "matched_soc_codes": [
+      "33-1021",
+      "33-2011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "33-1021",
+      "33-2011"
+    ]
+  },
+  "5412": {
+    "aioe": -0.5603311999999999,
+    "matched_soc_codes": [
+      "33-1012",
+      "33-3051",
+      "33-3052"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "33-1012",
+      "33-3051",
+      "33-3052"
+    ]
+  },
+  "5413": {
+    "aioe": -0.72298215,
+    "matched_soc_codes": [
+      "33-1011",
+      "33-3012"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "33-1011",
+      "33-3012"
+    ]
+  },
+  "5414": {
+    "aioe": -0.05643486666666666,
+    "matched_soc_codes": [
+      "33-9031",
+      "33-9032",
+      "33-9093"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "33-1099",
+      "33-9031",
+      "33-9032",
+      "33-9093"
+    ]
+  },
+  "5419": {
+    "aioe": -0.2478682285714286,
+    "matched_soc_codes": [
+      "33-3031",
+      "33-3041",
+      "33-9011",
+      "33-9091",
+      "33-9092",
+      "33-9099",
+      "43-5031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "33-1099",
+      "33-3031",
+      "33-3041",
+      "33-9011",
+      "33-9091",
+      "33-9092",
+      "33-9099",
+      "43-5031"
+    ]
+  },
+  "6111": {
+    "aioe": -0.81217015,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2091"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2091"
+    ]
+  },
+  "6112": {
+    "aioe": -0.81217015,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2091"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2091"
+    ]
+  },
+  "6113": {
+    "aioe": -1.1423593666666667,
+    "matched_soc_codes": [
+      "37-1012",
+      "37-3013",
+      "45-2091"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "37-1012",
+      "37-3013",
+      "45-2091"
+    ]
+  },
+  "6114": {
+    "aioe": -0.81217015,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2091"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2091"
+    ]
+  },
+  "6121": {
+    "aioe": -0.76173815,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2021"
+    ]
+  },
+  "6122": {
+    "aioe": -0.76173815,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2021"
+    ]
+  },
+  "6123": {
+    "aioe": -0.76173815,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2021"
+    ]
+  },
+  "6129": {
+    "aioe": -0.76173815,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2021"
+    ]
+  },
+  "6130": {
+    "aioe": -0.8895441000000001,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021",
+      "45-2091"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "45-1011",
+      "45-2021",
+      "45-2091"
+    ]
+  },
+  "6210": {
+    "aioe": -0.9638657600000002,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-4011",
+      "45-4021",
+      "45-4022",
+      "45-4023"
+    ],
+    "partial_mapping_count": 4,
+    "soc_codes": [
+      "45-1011",
+      "45-4011",
+      "45-4021",
+      "45-4022",
+      "45-4023",
+      "45-4029"
+    ]
+  },
+  "6221": {
+    "aioe": -0.76173815,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-2021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-2021"
+    ]
+  },
+  "6222": {
+    "aioe": -0.99621665,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-3011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-3011"
+    ]
+  },
+  "6223": {
+    "aioe": -0.99621665,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-3011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-3011"
+    ]
+  },
+  "6224": {
+    "aioe": -0.89199065,
+    "matched_soc_codes": [
+      "45-1011",
+      "45-3021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-1011",
+      "45-3021"
+    ]
+  },
+  "6310": {
+    "aioe": -1.601349,
+    "matched_soc_codes": [
+      "45-2092"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "45-2092"
+    ]
+  },
+  "6320": {
+    "aioe": -1.108432,
+    "matched_soc_codes": [
+      "45-2093"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "45-2093"
+    ]
+  },
+  "6330": {
+    "aioe": -1.3548905,
+    "matched_soc_codes": [
+      "45-2092",
+      "45-2093"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2092",
+      "45-2093"
+    ]
+  },
+  "6340": {
+    "aioe": -1.409023,
+    "matched_soc_codes": [
+      "45-3011",
+      "45-3021"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-3011",
+      "45-3021"
+    ]
+  },
+  "7111": {
+    "aioe": 1.029139,
+    "matched_soc_codes": [
+      "11-9021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "11-9021"
+    ]
+  },
+  "7112": {
+    "aioe": -1.4959015,
+    "matched_soc_codes": [
+      "47-2021",
+      "49-9045"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2021",
+      "49-9045"
+    ]
+  },
+  "7113": {
+    "aioe": -1.3487447,
+    "matched_soc_codes": [
+      "47-2022",
+      "47-4091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2022",
+      "47-4091"
+    ]
+  },
+  "7114": {
+    "aioe": -1.512067466666667,
+    "matched_soc_codes": [
+      "47-2051",
+      "47-2053",
+      "47-4091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2051",
+      "47-2053",
+      "47-4091"
+    ]
+  },
+  "7115": {
+    "aioe": -1.323631,
+    "matched_soc_codes": [
+      "47-2031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2031"
+    ]
+  },
+  "7119": {
+    "aioe": -1.1643864000000002,
+    "matched_soc_codes": [
+      "47-2231",
+      "47-4031",
+      "47-4041",
+      "47-4099",
+      "49-9095"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2231",
+      "47-4031",
+      "47-4041",
+      "47-4099",
+      "49-9095"
+    ]
+  },
+  "7121": {
+    "aioe": -1.752941,
+    "matched_soc_codes": [
+      "47-2181"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2181"
+    ]
+  },
+  "7122": {
+    "aioe": -1.45993825,
+    "matched_soc_codes": [
+      "47-2041",
+      "47-2042",
+      "47-2043",
+      "47-2044"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2041",
+      "47-2042",
+      "47-2043",
+      "47-2044"
+    ]
+  },
+  "7123": {
+    "aioe": -1.648111,
+    "matched_soc_codes": [
+      "47-2081",
+      "47-2082",
+      "47-2161"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2081",
+      "47-2082",
+      "47-2161"
+    ]
+  },
+  "7124": {
+    "aioe": -1.4436935000000002,
+    "matched_soc_codes": [
+      "47-2131",
+      "47-2132"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2131",
+      "47-2132"
+    ]
+  },
+  "7125": {
+    "aioe": -1.388901,
+    "matched_soc_codes": [
+      "47-2121"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2121"
+    ]
+  },
+  "7126": {
+    "aioe": -1.1734149999999999,
+    "matched_soc_codes": [
+      "47-2151",
+      "47-2152"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2151",
+      "47-2152"
+    ]
+  },
+  "7127": {
+    "aioe": -0.4348143,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-9021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-9021"
+    ]
+  },
+  "7131": {
+    "aioe": -1.6577600000000001,
+    "matched_soc_codes": [
+      "47-2141",
+      "47-2142"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2141",
+      "47-2142"
+    ]
+  },
+  "7132": {
+    "aioe": -1.284442,
+    "matched_soc_codes": [
+      "51-9121",
+      "51-9122"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-9121",
+      "51-9122"
+    ]
+  },
+  "7133": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-2019"
+    ]
+  },
+  "7211": {
+    "aioe": -1.443244,
+    "matched_soc_codes": [
+      "51-4071",
+      "51-4072"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-4071",
+      "51-4072"
+    ]
+  },
+  "7212": {
+    "aioe": -1.1000035000000001,
+    "matched_soc_codes": [
+      "51-4121",
+      "51-4122"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-4121",
+      "51-4122"
+    ]
+  },
+  "7213": {
+    "aioe": -0.9982131,
+    "matched_soc_codes": [
+      "47-2011",
+      "47-2211",
+      "51-4192"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2011",
+      "47-2211",
+      "51-4192"
+    ]
+  },
+  "7214": {
+    "aioe": -1.609123,
+    "matched_soc_codes": [
+      "47-2171",
+      "47-2221",
+      "51-2041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-2171",
+      "47-2221",
+      "51-2041"
+    ]
+  },
+  "7215": {
+    "aioe": -1.221519,
+    "matched_soc_codes": [
+      "49-9096"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "49-9096"
+    ]
+  },
+  "7221": {
+    "aioe": -0.8046677,
+    "matched_soc_codes": [
+      "51-4022"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-4022",
+      "51-4199"
+    ]
+  },
+  "7222": {
+    "aioe": -0.583198,
+    "matched_soc_codes": [
+      "49-9094",
+      "51-4012",
+      "51-4061",
+      "51-4062",
+      "51-4111",
+      "51-4192"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "49-9094",
+      "51-4012",
+      "51-4061",
+      "51-4062",
+      "51-4111",
+      "51-4192"
+    ]
+  },
+  "7223": {
+    "aioe": -0.9214907181818183,
+    "matched_soc_codes": [
+      "51-4011",
+      "51-4021",
+      "51-4022",
+      "51-4023",
+      "51-4031",
+      "51-4032",
+      "51-4033",
+      "51-4034",
+      "51-4035",
+      "51-4041",
+      "51-4081"
+    ],
+    "partial_mapping_count": 9,
+    "soc_codes": [
+      "51-4011",
+      "51-4021",
+      "51-4022",
+      "51-4023",
+      "51-4031",
+      "51-4032",
+      "51-4033",
+      "51-4034",
+      "51-4035",
+      "51-4041",
+      "51-4081",
+      "51-4199"
+    ]
+  },
+  "7224": {
+    "aioe": -1.0137239,
+    "matched_soc_codes": [
+      "51-4194",
+      "51-9022"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-4194",
+      "51-9022"
+    ]
+  },
+  "7231": {
+    "aioe": -0.93879196,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-3021",
+      "49-3022",
+      "49-3023",
+      "49-3031",
+      "49-3051",
+      "49-3052",
+      "49-3053",
+      "49-3092",
+      "49-3093"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "49-1011",
+      "49-3021",
+      "49-3022",
+      "49-3023",
+      "49-3031",
+      "49-3051",
+      "49-3052",
+      "49-3053",
+      "49-3092",
+      "49-3093"
+    ]
+  },
+  "7232": {
+    "aioe": -0.33781829999999996,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-3011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-3011"
+    ]
+  },
+  "7233": {
+    "aioe": -1.0474146222222225,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-3041",
+      "49-3042",
+      "49-3043",
+      "49-9041",
+      "49-9043",
+      "49-9044",
+      "49-9045",
+      "49-9081"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "49-1011",
+      "49-3041",
+      "49-3042",
+      "49-3043",
+      "49-9041",
+      "49-9043",
+      "49-9044",
+      "49-9045",
+      "49-9081"
+    ]
+  },
+  "7234": {
+    "aioe": -0.47156184999999995,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-3091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-3091"
+    ]
+  },
+  "7311": {
+    "aioe": -0.113789525,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-9061",
+      "49-9062",
+      "49-9064"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-9061",
+      "49-9062",
+      "49-9064",
+      "49-9069"
+    ]
+  },
+  "7312": {
+    "aioe": -0.275572,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-9063"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-9063"
+    ]
+  },
+  "7313": {
+    "aioe": -0.1560197,
+    "matched_soc_codes": [
+      "51-9071"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-9071"
+    ]
+  },
+  "7314": {
+    "aioe": -1.0564682,
+    "matched_soc_codes": [
+      "27-1012",
+      "51-9195"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "27-1012",
+      "51-9195"
+    ]
+  },
+  "7315": {
+    "aioe": -1.0926386333333333,
+    "matched_soc_codes": [
+      "51-9022",
+      "51-9031",
+      "51-9195"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "51-9022",
+      "51-9031",
+      "51-9195"
+    ]
+  },
+  "7316": {
+    "aioe": -0.80504065,
+    "matched_soc_codes": [
+      "51-9123",
+      "51-9194"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-9123",
+      "51-9194"
+    ]
+  },
+  "7317": {
+    "aioe": -0.9295284,
+    "matched_soc_codes": [
+      "27-1012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-1012",
+      "51-7099"
+    ]
+  },
+  "7318": {
+    "aioe": -0.990912,
+    "matched_soc_codes": [
+      "51-6041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-6041"
+    ]
+  },
+  "7319": {
+    "aioe": -0.9295284,
+    "matched_soc_codes": [
+      "27-1012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "27-1012"
+    ]
+  },
+  "7321": {
+    "aioe": 0.3772858,
+    "matched_soc_codes": [
+      "43-9031",
+      "51-5111"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-9031",
+      "51-5111"
+    ]
+  },
+  "7322": {
+    "aioe": -0.7093881,
+    "matched_soc_codes": [
+      "51-5112"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-5112"
+    ]
+  },
+  "7323": {
+    "aioe": -0.9062089,
+    "matched_soc_codes": [
+      "51-5113"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-5113"
+    ]
+  },
+  "7411": {
+    "aioe": -0.86192985,
+    "matched_soc_codes": [
+      "47-2111",
+      "47-2231"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2111",
+      "47-2231"
+    ]
+  },
+  "7412": {
+    "aioe": -0.7606392,
+    "matched_soc_codes": [
+      "47-4021",
+      "49-1011",
+      "49-2092",
+      "49-2093",
+      "49-2094",
+      "49-2095",
+      "49-2096",
+      "49-2098",
+      "49-3053",
+      "49-9011",
+      "49-9012",
+      "49-9031",
+      "49-9097"
+    ],
+    "partial_mapping_count": 6,
+    "soc_codes": [
+      "47-4021",
+      "49-1011",
+      "49-2092",
+      "49-2093",
+      "49-2094",
+      "49-2095",
+      "49-2096",
+      "49-2098",
+      "49-3053",
+      "49-9011",
+      "49-9012",
+      "49-9031",
+      "49-9097"
+    ]
+  },
+  "7413": {
+    "aioe": -0.5509574500000001,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-9051"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-1011",
+      "49-9051"
+    ]
+  },
+  "7421": {
+    "aioe": -0.4538065857142856,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-2011",
+      "49-2091",
+      "49-2093",
+      "49-2094",
+      "49-2095",
+      "49-2096"
+    ],
+    "partial_mapping_count": 6,
+    "soc_codes": [
+      "49-1011",
+      "49-2011",
+      "49-2091",
+      "49-2093",
+      "49-2094",
+      "49-2095",
+      "49-2096"
+    ]
+  },
+  "7422": {
+    "aioe": -0.6197831857142857,
+    "matched_soc_codes": [
+      "49-1011",
+      "49-2011",
+      "49-2021",
+      "49-2022",
+      "49-2093",
+      "49-2097",
+      "49-9052"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "49-1011",
+      "49-2011",
+      "49-2021",
+      "49-2022",
+      "49-2093",
+      "49-2097",
+      "49-9052"
+    ]
+  },
+  "7511": {
+    "aioe": -1.16753735,
+    "matched_soc_codes": [
+      "51-3021",
+      "51-3022",
+      "51-3023",
+      "51-3091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-3021",
+      "51-3022",
+      "51-3023",
+      "51-3091"
+    ]
+  },
+  "7512": {
+    "aioe": -0.3852989,
+    "matched_soc_codes": [
+      "51-3011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-3011"
+    ]
+  },
+  "7513": {
+    "aioe": -0.65851275,
+    "matched_soc_codes": [
+      "51-3092",
+      "51-9012"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-3092",
+      "51-9012"
+    ]
+  },
+  "7514": {
+    "aioe": -0.5559894,
+    "matched_soc_codes": [
+      "51-3093"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-3093",
+      "51-3099"
+    ]
+  },
+  "7515": {
+    "aioe": -0.6002406499999999,
+    "matched_soc_codes": [
+      "45-2011",
+      "45-2041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2011",
+      "45-2041"
+    ]
+  },
+  "7516": {
+    "aioe": -1.1988423333333333,
+    "matched_soc_codes": [
+      "45-2041",
+      "51-9041",
+      "51-9195"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "45-2041",
+      "51-9041",
+      "51-9195"
+    ]
+  },
+  "7521": {
+    "aioe": -1.1348263,
+    "matched_soc_codes": [
+      "51-9051",
+      "51-9191"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9051",
+      "51-9191"
+    ]
+  },
+  "7522": {
+    "aioe": -1.0777499750000001,
+    "matched_soc_codes": [
+      "51-7011",
+      "51-7021",
+      "51-7031",
+      "51-7032"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-7011",
+      "51-7021",
+      "51-7031",
+      "51-7032"
+    ]
+  },
+  "7523": {
+    "aioe": -1.130357,
+    "matched_soc_codes": [
+      "51-7042"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-7042"
+    ]
+  },
+  "7531": {
+    "aioe": -0.4305268,
+    "matched_soc_codes": [
+      "51-6052"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6052"
+    ]
+  },
+  "7532": {
+    "aioe": -0.6846808333333333,
+    "matched_soc_codes": [
+      "51-6062",
+      "51-6092",
+      "51-9031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-6062",
+      "51-6092",
+      "51-9031"
+    ]
+  },
+  "7533": {
+    "aioe": -0.9874909333333332,
+    "matched_soc_codes": [
+      "49-9093",
+      "51-6041",
+      "51-6051"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "49-9093",
+      "51-6041",
+      "51-6051"
+    ]
+  },
+  "7534": {
+    "aioe": -1.313735,
+    "matched_soc_codes": [
+      "51-6093"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6093"
+    ]
+  },
+  "7535": {
+    "aioe": -1.370968,
+    "matched_soc_codes": [
+      "45-2041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2041",
+      "51-6099"
+    ]
+  },
+  "7536": {
+    "aioe": -0.990912,
+    "matched_soc_codes": [
+      "51-6041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-6041"
+    ]
+  },
+  "7541": {
+    "aioe": -1.102728,
+    "matched_soc_codes": [
+      "49-9092"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "49-9092"
+    ]
+  },
+  "7542": {
+    "aioe": -0.773027,
+    "matched_soc_codes": [
+      "47-5031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-5031"
+    ]
+  },
+  "7543": {
+    "aioe": -0.0293395,
+    "matched_soc_codes": [
+      "51-9061"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-9061"
+    ]
+  },
+  "7544": {
+    "aioe": -0.7217393333333334,
+    "matched_soc_codes": [
+      "37-1012",
+      "37-2021",
+      "37-3012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-1012",
+      "37-2021",
+      "37-3012"
+    ]
+  },
+  "7549": {
+    "aioe": -0.43426055,
+    "matched_soc_codes": [
+      "27-1023",
+      "51-9083"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "27-1023",
+      "51-9083"
+    ]
+  },
+  "8111": {
+    "aioe": -1.2652588714285715,
+    "matched_soc_codes": [
+      "47-5021",
+      "47-5041",
+      "47-5042",
+      "47-5051",
+      "47-5061",
+      "53-7032",
+      "53-7033"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "47-5021",
+      "47-5041",
+      "47-5042",
+      "47-5049",
+      "47-5051",
+      "47-5061",
+      "53-7032",
+      "53-7033"
+    ]
+  },
+  "8112": {
+    "aioe": -1.0926805000000002,
+    "matched_soc_codes": [
+      "51-9021",
+      "51-9192"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9021",
+      "51-9192"
+    ]
+  },
+  "8113": {
+    "aioe": -1.0787772833333336,
+    "matched_soc_codes": [
+      "47-5011",
+      "47-5012",
+      "47-5013",
+      "47-5021",
+      "47-5071",
+      "53-7073"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-5011",
+      "47-5012",
+      "47-5013",
+      "47-5021",
+      "47-5071",
+      "53-7073"
+    ]
+  },
+  "8114": {
+    "aioe": -0.903165175,
+    "matched_soc_codes": [
+      "51-8099",
+      "51-9021",
+      "51-9023",
+      "51-9032"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "51-8099",
+      "51-9021",
+      "51-9023",
+      "51-9032"
+    ]
+  },
+  "8121": {
+    "aioe": -1.1185306,
+    "matched_soc_codes": [
+      "51-4021",
+      "51-4023",
+      "51-4051",
+      "51-4052",
+      "51-4191"
+    ],
+    "partial_mapping_count": 4,
+    "soc_codes": [
+      "51-4021",
+      "51-4023",
+      "51-4051",
+      "51-4052",
+      "51-4191"
+    ]
+  },
+  "8122": {
+    "aioe": -1.0544012,
+    "matched_soc_codes": [
+      "51-4193",
+      "51-9121",
+      "51-9192"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "51-4193",
+      "51-9121",
+      "51-9192"
+    ]
+  },
+  "8131": {
+    "aioe": -0.8776143666666667,
+    "matched_soc_codes": [
+      "51-9011",
+      "51-9012",
+      "51-9195"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9011",
+      "51-9012",
+      "51-9195"
+    ]
+  },
+  "8132": {
+    "aioe": -0.3615806,
+    "matched_soc_codes": [
+      "51-9151"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-9151"
+    ]
+  },
+  "8141": {
+    "aioe": -1.16763692,
+    "matched_soc_codes": [
+      "51-9021",
+      "51-9041",
+      "51-9051",
+      "51-9195",
+      "51-9197"
+    ],
+    "partial_mapping_count": 4,
+    "soc_codes": [
+      "51-9021",
+      "51-9041",
+      "51-9051",
+      "51-9195",
+      "51-9197"
+    ]
+  },
+  "8142": {
+    "aioe": -1.0172957166666665,
+    "matched_soc_codes": [
+      "51-2091",
+      "51-4021",
+      "51-4022",
+      "51-4023",
+      "51-4031",
+      "51-4032",
+      "51-4033",
+      "51-4034",
+      "51-4035",
+      "51-4072",
+      "51-4191",
+      "51-4193"
+    ],
+    "partial_mapping_count": 12,
+    "soc_codes": [
+      "51-2091",
+      "51-4021",
+      "51-4022",
+      "51-4023",
+      "51-4031",
+      "51-4032",
+      "51-4033",
+      "51-4034",
+      "51-4035",
+      "51-4072",
+      "51-4191",
+      "51-4193",
+      "51-4199"
+    ]
+  },
+  "8143": {
+    "aioe": -1.09273125,
+    "matched_soc_codes": [
+      "51-9191",
+      "51-9196"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9191",
+      "51-9196"
+    ]
+  },
+  "8151": {
+    "aioe": -1.392929,
+    "matched_soc_codes": [
+      "51-6064"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6064"
+    ]
+  },
+  "8152": {
+    "aioe": -1.241662,
+    "matched_soc_codes": [
+      "51-6063"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6063"
+    ]
+  },
+  "8153": {
+    "aioe": -0.9639661,
+    "matched_soc_codes": [
+      "51-6031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6031"
+    ]
+  },
+  "8154": {
+    "aioe": -0.8609312,
+    "matched_soc_codes": [
+      "51-6061"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6061"
+    ]
+  },
+  "8155": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-6099"
+    ]
+  },
+  "8156": {
+    "aioe": -1.029855,
+    "matched_soc_codes": [
+      "51-6042"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6042"
+    ]
+  },
+  "8157": {
+    "aioe": -1.054399,
+    "matched_soc_codes": [
+      "51-6011"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6011"
+    ]
+  },
+  "8159": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-6099"
+    ]
+  },
+  "8160": {
+    "aioe": -0.7393212,
+    "matched_soc_codes": [
+      "51-3091",
+      "51-3092",
+      "51-3093",
+      "51-9041",
+      "51-9193"
+    ],
+    "partial_mapping_count": 6,
+    "soc_codes": [
+      "51-3091",
+      "51-3092",
+      "51-3093",
+      "51-3099",
+      "51-9041",
+      "51-9193"
+    ]
+  },
+  "8171": {
+    "aioe": -1.00796475,
+    "matched_soc_codes": [
+      "51-9192",
+      "51-9196"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9192",
+      "51-9196"
+    ]
+  },
+  "8172": {
+    "aioe": -1.165031,
+    "matched_soc_codes": [
+      "51-7041"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-7041"
+    ]
+  },
+  "8181": {
+    "aioe": -0.9844376833333334,
+    "matched_soc_codes": [
+      "51-6091",
+      "51-9021",
+      "51-9023",
+      "51-9041",
+      "51-9051",
+      "51-9195"
+    ],
+    "partial_mapping_count": 5,
+    "soc_codes": [
+      "51-6091",
+      "51-9021",
+      "51-9023",
+      "51-9041",
+      "51-9051",
+      "51-9195"
+    ]
+  },
+  "8182": {
+    "aioe": -0.5032496,
+    "matched_soc_codes": [
+      "51-8021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-8021"
+    ]
+  },
+  "8183": {
+    "aioe": -0.978608,
+    "matched_soc_codes": [
+      "51-9111"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-9111"
+    ]
+  },
+  "8189": {
+    "aioe": -0.9161469,
+    "matched_soc_codes": [
+      "51-9141",
+      "51-9191",
+      "51-9193",
+      "53-7011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "51-9141",
+      "51-9191",
+      "51-9193",
+      "53-7011"
+    ]
+  },
+  "8211": {
+    "aioe": -0.91230795,
+    "matched_soc_codes": [
+      "51-2011",
+      "51-2031"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-2011",
+      "51-2031"
+    ]
+  },
+  "8212": {
+    "aioe": -0.56928044,
+    "matched_soc_codes": [
+      "51-2021",
+      "51-2022",
+      "51-2023",
+      "51-2093",
+      "51-9194"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-2021",
+      "51-2022",
+      "51-2023",
+      "51-2093",
+      "51-9194"
+    ]
+  },
+  "8219": {
+    "aioe": -0.8305441,
+    "matched_soc_codes": [
+      "51-2092"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-2092",
+      "51-2099"
+    ]
+  },
+  "8311": {
+    "aioe": -0.6536364,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-4011",
+      "53-4012",
+      "53-4013",
+      "53-4041",
+      "53-7111"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-1031",
+      "53-4011",
+      "53-4012",
+      "53-4013",
+      "53-4041",
+      "53-7111"
+    ]
+  },
+  "8312": {
+    "aioe": -0.5124318666666666,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-4021",
+      "53-4031"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-4021",
+      "53-4031",
+      "53-4099"
+    ]
+  },
+  "8321": {
+    "aioe": -0.40624404999999997,
+    "matched_soc_codes": [
+      "43-5021",
+      "53-1031"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "43-5021",
+      "53-1031",
+      "53-3099"
+    ]
+  },
+  "8322": {
+    "aioe": -0.63306316,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-3011",
+      "53-3031",
+      "53-3033",
+      "53-3041"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-3011",
+      "53-3031",
+      "53-3033",
+      "53-3041"
+    ]
+  },
+  "8331": {
+    "aioe": -0.34301899999999996,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-3021",
+      "53-3022",
+      "53-4041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-1031",
+      "53-3021",
+      "53-3022",
+      "53-4041"
+    ]
+  },
+  "8332": {
+    "aioe": -0.50121625,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-3032"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-3032"
+    ]
+  },
+  "8341": {
+    "aioe": -1.074429,
+    "matched_soc_codes": [
+      "45-2091",
+      "45-4022"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2091",
+      "45-4022"
+    ]
+  },
+  "8342": {
+    "aioe": -1.0894519599999999,
+    "matched_soc_codes": [
+      "47-2071",
+      "47-2072",
+      "47-2073",
+      "53-7031",
+      "53-7032"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2071",
+      "47-2072",
+      "47-2073",
+      "53-7031",
+      "53-7032"
+    ]
+  },
+  "8343": {
+    "aioe": -0.6038050800000001,
+    "matched_soc_codes": [
+      "39-3091",
+      "53-1031",
+      "53-6011",
+      "53-7021",
+      "53-7041"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "39-3091",
+      "53-1031",
+      "53-6011",
+      "53-7021",
+      "53-7041"
+    ]
+  },
+  "8344": {
+    "aioe": -0.62603275,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-7051"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1031",
+      "53-7051"
+    ]
+  },
+  "8350": {
+    "aioe": -1.0185598,
+    "matched_soc_codes": [
+      "53-5011",
+      "53-5022"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "53-5011",
+      "53-5022"
+    ]
+  },
+  "9111": {
+    "aioe": -1.480657,
+    "matched_soc_codes": [
+      "37-2012"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-2012"
+    ]
+  },
+  "9112": {
+    "aioe": -1.515585,
+    "matched_soc_codes": [
+      "37-2011",
+      "37-2012",
+      "53-7061"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "37-2011",
+      "37-2012",
+      "53-7061"
+    ]
+  },
+  "9121": {
+    "aioe": -1.950063,
+    "matched_soc_codes": [
+      "51-6021"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "51-6021"
+    ]
+  },
+  "9122": {
+    "aioe": -1.629897,
+    "matched_soc_codes": [
+      "53-7061"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-7061"
+    ]
+  },
+  "9123": {
+    "aioe": -1.436201,
+    "matched_soc_codes": [
+      "37-2011"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-2011"
+    ]
+  },
+  "9129": {
+    "aioe": -1.210591,
+    "matched_soc_codes": [
+      "47-4071"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-2019",
+      "47-4071"
+    ]
+  },
+  "9211": {
+    "aioe": -1.601349,
+    "matched_soc_codes": [
+      "45-2092"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2092",
+      "45-2099"
+    ]
+  },
+  "9212": {
+    "aioe": -1.108432,
+    "matched_soc_codes": [
+      "45-2093"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2093",
+      "45-2099"
+    ]
+  },
+  "9213": {
+    "aioe": -1.3548905,
+    "matched_soc_codes": [
+      "45-2092",
+      "45-2093"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "45-2092",
+      "45-2093",
+      "45-2099"
+    ]
+  },
+  "9214": {
+    "aioe": -1.712821,
+    "matched_soc_codes": [
+      "37-3011",
+      "45-2092"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "37-3011",
+      "37-3019",
+      "45-2092"
+    ]
+  },
+  "9215": {
+    "aioe": -1.064205,
+    "matched_soc_codes": [
+      "45-4011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-4011",
+      "45-4029"
+    ]
+  },
+  "9216": {
+    "aioe": -1.3108405,
+    "matched_soc_codes": [
+      "45-2093",
+      "45-3011"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "45-2093",
+      "45-3011"
+    ]
+  },
+  "9311": {
+    "aioe": -1.543154,
+    "matched_soc_codes": [
+      "47-5081"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "47-5081",
+      "47-5099"
+    ]
+  },
+  "9312": {
+    "aioe": -1.339075,
+    "matched_soc_codes": [
+      "47-4051",
+      "47-4061"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-3019",
+      "47-4051",
+      "47-4061"
+    ]
+  },
+  "9313": {
+    "aioe": -1.7313417142857144,
+    "matched_soc_codes": [
+      "47-2061",
+      "47-3011",
+      "47-3012",
+      "47-3013",
+      "47-3014",
+      "47-3015",
+      "47-3016"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "47-2061",
+      "47-3011",
+      "47-3012",
+      "47-3013",
+      "47-3014",
+      "47-3015",
+      "47-3016",
+      "47-3019"
+    ]
+  },
+  "9321": {
+    "aioe": -1.51362,
+    "matched_soc_codes": [
+      "53-7064"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "53-7064"
+    ]
+  },
+  "9329": {
+    "aioe": -1.3622159999999999,
+    "matched_soc_codes": [
+      "51-9198",
+      "51-9199",
+      "53-7062",
+      "53-7063"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "51-9198",
+      "51-9199",
+      "53-7062",
+      "53-7063"
+    ]
+  },
+  "9331": {
+    "aioe": -0.9591126,
+    "matched_soc_codes": [
+      "43-5021"
+    ],
+    "partial_mapping_count": 3,
+    "soc_codes": [
+      "43-5021",
+      "53-6099",
+      "53-7199"
+    ]
+  },
+  "9332": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-6099",
+      "53-7199"
+    ]
+  },
+  "9333": {
+    "aioe": -0.922525,
+    "matched_soc_codes": [
+      "53-1011",
+      "53-1021",
+      "53-7062",
+      "53-7121"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-1011",
+      "53-1021",
+      "53-7062",
+      "53-7121"
+    ]
+  },
+  "9334": {
+    "aioe": -0.7892948,
+    "matched_soc_codes": [
+      "43-5081"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "43-5081"
+    ]
+  },
+  "9411": {
+    "aioe": -0.6532827,
+    "matched_soc_codes": [
+      "35-2011",
+      "35-2015"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "35-2011",
+      "35-2015"
+    ]
+  },
+  "9412": {
+    "aioe": -1.630702,
+    "matched_soc_codes": [
+      "35-2021",
+      "35-9011",
+      "35-9021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "35-2021",
+      "35-9011",
+      "35-9021",
+      "35-9099"
+    ]
+  },
+  "9510": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "39-9099"
+    ]
+  },
+  "9520": {
+    "aioe": 1.107101,
+    "matched_soc_codes": [
+      "41-9091"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "41-9091"
+    ]
+  },
+  "9611": {
+    "aioe": -0.5683742500000001,
+    "matched_soc_codes": [
+      "53-1031",
+      "53-7081"
+    ],
+    "partial_mapping_count": 2,
+    "soc_codes": [
+      "53-1031",
+      "53-7081"
+    ]
+  },
+  "9612": {
+    "aioe": -1.283373,
+    "matched_soc_codes": [
+      "53-7081"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-7081"
+    ]
+  },
+  "9613": {
+    "aioe": null,
+    "matched_soc_codes": [],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-3019"
+    ]
+  },
+  "9621": {
+    "aioe": -1.1155637999999999,
+    "matched_soc_codes": [
+      "39-6011",
+      "43-5021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "39-6011",
+      "43-5021"
+    ]
+  },
+  "9622": {
+    "aioe": -0.9836807,
+    "matched_soc_codes": [
+      "49-9071",
+      "49-9098",
+      "49-9099"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "37-3019",
+      "49-9071",
+      "49-9098",
+      "49-9099"
+    ]
+  },
+  "9623": {
+    "aioe": -0.8478883500000001,
+    "matched_soc_codes": [
+      "43-5041",
+      "49-9091"
+    ],
+    "partial_mapping_count": 0,
+    "soc_codes": [
+      "43-5041",
+      "49-9091"
+    ]
+  },
+  "9624": {
+    "aioe": -1.709183,
+    "matched_soc_codes": [
+      "53-7062"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "53-7062"
+    ]
+  },
+  "9629": {
+    "aioe": -0.46523953999999995,
+    "matched_soc_codes": [
+      "39-3021",
+      "39-3031",
+      "39-3091",
+      "39-3093",
+      "53-6021"
+    ],
+    "partial_mapping_count": 1,
+    "soc_codes": [
+      "39-3021",
+      "39-3031",
+      "39-3091",
+      "39-3093",
+      "53-6021"
+    ]
+  }
+}

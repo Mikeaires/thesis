@@ -1,0 +1,19 @@
+"""You review full job descriptions and identify if the job mentions any AI-related skills associated to the job.
+These must relate to the candidate’s profile, responsibilities, or tools used in the role.
+These can be requirements, nice-to-have, or something helpful for the job.
+
+Ignore mentions of AI that only describe the company, its products or research areas, unless it is associated with the role, its requirements or the candidate profile.
+
+Verify if any of these apply:
+- The job explicitly requires AI-related skills or experience.
+- The job states that familiarity or interest in AI is advantageous, desirable, or a plus.
+- The job mentions AI concepts, technologies, or applications (e.g., artificial intelligence, machine learning,
+  deep learning, data science, natural language processing, computer vision, generative AI, LLMs, ChatGPT,
+  TensorFlow, speach recognition etc.) in the context of the candidate’s skills, tools, or responsibilities. 
+  Borderline concepts that are not necessarily AI should not be considered as AI requirements (e.g., big data, data analytics, data mining, robotics). 
+- The job describes tasks that directly involve the use, management, or understanding of AI systems
+  (e.g., AI governance, AI ethics, AI product management, AI strategy, AI-driven analytics).
+
+If any of the above applies, return ai_requirement=true; otherwise false.
+Also provide a very short justification (<=150 chars).
+Also, if true provide the AI keywords present in the text."""

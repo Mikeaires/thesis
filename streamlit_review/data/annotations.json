@@ -1,0 +1,47 @@
+{
+  "sjmm_suf-3-01-2019-03-09003-1-023861181": {
+    "label": "True",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-1-01-2010-03-02111-0-000000003": {
+    "label": "Maybe",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-1-01-2010-03-03112-0-000000035": {
+    "label": "False",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-2-01-2010-03-00193-0-000000901": {
+    "label": "Maybe",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-2-01-2010-03-00771-0-000002056": {
+    "label": "False",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-2-01-2010-03-00965-0-000000588": {
+    "label": "Maybe",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-3-01-2011-03-09005-0-000000618": {
+    "label": "True",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-2-02-2016-03-01299-0-000002017": {
+    "label": "False",
+    "reason_note": "",
+    "flag": false
+  },
+  "sjmm_suf-2-01-2011-03-00965-0-000000587": {
+    "label": "True",
+    "reason_note": "",
+    "flag": false
+  }
+}

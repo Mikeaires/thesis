@@ -1,0 +1,531 @@
+{
+  "dataset_gaps": {
+    "industry_missing_exposure": {
+      "04": {
+        "count": 961,
+        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      },
+      "34": {
+        "count": 2743,
+        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      },
+      "40": {
+        "count": 1066,
+        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      },
+      "44": {
+        "count": 8714,
+        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      },
+      "48": {
+        "count": 915,
+        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      }
+    },
+    "occupation_missing_exposure": {
+      "0110": {
+        "count": 7,
+        "soc_codes_without_exposure": [
+          "55-1011",
+          "55-1012",
+          "55-1013",
+          "55-1014",
+          "55-1015",
+          "55-1016",
+          "55-1017",
+          "55-1019"
+        ]
+      },
+      "0210": {
+        "count": 2,
+        "soc_codes_without_exposure": [
+          "55-2011",
+          "55-2012",
+          "55-2013"
+        ]
+      },
+      "0310": {
+        "count": 21,
+        "soc_codes_without_exposure": [
+          "55-3011",
+          "55-3012",
+          "55-3013",
+          "55-3014",
+          "55-3015",
+          "55-3016",
+          "55-3017",
+          "55-3018",
+          "55-3019"
+        ]
+      },
+      "1000": {
+        "count": 115,
+        "soc_codes_without_exposure": []
+      },
+      "1111": {
+        "count": 7,
+        "soc_codes_without_exposure": [
+          "11-1031"
+        ]
+      },
+      "1210": {
+        "count": 189,
+        "soc_codes_without_exposure": []
+      },
+      "1300": {
+        "count": 20,
+        "soc_codes_without_exposure": []
+      },
+      "1320": {
+        "count": 46,
+        "soc_codes_without_exposure": []
+      },
+      "1340": {
+        "count": 39,
+        "soc_codes_without_exposure": []
+      },
+      "2000": {
+        "count": 345,
+        "soc_codes_without_exposure": []
+      },
+      "2100": {
+        "count": 64,
+        "soc_codes_without_exposure": []
+      },
+      "2140": {
+        "count": 516,
+        "soc_codes_without_exposure": []
+      },
+      "2210": {
+        "count": 385,
+        "soc_codes_without_exposure": []
+      },
+      "2300": {
+        "count": 63,
+        "soc_codes_without_exposure": []
+      },
+      "2400": {
+        "count": 82,
+        "soc_codes_without_exposure": []
+      },
+      "2500": {
+        "count": 544,
+        "soc_codes_without_exposure": []
+      },
+      "2510": {
+        "count": 267,
+        "soc_codes_without_exposure": []
+      },
+      "2610": {
+        "count": 163,
+        "soc_codes_without_exposure": []
+      },
+      "2630": {
+        "count": 1,
+        "soc_codes_without_exposure": []
+      },
+      "2650": {
+        "count": 2,
+        "soc_codes_without_exposure": []
+      },
+      "2659": {
+        "count": 6,
+        "soc_codes_without_exposure": [
+          "27-2099"
+        ]
+      },
+      "3000": {
+        "count": 1085,
+        "soc_codes_without_exposure": []
+      },
+      "3100": {
+        "count": 344,
+        "soc_codes_without_exposure": []
+      },
+      "3110": {
+        "count": 4,
+        "soc_codes_without_exposure": []
+      },
+      "3130": {
+        "count": 1,
+        "soc_codes_without_exposure": []
+      },
+      "3150": {
+        "count": 6,
+        "soc_codes_without_exposure": []
+      },
+      "3300": {
+        "count": 53,
+        "soc_codes_without_exposure": []
+      },
+      "3310": {
+        "count": 8,
+        "soc_codes_without_exposure": []
+      },
+      "3330": {
+        "count": 1,
+        "soc_codes_without_exposure": []
+      },
+      "3413": {
+        "count": 16,
+        "soc_codes_without_exposure": [
+          "21-2099"
+        ]
+      },
+      "3510": {
+        "count": 59,
+        "soc_codes_without_exposure": []
+      },
+      "4000": {
+        "count": 18,
+        "soc_codes_without_exposure": []
+      },
+      "4320": {
+        "count": 646,
+        "soc_codes_without_exposure": []
+      },
+      "4410": {
+        "count": 35,
+        "soc_codes_without_exposure": []
+      },
+      "5000": {
+        "count": 1,
+        "soc_codes_without_exposure": []
+      },
+      "5161": {
+        "count": 8,
+        "soc_codes_without_exposure": [
+          "27-2099"
+        ]
+      },
+      "7000": {
+        "count": 328,
+        "soc_codes_without_exposure": []
+      },
+      "7110": {
+        "count": 66,
+        "soc_codes_without_exposure": []
+      },
+      "7120": {
+        "count": 14,
+        "soc_codes_without_exposure": []
+      },
+      "7133": {
+        "count": 16,
+        "soc_codes_without_exposure": [
+          "37-2019"
+        ]
+      },
+      "7200": {
+        "count": 1481,
+        "soc_codes_without_exposure": []
+      },
+      "7210": {
+        "count": 123,
+        "soc_codes_without_exposure": []
+      },
+      "7230": {
+        "count": 16,
+        "soc_codes_without_exposure": []
+      },
+      "7310": {
+        "count": 8,
+        "soc_codes_without_exposure": []
+      },
+      "7520": {
+        "count": 45,
+        "soc_codes_without_exposure": []
+      },
+      "7530": {
+        "count": 50,
+        "soc_codes_without_exposure": []
+      },
+      "8000": {
+        "count": 1,
+        "soc_codes_without_exposure": []
+      },
+      "8100": {
+        "count": 378,
+        "soc_codes_without_exposure": []
+      },
+      "8120": {
+        "count": 22,
+        "soc_codes_without_exposure": []
+      },
+      "8150": {
+        "count": 13,
+        "soc_codes_without_exposure": []
+      },
+      "8159": {
+        "count": 1,
+        "soc_codes_without_exposure": [
+          "51-6099"
+        ]
+      },
+      "8210": {
+        "count": 319,
+        "soc_codes_without_exposure": []
+      },
+      "8300": {
+        "count": 201,
+        "soc_codes_without_exposure": []
+      },
+      "9000": {
+        "count": 158,
+        "soc_codes_without_exposure": []
+      },
+      "9310": {
+        "count": 2,
+        "soc_codes_without_exposure": []
+      },
+      "9410": {
+        "count": 70,
+        "soc_codes_without_exposure": []
+      },
+      "9610": {
+        "count": 11,
+        "soc_codes_without_exposure": []
+      },
+      "9613": {
+        "count": 27,
+        "soc_codes_without_exposure": [
+          "37-3019"
+        ]
+      },
+      "__missing__": {
+        "count": 219,
+        "soc_codes_without_exposure": []
+      }
+    }
+  },
+  "lookup_gaps": {
+    "industry_naics_crosswalk_gaps": {
+      "9991": "no ISIC match",
+      "9992": "no ISIC match",
+      "9993": "no ISIC match"
+    },
+    "occupation_soc_missing_exposure": {
+      "0110": [
+        "55-1011",
+        "55-1012",
+        "55-1013",
+        "55-1014",
+        "55-1015",
+        "55-1016",
+        "55-1017",
+        "55-1019"
+      ],
+      "0210": [
+        "55-2011",
+        "55-2012",
+        "55-2013"
+      ],
+      "0310": [
+        "55-3011",
+        "55-3012",
+        "55-3013",
+        "55-3014",
+        "55-3015",
+        "55-3016",
+        "55-3017",
+        "55-3018",
+        "55-3019"
+      ],
+      "1111": [
+        "11-1031"
+      ],
+      "1113": [
+        "11-1031"
+      ],
+      "2131": [
+        "19-1099"
+      ],
+      "2163": [
+        "27-1029"
+      ],
+      "2261": [
+        "29-1029"
+      ],
+      "2269": [
+        "29-1129"
+      ],
+      "2310": [
+        "25-1069",
+        "25-1199"
+      ],
+      "2359": [
+        "25-9099"
+      ],
+      "2635": [
+        "21-1019",
+        "21-1029",
+        "21-1099"
+      ],
+      "2659": [
+        "27-2099"
+      ],
+      "3118": [
+        "17-3019"
+      ],
+      "3314": [
+        "15-2099"
+      ],
+      "3339": [
+        "41-9099"
+      ],
+      "3411": [
+        "23-2099"
+      ],
+      "3413": [
+        "21-2099"
+      ],
+      "3435": [
+        "27-1019",
+        "27-2099",
+        "27-3099",
+        "27-4099",
+        "39-3099"
+      ],
+      "3521": [
+        "27-4099"
+      ],
+      "4212": [
+        "39-3019"
+      ],
+      "4213": [
+        "41-9099",
+        "43-3099"
+      ],
+      "4229": [
+        "43-2099",
+        "43-4199"
+      ],
+      "4312": [
+        "43-3099"
+      ],
+      "4419": [
+        "43-4199",
+        "43-9199"
+      ],
+      "5120": [
+        "35-2019"
+      ],
+      "5152": [
+        "39-9099"
+      ],
+      "5161": [
+        "27-2099"
+      ],
+      "5162": [
+        "39-9099"
+      ],
+      "5169": [
+        "39-9099"
+      ],
+      "5249": [
+        "41-9099"
+      ],
+      "5414": [
+        "33-1099"
+      ],
+      "5419": [
+        "33-1099"
+      ],
+      "6210": [
+        "45-4029"
+      ],
+      "7133": [
+        "37-2019"
+      ],
+      "7221": [
+        "51-4199"
+      ],
+      "7223": [
+        "51-4199"
+      ],
+      "7311": [
+        "49-9069"
+      ],
+      "7317": [
+        "51-7099"
+      ],
+      "7514": [
+        "51-3099"
+      ],
+      "7535": [
+        "51-6099"
+      ],
+      "8111": [
+        "47-5049"
+      ],
+      "8142": [
+        "51-4199"
+      ],
+      "8155": [
+        "51-6099"
+      ],
+      "8159": [
+        "51-6099"
+      ],
+      "8160": [
+        "51-3099"
+      ],
+      "8219": [
+        "51-2099"
+      ],
+      "8312": [
+        "53-4099"
+      ],
+      "8321": [
+        "53-3099"
+      ],
+      "9129": [
+        "37-2019"
+      ],
+      "9211": [
+        "45-2099"
+      ],
+      "9212": [
+        "45-2099"
+      ],
+      "9213": [
+        "45-2099"
+      ],
+      "9214": [
+        "37-3019"
+      ],
+      "9215": [
+        "45-4029"
+      ],
+      "9311": [
+        "47-5099"
+      ],
+      "9312": [
+        "47-3019"
+      ],
+      "9313": [
+        "47-3019"
+      ],
+      "9331": [
+        "53-6099",
+        "53-7199"
+      ],
+      "9332": [
+        "53-6099",
+        "53-7199"
+      ],
+      "9412": [
+        "35-9099"
+      ],
+      "9510": [
+        "39-9099"
+      ],
+      "9613": [
+        "37-3019"
+      ],
+      "9622": [
+        "37-3019"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1712 @@
+{
+  "2018": {
+    "sjmm_suf-1-01-2018-03-04120-0-000000323": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-01780-0-000000636": {
+      "ai_requirement": true,
+      "reason": "Mentions developing innovations with Machine Learning."
+    },
+    "sjmm_suf-1-01-2018-03-06220-0-000000669": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-01515-0-000000776": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-1-01-2018-03-04124-0-000000950": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-1-01-2018-03-04114-0-000000981": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-01776-0-000001440": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-01776-0-000001441": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2018-03-01776-0-000001442": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-02716-0-000001895": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2018-03-01972-0-000001981": {
+      "ai_requirement": true,
+      "reason": "Job requires AI/ML skills and mentions specific technologies."
+    },
+    "sjmm_suf-2-02-2018-03-02111-0-000002346": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-02111-0-000002351": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-01074-0-000002463": {
+      "ai_requirement": true,
+      "reason": "Mentions use of speech recognition technology."
+    },
+    "sjmm_suf-2-02-2018-03-01074-0-000002464": {
+      "ai_requirement": true,
+      "reason": "Mentions modern speech recognition systems."
+    },
+    "sjmm_suf-2-02-2018-03-01074-0-000002465": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-00470-0-000002954": {
+      "ai_requirement": true,
+      "reason": "Job prefers candidates with machine learning experience."
+    },
+    "sjmm_suf-2-02-2018-03-01211-0-000003473": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2018-03-00550-0-000003988": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and predictive analytics as a plus."
+    },
+    "sjmm_suf-2-02-2018-03-00481-0-000004055": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and natural language analysis."
+    },
+    "sjmm_suf-2-02-2018-03-02822-0-000004691": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning and Big Data technologies."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000004777": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000006207": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI in the context of smart garden platform."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000006660": {
+      "ai_requirement": true,
+      "reason": "Job mentions natural language processing and AI-related fields."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000006704": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in AI and machine learning for data science."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000006924": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000007100": {
+      "ai_requirement": true,
+      "reason": "Requires experience with AI tools like TensorFlow and deep learning."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000007408": {
+      "ai_requirement": true,
+      "reason": "Job mentions theoretical knowledge of Artificial Intelligence."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000008721": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000008831": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09001-0-000011049": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09010-0-000011671": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000017258": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000017280": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning and Big Data technologies."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000017500": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning skills and AI technologies."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000017830": {
+      "ai_requirement": true,
+      "reason": "Job mentions artificial intelligence and emerging technologies."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000020990": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09003-0-000021954": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09018-0-000024380": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and artificial intelligence as key skills."
+    },
+    "sjmm_suf-3-01-2018-03-09014-0-000026469": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning, deep learning, and TensorFlow."
+    },
+    "sjmm_suf-3-01-2018-03-09014-0-000026529": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09014-0-000026775": {
+      "ai_requirement": true,
+      "reason": "Mentions Cognitive and AI technology solutions."
+    },
+    "sjmm_suf-3-01-2018-03-09014-0-000026815": {
+      "ai_requirement": true,
+      "reason": "Mentions digitalization and robotics, implying AI relevance."
+    },
+    "sjmm_suf-3-01-2018-03-09020-0-000027665": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09019-0-000028625": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2018-03-09019-0-000028858": {
+      "ai_requirement": true,
+      "reason": "Mentions knowledge of machine learning algorithms and AI."
+    },
+    "sjmm_suf-3-01-2018-03-09019-0-000030132": {
+      "ai_requirement": true,
+      "reason": "Job mentions artificial intelligence and machine learning."
+    },
+    "sjmm_suf-3-01-2018-03-09017-0-000031429": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    }
+  },
+  "2019": {
+    "sjmm_suf-3-01-2019-03-09010-0-000000056": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09010-0-000000094": {
+      "ai_requirement": true,
+      "reason": "Job requires knowledge of machine learning and data analysis."
+    },
+    "sjmm_suf-2-02-2019-03-00188-0-000000111": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09010-0-000000119": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning techniques as an advantage."
+    },
+    "sjmm_suf-2-02-2019-03-00009-0-000000147": {
+      "ai_requirement": true,
+      "reason": "Mentions curiosity for advanced BI technologies like Machine Learning."
+    },
+    "sjmm_suf-2-02-2019-03-01776-0-000000199": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01776-0-000000200": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01776-0-000000207": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01776-0-000000209": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01776-0-000000211": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-00941-0-000000297": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01461-0-000000417": {
+      "ai_requirement": true,
+      "reason": "Mentions Data Mining, indicating AI-related tasks."
+    },
+    "sjmm_suf-2-02-2019-03-00436-0-000000500": {
+      "ai_requirement": true,
+      "reason": "Mentions interest in Machine Learning and Analytics."
+    },
+    "sjmm_suf-2-02-2019-03-01781-0-000000627": {
+      "ai_requirement": true,
+      "reason": "Job involves managing robotics and automation systems."
+    },
+    "sjmm_suf-2-02-2019-03-01515-0-000000760": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-00898-0-000000798": {
+      "ai_requirement": true,
+      "reason": "Mentions knowledge of camera systems and computer vision."
+    },
+    "sjmm_suf-2-02-2019-03-01875-0-000001295": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-00536-0-000001356": {
+      "ai_requirement": true,
+      "reason": "Mentions AI as a tool for improving learning experiences."
+    },
+    "sjmm_suf-2-02-2019-03-01786-0-000001650": {
+      "ai_requirement": true,
+      "reason": "Job requires AI, ML, and DL skills for data analysis."
+    },
+    "sjmm_suf-2-02-2019-03-01786-0-000001653": {
+      "ai_requirement": true,
+      "reason": "Job mentions advanced analytics and machine learning experience."
+    },
+    "sjmm_suf-2-02-2019-03-02111-0-000001900": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01824-0-000001939": {
+      "ai_requirement": true,
+      "reason": "Mentions coding and robotics, relevant to AI skills."
+    },
+    "sjmm_suf-2-02-2019-03-01972-0-000001953": {
+      "ai_requirement": true,
+      "reason": "Job requires AI/ML expertise and mentions AI concepts."
+    },
+    "sjmm_suf-2-02-2019-03-02462-0-000001997": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and data science expertise."
+    },
+    "sjmm_suf-2-02-2019-03-01299-0-000002243": {
+      "ai_requirement": true,
+      "reason": "Job mentions development and management of AI technologies."
+    },
+    "sjmm_suf-2-02-2019-03-01299-0-000002248": {
+      "ai_requirement": true,
+      "reason": "Mentions AI in supply chain context."
+    },
+    "sjmm_suf-2-02-2019-03-01957-0-000002265": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning techniques as an advantage."
+    },
+    "sjmm_suf-2-02-2019-03-01074-0-000002463": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01074-0-000002464": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01074-0-000002465": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01074-0-000002466": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01074-0-000002467": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-01186-0-000002658": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-00470-0-000002999": {
+      "ai_requirement": true,
+      "reason": "Mentions digital innovations and text analytics applications."
+    },
+    "sjmm_suf-2-02-2019-03-00470-0-000003001": {
+      "ai_requirement": true,
+      "reason": "Job requires deep learning and AI-related skills."
+    },
+    "sjmm_suf-2-02-2019-03-01211-0-000003115": {
+      "ai_requirement": true,
+      "reason": "Job requires knowledge of machine learning and AI for financial insights."
+    },
+    "sjmm_suf-2-02-2019-03-01164-0-000003279": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-02713-0-000003342": {
+      "ai_requirement": true,
+      "reason": "Mentions cloud robotics and AI applications."
+    },
+    "sjmm_suf-2-02-2019-03-01979-0-000003425": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning techniques and Big Data technologies."
+    },
+    "sjmm_suf-2-02-2019-03-00089-0-000003757": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning as a beneficial skill."
+    },
+    "sjmm_suf-2-02-2019-03-00142-0-000003796": {
+      "ai_requirement": true,
+      "reason": "Mentions data analytics and robotics in audit processes."
+    },
+    "sjmm_suf-2-02-2019-03-00483-0-000003868": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and cognitive computing as plus."
+    },
+    "sjmm_suf-2-02-2019-03-00491-0-000003884": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-00489-0-000003896": {
+      "ai_requirement": true,
+      "reason": "Mentions AI concepts like Watson and cognitive technologies."
+    },
+    "sjmm_suf-2-02-2019-03-00505-0-000003924": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI capabilities in the Sherlock Platform."
+    },
+    "sjmm_suf-2-02-2019-03-00505-0-000003927": {
+      "ai_requirement": true,
+      "reason": "Mentions AI in context of process optimization and digitalization."
+    },
+    "sjmm_suf-2-02-2019-03-00478-0-000004093": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2019-03-00544-0-000004225": {
+      "ai_requirement": true,
+      "reason": "Job mentions artificial intelligence and technology trends."
+    },
+    "sjmm_suf-2-02-2019-03-01784-0-000004444": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2019-03-00046-0-000004591": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2019-03-02822-0-000004728": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning and Big Data for prototyping."
+    },
+    "sjmm_suf-3-01-2019-03-09018-1-022136360": {
+      "ai_requirement": true,
+      "reason": "Job involves collaboration on Machine Learning models."
+    },
+    "sjmm_suf-3-01-2019-03-09003-1-023908503": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09001-1-023972510": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09008-1-023973081": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09001-1-023988299": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning experience and mentions AI technologies."
+    },
+    "sjmm_suf-3-01-2019-03-09007-1-023994998": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09003-1-023998487": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09001-1-023999377": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI as a current topic in IT."
+    },
+    "sjmm_suf-3-01-2019-03-09014-1-024006765": {
+      "ai_requirement": true,
+      "reason": "Job requires AI skills for search engine ranking algorithms."
+    },
+    "sjmm_suf-3-01-2019-03-09020-1-024006855": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2019-03-09018-1-024007738": {
+      "ai_requirement": true,
+      "reason": "Job requires NLP expertise and knowledge in machine learning."
+    },
+    "sjmm_suf-3-01-2019-03-09018-1-024008106": {
+      "ai_requirement": true,
+      "reason": "Mentions AI and cognitive tools in the context of work changes."
+    },
+    "sjmm_suf-3-01-2019-03-09018-1-024008314": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09003-1-024009708": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2019-03-09003-1-024013146": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    }
+  },
+  "2020": {
+    "sjmm_suf-2-02-2020-03-00941-0-000000329": {
+      "ai_requirement": true,
+      "reason": "Job mentions machine learning approaches for data processing."
+    },
+    "sjmm_suf-2-02-2020-03-02239-0-000000987": {
+      "ai_requirement": true,
+      "reason": "Mentions data analytics AI/ML knowledge as a plus."
+    },
+    "sjmm_suf-2-02-2020-03-02239-0-000000993": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and data analytics products."
+    },
+    "sjmm_suf-2-02-2020-03-02395-0-000001404": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning experience and related technologies."
+    },
+    "sjmm_suf-2-02-2020-03-01990-0-000001461": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-02716-0-000001880": {
+      "ai_requirement": true,
+      "reason": "Knowledge of machine learning tools is mentioned as a plus."
+    },
+    "sjmm_suf-2-02-2020-03-02222-0-000001906": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-02397-0-000001921": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and computer vision expertise."
+    },
+    "sjmm_suf-2-02-2020-03-00422-0-000002037": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or tasks."
+    },
+    "sjmm_suf-2-02-2020-03-01432-0-000002142": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-01432-0-000002147": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-01299-0-000002321": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-01299-0-000002326": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2020-03-02113-0-000002361": {
+      "ai_requirement": true,
+      "reason": "Mentions predictive analytics and smart manufacturing technologies."
+    },
+    "sjmm_suf-2-02-2020-03-01859-0-000002570": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00507-0-000002653": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-01956-0-000002678": {
+      "ai_requirement": true,
+      "reason": "Mentions experience with ML frameworks like TensorFlow."
+    },
+    "sjmm_suf-2-02-2020-03-01074-0-000002750": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00046-0-000002847": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-02235-0-000002990": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2020-03-02267-0-000003356": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00116-0-000003430": {
+      "ai_requirement": true,
+      "reason": "Job requires knowledge of AI/machine learning techniques."
+    },
+    "sjmm_suf-2-02-2020-03-00855-0-000003777": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in Data Science and Machine Learning."
+    },
+    "sjmm_suf-2-02-2020-03-00505-0-000004065": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning pipelines and PySpark."
+    },
+    "sjmm_suf-2-02-2020-03-00137-0-000004309": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00137-0-000004311": {
+      "ai_requirement": true,
+      "reason": "Job involves robotics, which often includes AI technologies."
+    },
+    "sjmm_suf-2-02-2020-03-00137-0-000004312": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00137-0-000004314": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00137-0-000004316": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2020-03-00510-0-000004344": {
+      "ai_requirement": true,
+      "reason": "Mentions Data Science and digital evidence analysis."
+    },
+    "sjmm_suf-2-02-2020-03-00803-0-000004353": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in project context."
+    },
+    "sjmm_suf-2-02-2020-03-01772-0-000004566": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in machine learning and image analysis."
+    },
+    "sjmm_suf-2-02-2020-03-01772-0-000004570": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence and fiscal systems."
+    },
+    "sjmm_suf-2-02-2020-03-02822-0-000004911": {
+      "ai_requirement": true,
+      "reason": "Mentions AI in the context of Advanced Analytics."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-024123863": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in project context."
+    },
+    "sjmm_suf-3-01-2020-03-09018-1-024975147": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI-related skills and technologies."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-025132312": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2020-03-09001-1-025251423": {
+      "ai_requirement": true,
+      "reason": "Mentions AIAG CQI 9 Assessments related to quality management."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-025389768": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2020-03-09018-1-025534736": {
+      "ai_requirement": true,
+      "reason": "Job requires deep learning and NLP expertise."
+    },
+    "sjmm_suf-3-01-2020-03-09013-1-025593334": {
+      "ai_requirement": true,
+      "reason": "Mentions knowledge in computer vision, related to AI."
+    },
+    "sjmm_suf-3-01-2020-03-09008-1-025595078": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2020-03-09018-1-025595159": {
+      "ai_requirement": true,
+      "reason": "Job mentions Machine Learning applications and Data Analysis."
+    },
+    "sjmm_suf-3-01-2020-03-09001-1-025599164": {
+      "ai_requirement": true,
+      "reason": "Job requires AI and machine learning skills for data analysis."
+    },
+    "sjmm_suf-3-01-2020-03-09014-1-025600191": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI utilization in digital technology."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-025606554": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2020-03-09001-1-025606738": {
+      "ai_requirement": true,
+      "reason": "Mentions advanced analytics and data science skills."
+    },
+    "sjmm_suf-3-01-2020-03-09018-1-025607373": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and Industry 4.0 technologies."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-025613304": {
+      "ai_requirement": true,
+      "reason": "Job mentions knowledge in AI and Big Data."
+    },
+    "sjmm_suf-3-01-2020-03-09001-1-025616797": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2020-03-09018-1-025620036": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in machine learning and image analysis."
+    },
+    "sjmm_suf-3-01-2020-03-09019-1-025622731": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2020-03-09003-1-025625567": {
+      "ai_requirement": true,
+      "reason": "Mentions AI and Machine Learning as desirable skills."
+    }
+  },
+  "2021": {
+    "sjmm_suf-2-02-2021-03-02474-1-000008985": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-02394-1-000009048": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-02267-1-000009128": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2021-03-02220-1-000009256": {
+      "ai_requirement": true,
+      "reason": "Job mentions support for RPA program and UI Path."
+    },
+    "sjmm_suf-2-02-2021-03-02133-1-000009366": {
+      "ai_requirement": true,
+      "reason": "Interest in machine learning is mentioned as a plus."
+    },
+    "sjmm_suf-2-02-2021-03-01979-1-000009456": {
+      "ai_requirement": true,
+      "reason": "Mentions familiarity with AI environments and data techniques."
+    },
+    "sjmm_suf-2-02-2021-03-01977-1-000009511": {
+      "ai_requirement": true,
+      "reason": "Mentions big data and intelligence augmentée."
+    },
+    "sjmm_suf-2-02-2021-03-01972-1-000009517": {
+      "ai_requirement": true,
+      "reason": "Job mentions machine-learning tools for structure-odour relationships."
+    },
+    "sjmm_suf-2-02-2021-03-01972-1-000009521": {
+      "ai_requirement": true,
+      "reason": "Job mentions leveraging AI technologies for digital transformation."
+    },
+    "sjmm_suf-2-02-2021-03-01515-1-000009563": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2021-03-01454-1-000009624": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01454-1-000009625": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01454-1-000009626": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01454-1-000009627": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01454-1-000009628": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2021-03-02848-1-000009654": {
+      "ai_requirement": true,
+      "reason": "Mentions AI, ML, and NLP as advantageous skills."
+    },
+    "sjmm_suf-2-02-2021-03-02716-1-000009900": {
+      "ai_requirement": true,
+      "reason": "Requires strong background in Machine Learning."
+    },
+    "sjmm_suf-2-02-2021-03-01432-1-000009939": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01358-1-000010057": {
+      "ai_requirement": true,
+      "reason": "AI/ML knowledge is mentioned as beneficial."
+    },
+    "sjmm_suf-2-02-2021-03-01301-1-000010262": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01211-1-000010549": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2021-03-01211-1-000010556": {
+      "ai_requirement": true,
+      "reason": "Job requires AI and machine learning tools for analytics."
+    },
+    "sjmm_suf-2-02-2021-03-01194-1-000010620": {
+      "ai_requirement": true,
+      "reason": "Job mentions data analytics and machine learning skills."
+    },
+    "sjmm_suf-2-02-2021-03-01151-1-000010768": {
+      "ai_requirement": true,
+      "reason": "Requires background in machine learning."
+    },
+    "sjmm_suf-2-02-2021-03-01074-1-000010807": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01074-1-000010808": {
+      "ai_requirement": true,
+      "reason": "Mentions use of AI technologies like speech recognition."
+    },
+    "sjmm_suf-2-02-2021-03-01074-1-000010810": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01779-1-000011149": {
+      "ai_requirement": true,
+      "reason": "Job requires knowledge of data analytics algorithms and data science."
+    },
+    "sjmm_suf-2-02-2021-03-01779-1-000011155": {
+      "ai_requirement": true,
+      "reason": "Mentions working with artificial intelligence."
+    },
+    "sjmm_suf-2-02-2021-03-01776-1-000011170": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-02-2021-03-01650-1-000011274": {
+      "ai_requirement": true,
+      "reason": "Job mentions Künstliche Intelligenz (AI) as a trend."
+    },
+    "sjmm_suf-2-02-2021-03-00898-1-000011416": {
+      "ai_requirement": true,
+      "reason": "Job involves managing Machine Learning-based products."
+    },
+    "sjmm_suf-2-02-2021-03-00864-1-000011516": {
+      "ai_requirement": true,
+      "reason": "Job mentions data analytics and machine learning skills."
+    },
+    "sjmm_suf-2-02-2021-03-00864-1-000011520": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in using NLP for data analysis."
+    },
+    "sjmm_suf-2-02-2021-03-00793-1-000011675": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning as beneficial experience."
+    },
+    "sjmm_suf-2-02-2021-03-00544-1-000011797": {
+      "ai_requirement": true,
+      "reason": "Mentions technology trends and innovation, including robotics."
+    },
+    "sjmm_suf-2-02-2021-03-00546-1-000011804": {
+      "ai_requirement": true,
+      "reason": "Mentions Industry 4.0 and automation, implying AI relevance."
+    },
+    "sjmm_suf-2-02-2021-03-00531-1-000011887": {
+      "ai_requirement": true,
+      "reason": "Job requires Machine Learning experience and Data Science skills."
+    },
+    "sjmm_suf-2-02-2021-03-00470-1-000012338": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in Machine Learning and Natural Language Processing."
+    },
+    "sjmm_suf-2-02-2021-03-00137-1-000012842": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and data science skills."
+    },
+    "sjmm_suf-2-02-2021-03-00142-1-000012872": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI in controls automation and transformation."
+    },
+    "sjmm_suf-2-02-2021-03-00046-1-000013033": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-01784-1-000017867": {
+      "ai_requirement": true,
+      "reason": "Mentions data-driven advisory and advanced analytics."
+    },
+    "sjmm_suf-2-02-2021-03-02111-1-000018193": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-02-2021-03-02111-1-000018196": {
+      "ai_requirement": true,
+      "reason": "Mentions emerging technologies and digital education tools."
+    },
+    "sjmm_suf-3-01-2021-03-09018-1-026402483": {
+      "ai_requirement": true,
+      "reason": "Mentions big data/machine learning/AI in technology knowledge."
+    },
+    "sjmm_suf-3-01-2021-03-09018-1-026794613": {
+      "ai_requirement": true,
+      "reason": "Mentions advanced analytics and machine learning techniques."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027098793": {
+      "ai_requirement": true,
+      "reason": "Mentions advanced analytics and machine learning techniques."
+    },
+    "sjmm_suf-3-01-2021-03-09003-1-027334962": {
+      "ai_requirement": true,
+      "reason": "Mentions interest in Machine Learning and data analysis."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027335132": {
+      "ai_requirement": true,
+      "reason": "Mentions interest in Machine Learning and data analysis."
+    },
+    "sjmm_suf-3-01-2021-03-09003-1-027426622": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027455970": {
+      "ai_requirement": true,
+      "reason": "Job requires knowledge in AI and machine learning."
+    },
+    "sjmm_suf-3-01-2021-03-09008-1-027457163": {
+      "ai_requirement": true,
+      "reason": "Job mentions basic knowledge of artificial intelligence."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027457925": {
+      "ai_requirement": true,
+      "reason": "Job requires skills in natural language processing and familiarity with AI tools."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027477521": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning and Data Science expertise."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027477666": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and data science skills."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027487656": {
+      "ai_requirement": true,
+      "reason": "Job requires AI skills in robotics and computer vision."
+    },
+    "sjmm_suf-3-01-2021-03-09001-1-027487798": {
+      "ai_requirement": true,
+      "reason": "Mentions AI in the context of digital innovation."
+    },
+    "sjmm_suf-3-01-2021-03-09019-1-027514746": {
+      "ai_requirement": true,
+      "reason": "Mentions Künstlichen Intelligenz (AI) in tasks."
+    },
+    "sjmm_suf-3-01-2021-03-09008-1-027517566": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2021-03-09003-1-027528425": {
+      "ai_requirement": true,
+      "reason": "Mentions predictive maintenance and data pipelines."
+    },
+    "sjmm_suf-3-01-2021-03-09019-1-027529732": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and deep learning skills."
+    },
+    "sjmm_suf-3-01-2021-03-09003-1-027559855": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2021-03-09003-1-027573753": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2021-03-09017-1-041418246": {
+      "ai_requirement": true,
+      "reason": "Mentions Machine Learning and its application potential."
+    }
+  },
+  "2022": {
+    "sjmm_suf-2-05-2022-03-05873-1-000078658": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2022-03-05061-1-000079028": {
+      "ai_requirement": true,
+      "reason": "Job involves data-driven models for predictive maintenance."
+    },
+    "sjmm_suf-2-05-2022-03-05229-1-000079459": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05246-1-000079508": {
+      "ai_requirement": true,
+      "reason": "Job mentions machine learning and advanced statistical knowledge."
+    },
+    "sjmm_suf-2-05-2022-03-05865-1-000079923": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and data science skills."
+    },
+    "sjmm_suf-2-05-2022-03-05588-1-000081685": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and digital medicine."
+    },
+    "sjmm_suf-2-05-2022-03-05895-1-000083838": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05895-1-000083846": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and data science techniques."
+    },
+    "sjmm_suf-2-05-2022-03-06438-1-000084632": {
+      "ai_requirement": true,
+      "reason": "Job involves managing AI products and delivery."
+    },
+    "sjmm_suf-2-05-2022-03-06438-1-000084634": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in AI and ML model development."
+    },
+    "sjmm_suf-2-05-2022-03-06438-1-000084637": {
+      "ai_requirement": true,
+      "reason": "Job requires ML experience and mentions AI technologies."
+    },
+    "sjmm_suf-2-05-2022-03-06438-1-000084638": {
+      "ai_requirement": true,
+      "reason": "Job supports AI capabilities and involves data for AI systems."
+    },
+    "sjmm_suf-2-05-2022-03-06169-1-000084830": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI in process automation for assays."
+    },
+    "sjmm_suf-2-05-2022-03-05222-1-000085476": {
+      "ai_requirement": true,
+      "reason": "Job mentions digital innovation and automation, implying AI relevance."
+    },
+    "sjmm_suf-2-05-2022-03-05355-1-000085627": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and Machine Learning as part of required skills."
+    },
+    "sjmm_suf-2-05-2022-03-06194-1-000086195": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05898-1-000087078": {
+      "ai_requirement": true,
+      "reason": "Job mentions machine learning and statistical inference."
+    },
+    "sjmm_suf-2-05-2022-03-05898-1-000087083": {
+      "ai_requirement": true,
+      "reason": "Job requires ML and DL skills for image analysis."
+    },
+    "sjmm_suf-2-05-2022-03-05886-1-000087705": {
+      "ai_requirement": true,
+      "reason": "Job mentions artificial intelligence as a key topic."
+    },
+    "sjmm_suf-2-05-2022-03-05565-1-000088139": {
+      "ai_requirement": true,
+      "reason": "Job mentions experience in artificial intelligence as a requirement."
+    },
+    "sjmm_suf-2-05-2022-03-05863-1-000088599": {
+      "ai_requirement": true,
+      "reason": "Job requires RPA skills, related to AI automation."
+    },
+    "sjmm_suf-2-05-2022-03-05892-1-000089379": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence and natural language processing."
+    },
+    "sjmm_suf-2-05-2022-03-05892-1-000089412": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence and natural language processing."
+    },
+    "sjmm_suf-2-05-2022-03-05892-1-000089428": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence and natural language processing."
+    },
+    "sjmm_suf-2-05-2022-03-05892-1-000089475": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence and natural language processing."
+    },
+    "sjmm_suf-2-05-2022-03-06077-1-000090161": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI support in diagnostic tasks."
+    },
+    "sjmm_suf-2-05-2022-03-06172-1-000090245": {
+      "ai_requirement": true,
+      "reason": "Mentions deep learning frameworks and machine learning."
+    },
+    "sjmm_suf-2-05-2022-03-05076-1-000090630": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-06226-1-000090880": {
+      "ai_requirement": true,
+      "reason": "Job mentions software engineering for artificial intelligence."
+    },
+    "sjmm_suf-2-05-2022-03-05850-1-000091008": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in the context of product."
+    },
+    "sjmm_suf-2-05-2022-03-05641-1-000092975": {
+      "ai_requirement": true,
+      "reason": "Job mentions machine learning and predictive analytics."
+    },
+    "sjmm_suf-2-05-2022-03-05730-1-000093177": {
+      "ai_requirement": true,
+      "reason": "Mentions Data Science, ML-Ops, and AI-related technologies."
+    },
+    "sjmm_suf-2-05-2022-03-05603-1-000096812": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05080-1-000098349": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05888-1-000098820": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and AI technologies expertise."
+    },
+    "sjmm_suf-2-05-2022-03-05888-1-000098824": {
+      "ai_requirement": false,
+      "reason": "No explicit AI skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05114-1-000100003": {
+      "ai_requirement": true,
+      "reason": "Job mentions Machine Learning, indicating AI-related skills."
+    },
+    "sjmm_suf-2-05-2022-03-05230-1-000101112": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2022-03-05720-1-000101563": {
+      "ai_requirement": true,
+      "reason": "Mentions predictive analytics and data-driven analysis."
+    },
+    "sjmm_suf-2-05-2022-03-05880-1-000101953": {
+      "ai_requirement": true,
+      "reason": "Mentions AI and machine learning as advantageous knowledge."
+    },
+    "sjmm_suf-2-05-2022-03-06228-1-000103117": {
+      "ai_requirement": true,
+      "reason": "Mentions skills in machine learning and data mining."
+    },
+    "sjmm_suf-3-01-2022-03-09018-1-025330917": {
+      "ai_requirement": true,
+      "reason": "Mentions AI and related concepts as key market needs."
+    },
+    "sjmm_suf-3-01-2022-03-09018-1-036392638": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in Machine Learning and Data Platforms."
+    },
+    "sjmm_suf-3-01-2022-03-09008-1-036566311": {
+      "ai_requirement": true,
+      "reason": "Mentions experience in deep learning and computer vision."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-036809764": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI as a required skill and in technology applications."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037225804": {
+      "ai_requirement": true,
+      "reason": "Job mentions basic Machine Learning knowledge and data preparation for ML."
+    },
+    "sjmm_suf-3-01-2022-03-09018-1-037317891": {
+      "ai_requirement": true,
+      "reason": "Mentions speech recognition and automated scanning, AI-related tasks."
+    },
+    "sjmm_suf-3-01-2022-03-09018-1-037499108": {
+      "ai_requirement": true,
+      "reason": "Mentions understanding of AI in recruiting strategy."
+    },
+    "sjmm_suf-3-01-2022-03-09008-1-037733070": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in the Codos APP."
+    },
+    "sjmm_suf-3-01-2022-03-09013-1-037764291": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2022-03-09007-1-037794525": {
+      "ai_requirement": true,
+      "reason": "Job mentions data science and predictive analytics."
+    },
+    "sjmm_suf-3-01-2022-03-09008-1-037796707": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037826240": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037828633": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037904032": {
+      "ai_requirement": true,
+      "reason": "Mentions support in Predictive Maintenance and Augmented Reality."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037907394": {
+      "ai_requirement": true,
+      "reason": "Mentions AI Builder in Power Platform solutions."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037907602": {
+      "ai_requirement": true,
+      "reason": "Job mentions 'Artificial Intelligence' as a foundational technology."
+    },
+    "sjmm_suf-3-01-2022-03-09019-1-037913143": {
+      "ai_requirement": true,
+      "reason": "Job involves operationalizing machine learning models."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037955638": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2022-03-09003-1-037962156": {
+      "ai_requirement": true,
+      "reason": "Job mentions innovation around IoT and artificial intelligence."
+    },
+    "sjmm_suf-3-01-2022-03-09017-1-041407472": {
+      "ai_requirement": true,
+      "reason": "Job requires implementation of machine learning algorithms."
+    }
+  },
+  "2023": {
+    "sjmm_suf-2-05-2023-03-05336-1-000244536": {
+      "ai_requirement": true,
+      "reason": "Job mentions BIM, a digital planning method related to AI."
+    },
+    "sjmm_suf-2-05-2023-03-06177-1-000245761": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-06438-1-000246246": {
+      "ai_requirement": true,
+      "reason": "Job involves developing an AI Review Assistant."
+    },
+    "sjmm_suf-2-05-2023-03-05880-1-000246734": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in Data Engineering and Machine Learning."
+    },
+    "sjmm_suf-2-05-2023-03-05219-1-000247583": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05886-1-000248890": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI skills or concepts."
+    },
+    "sjmm_suf-2-05-2023-03-05886-1-000248901": {
+      "ai_requirement": true,
+      "reason": "Mentions artificial intelligence as a key technology."
+    },
+    "sjmm_suf-2-05-2023-03-05054-1-000249033": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05054-1-000249034": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05054-1-000249035": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2023-03-05054-1-000249036": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-06219-1-000249115": {
+      "ai_requirement": true,
+      "reason": "Mentions collaboration with AI groups and bioinformatics."
+    },
+    "sjmm_suf-2-05-2023-03-06231-1-000249892": {
+      "ai_requirement": true,
+      "reason": "Mentions KI-basierte Gestaltung as a desired skill."
+    },
+    "sjmm_suf-2-05-2023-03-05855-1-000250078": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05077-1-000250995": {
+      "ai_requirement": true,
+      "reason": "Job involves image processing algorithms, related to AI."
+    },
+    "sjmm_suf-2-05-2023-03-05892-1-000251825": {
+      "ai_requirement": true,
+      "reason": "Mentions AI-related fields like Machine Learning and Natural Language Understanding."
+    },
+    "sjmm_suf-2-05-2023-03-05236-1-000254145": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and optimisation applications."
+    },
+    "sjmm_suf-2-05-2023-03-05076-1-000254378": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2023-03-06242-1-000254442": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05897-1-000254754": {
+      "ai_requirement": true,
+      "reason": "Job focuses on applied conversational AI and related technologies."
+    },
+    "sjmm_suf-2-05-2023-03-06207-1-000254879": {
+      "ai_requirement": true,
+      "reason": "Job requires deep learning and AI-related skills."
+    },
+    "sjmm_suf-2-05-2023-03-06459-1-000255089": {
+      "ai_requirement": true,
+      "reason": "Mentions AI as part of required knowledge in ICT solutions."
+    },
+    "sjmm_suf-2-05-2023-03-06226-1-000257072": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI applications in learning design."
+    },
+    "sjmm_suf-2-05-2023-03-06208-1-000257823": {
+      "ai_requirement": true,
+      "reason": "Mentions applied artificial intelligence in training programs."
+    },
+    "sjmm_suf-2-05-2023-03-05036-1-000258319": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2023-03-05098-1-000258625": {
+      "ai_requirement": true,
+      "reason": "Mentions basic knowledge of data science and machine learning."
+    },
+    "sjmm_suf-2-05-2023-03-05879-1-000260786": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in data and artificial intelligence."
+    },
+    "sjmm_suf-2-05-2023-03-05879-1-000260799": {
+      "ai_requirement": true,
+      "reason": "Job mentions knowledge of AI/ML and their business impacts."
+    },
+    "sjmm_suf-2-05-2023-03-05898-1-000261966": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and NLP applications."
+    },
+    "sjmm_suf-2-05-2023-03-05888-1-000261994": {
+      "ai_requirement": true,
+      "reason": "Mentions NLP and data science in R&D data management."
+    },
+    "sjmm_suf-2-05-2023-03-05878-1-000262151": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05348-1-000262879": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05895-1-000266421": {
+      "ai_requirement": true,
+      "reason": "Job requires deploying machine learning models into production."
+    },
+    "sjmm_suf-2-05-2023-03-05882-1-000268483": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2023-03-06169-1-000269947": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2023-03-05850-1-000270024": {
+      "ai_requirement": true,
+      "reason": "Mentions use of Machine Learning and AI in solutions."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-043825489": {
+      "ai_requirement": true,
+      "reason": "Job requires experience with Machine Learning solutions."
+    },
+    "sjmm_suf-3-01-2023-03-09010-1-044352576": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-044560496": {
+      "ai_requirement": true,
+      "reason": "Experience with deep learning/machine learning/AI is a plus."
+    },
+    "sjmm_suf-3-01-2023-03-09010-1-044819352": {
+      "ai_requirement": true,
+      "reason": "Job requires ML engineering and data-centric AI skills."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045053288": {
+      "ai_requirement": true,
+      "reason": "Job mentions using machine learning techniques."
+    },
+    "sjmm_suf-3-01-2023-03-09001-1-045178604": {
+      "ai_requirement": true,
+      "reason": "Mentions computer linguistics and corpus analysis methods."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045191670": {
+      "ai_requirement": true,
+      "reason": "Job mentions developing statistical and machine learning models."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045191696": {
+      "ai_requirement": true,
+      "reason": "Job mentions using Artificial Intelligence for fraud detection."
+    },
+    "sjmm_suf-3-01-2023-03-09018-1-045210384": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045228976": {
+      "ai_requirement": true,
+      "reason": "Job mentions using AI for candidate spotting."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045235697": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09018-1-045254764": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09007-1-045264694": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045295238": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045295809": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09003-1-045299589": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2023-03-09001-1-045331929": {
+      "ai_requirement": true,
+      "reason": "Mentions ML/Automation in job responsibilities."
+    },
+    "sjmm_suf-3-01-2023-03-09001-1-045352831": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI in the context of technology strategy."
+    },
+    "sjmm_suf-3-01-2023-03-09001-1-045363827": {
+      "ai_requirement": true,
+      "reason": "Mentions automation applications in robotics/image processing."
+    },
+    "sjmm_suf-3-01-2023-03-09017-1-045399794": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in technology strategies."
+    }
+  },
+  "2024": {
+    "sjmm_suf-3-01-2024-03-09003-1-055846798": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI skills or concepts."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055826811": {
+      "ai_requirement": true,
+      "reason": "Job requires advanced data science methodologies including machine learning."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055842847": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and data analysis tools as a plus."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055813857": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-054862738": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055530611": {
+      "ai_requirement": true,
+      "reason": "Job involves explaining coding applied to robotics."
+    },
+    "sjmm_suf-3-01-2024-03-09001-1-055807325": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and machine learning in data analysis."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055335849": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055813524": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055813253": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055625685": {
+      "ai_requirement": true,
+      "reason": "Mentions AI in digital business model development."
+    },
+    "sjmm_suf-3-01-2024-03-09001-1-055828160": {
+      "ai_requirement": true,
+      "reason": "Job mentions using AI features in Talent Management."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055779886": {
+      "ai_requirement": true,
+      "reason": "Job mentions interest in ML and AI technologies."
+    },
+    "sjmm_suf-3-01-2024-03-09014-1-055856769": {
+      "ai_requirement": false,
+      "reason": "No mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-3-01-2024-03-09018-1-055784194": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09014-1-055678973": {
+      "ai_requirement": true,
+      "reason": "Mentions projects in Data and AI, indicating relevance."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055856181": {
+      "ai_requirement": true,
+      "reason": "Mentions generative AI and digital procurement transformation."
+    },
+    "sjmm_suf-3-01-2024-03-09018-1-055644075": {
+      "ai_requirement": true,
+      "reason": "Job mentions artificial intelligence as a relevant topic."
+    },
+    "sjmm_suf-3-01-2024-03-09014-1-055762718": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055816169": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning model development."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055842908": {
+      "ai_requirement": true,
+      "reason": "Job requires experience with AI and machine learning."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055826855": {
+      "ai_requirement": true,
+      "reason": "Mentions AI-based algorithms in the context of product solutions."
+    },
+    "sjmm_suf-3-01-2024-03-09020-1-055846996": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09019-1-055789434": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-3-01-2024-03-09003-1-055779934": {
+      "ai_requirement": true,
+      "reason": "Mentions basic understanding of machine learning and generative AI."
+    },
+    "sjmm_suf-3-01-2024-03-09001-1-055818414": {
+      "ai_requirement": true,
+      "reason": "Mentions MLOps and data governance related to AI."
+    },
+    "sjmm_suf-2-04-2024-03-05828-1-000347887": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05037-1-000355721": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05077-1-000362407": {
+      "ai_requirement": true,
+      "reason": "Job involves image processing algorithms, related to AI."
+    },
+    "sjmm_suf-2-05-2024-03-05077-1-000362408": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI, Machine Learning & Deep Neural Networks as a plus."
+    },
+    "sjmm_suf-2-05-2024-03-05054-1-000367453": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05054-1-000367454": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2024-03-05054-1-000367455": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05054-1-000367456": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2024-03-05054-1-000367457": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05892-1-000372059": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in machine learning and AI concepts."
+    },
+    "sjmm_suf-2-05-2024-03-05076-1-000358371": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05112-1-000363773": {
+      "ai_requirement": true,
+      "reason": "Mentions experience with ML frameworks and CNN."
+    },
+    "sjmm_suf-2-05-2024-03-05336-1-000371875": {
+      "ai_requirement": true,
+      "reason": "Mentions BIM and IT-connected devices, indicating AI relevance."
+    },
+    "sjmm_suf-2-05-2024-03-05710-1-000349856": {
+      "ai_requirement": true,
+      "reason": "Job requires specialization in AI and mentions generative AI."
+    },
+    "sjmm_suf-2-05-2024-03-05721-1-000366992": {
+      "ai_requirement": true,
+      "reason": "Job requires experience in Generative AI and related frameworks."
+    },
+    "sjmm_suf-2-05-2024-03-05722-1-000365579": {
+      "ai_requirement": true,
+      "reason": "Job requires AI strategy and governance experience."
+    },
+    "sjmm_suf-2-05-2024-03-05731-1-000349894": {
+      "ai_requirement": true,
+      "reason": "Job involves AI concepts and predictive modeling."
+    },
+    "sjmm_suf-2-05-2024-03-05731-1-000349899": {
+      "ai_requirement": true,
+      "reason": "Interest in machine learning tooling is mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05733-1-000362031": {
+      "ai_requirement": true,
+      "reason": "Mentions data analytics and machine learning."
+    },
+    "sjmm_suf-2-05-2024-03-05735-1-000358431": {
+      "ai_requirement": true,
+      "reason": "Job involves AI strategy and technology integration in banking."
+    },
+    "sjmm_suf-2-05-2024-03-05850-1-000368687": {
+      "ai_requirement": true,
+      "reason": "Job requires AI/ML skills and mentions generative AI, NLP, and deep learning."
+    },
+    "sjmm_suf-2-05-2024-03-05850-1-000368688": {
+      "ai_requirement": true,
+      "reason": "Job requires AI technologies and generative AI expertise."
+    },
+    "sjmm_suf-2-05-2024-03-05850-1-000368683": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in AI, ML, and generative AI technologies."
+    },
+    "sjmm_suf-2-05-2024-03-05874-1-000365532": {
+      "ai_requirement": true,
+      "reason": "Job mentions development of machine-learning algorithms for data analysis."
+    },
+    "sjmm_suf-2-05-2024-03-05876-1-000367625": {
+      "ai_requirement": true,
+      "reason": "Job mentions strong skills in AI as a plus."
+    },
+    "sjmm_suf-2-05-2024-03-05880-1-000355843": {
+      "ai_requirement": true,
+      "reason": "Job requires AI-related skills and experience."
+    },
+    "sjmm_suf-2-05-2024-03-05882-1-000353976": {
+      "ai_requirement": true,
+      "reason": "Job mentions 'Artificial Intelligence Risk' as a focus area."
+    },
+    "sjmm_suf-2-05-2024-03-05885-1-000357120": {
+      "ai_requirement": true,
+      "reason": "Job mentions use of AI in modern auditing approaches."
+    },
+    "sjmm_suf-2-05-2024-03-05886-1-000363755": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI and new technologies as part of the role."
+    },
+    "sjmm_suf-2-05-2024-03-05886-1-000363717": {
+      "ai_requirement": true,
+      "reason": "Job mentions Artificial Intelligence as a key topic."
+    },
+    "sjmm_suf-2-05-2024-03-05886-1-000363728": {
+      "ai_requirement": true,
+      "reason": "Job mentions expertise in artificial intelligence and related technologies."
+    },
+    "sjmm_suf-2-05-2024-03-05888-1-000349299": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-05888-1-000349297": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2024-03-05895-1-000351077": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and advanced computational methods."
+    },
+    "sjmm_suf-2-05-2024-03-05897-1-000355544": {
+      "ai_requirement": true,
+      "reason": "Job requires experience with machine learning and data engineering."
+    },
+    "sjmm_suf-2-05-2024-03-05898-1-000356217": {
+      "ai_requirement": true,
+      "reason": "Mentions use of generative AI in education."
+    },
+    "sjmm_suf-2-05-2024-03-05898-1-000356210": {
+      "ai_requirement": true,
+      "reason": "Job requires machine learning and deep learning skills."
+    },
+    "sjmm_suf-2-05-2024-03-05898-1-000356231": {
+      "ai_requirement": true,
+      "reason": "Mentions exploration of tools of generative AI."
+    },
+    "sjmm_suf-2-05-2024-03-05899-1-000361273": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI-related measures and assessments."
+    },
+    "sjmm_suf-2-05-2024-03-06127-1-000371270": {
+      "ai_requirement": true,
+      "reason": "Job mentions 'Robotik' in ergotherapeutic treatments."
+    },
+    "sjmm_suf-2-05-2024-03-06172-1-000359748": {
+      "ai_requirement": true,
+      "reason": "Job requires expertise in AI and large language models."
+    },
+    "sjmm_suf-2-05-2024-03-06207-1-000351325": {
+      "ai_requirement": true,
+      "reason": "Job mentions using new technologies (KI) for business models."
+    },
+    "sjmm_suf-2-05-2024-03-06209-1-000355452": {
+      "ai_requirement": false,
+      "reason": "No AI-related skills or concepts mentioned."
+    },
+    "sjmm_suf-2-05-2024-03-06218-1-000370787": {
+      "ai_requirement": false,
+      "reason": "No explicit mention of AI-related skills or concepts."
+    },
+    "sjmm_suf-2-05-2024-03-06218-1-000370793": {
+      "ai_requirement": true,
+      "reason": "Mentions machine learning and AI in research context."
+    },
+    "sjmm_suf-2-05-2024-03-06218-1-000370784": {
+      "ai_requirement": true,
+      "reason": "Interest in AI is mentioned as advantageous."
+    },
+    "sjmm_suf-2-05-2024-03-06226-1-000355659": {
+      "ai_requirement": true,
+      "reason": "Mentions secure and privacy-preserving machine learning."
+    },
+    "sjmm_suf-2-05-2024-03-06226-1-000355694": {
+      "ai_requirement": true,
+      "reason": "Job mentions AI in relation to supply chain projects."
+    },
+    "sjmm_suf-2-05-2024-03-06486-1-000368457": {
+      "ai_requirement": true,
+      "reason": "Mentions predictive maintenance and data analysis."
+    }
+  }
+}
