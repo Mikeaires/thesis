@@ -176,8 +176,12 @@ to the candidate’s skills, tools, or responsibilities, for example:
 - machine learning, ML
 - deep learning, neural networks
 - data science (as a main skill or role)
-- natural language processing, NLP
-- computer vision
+- natural language processing, NLP, sentiment analysis
+- computer vision, image processing, image recognition
+- speech recognition
+- anomaly detection
+- forecasting models
+- predictive maintenance
 - generative AI, LLMs, large language models, ChatGPT, GPT
 - recommendation systems, recommender systems
 - AI agents, autonomous agents
@@ -205,15 +209,13 @@ Assign ai_requirement = "Maybe" if ALL of the following are true:
 - None of the "True" conditions above apply (no explicit AI/ML requirement).
 - The job requires at least one concept that might be AI but can also be done without it, as teh examples from this list (examples, not exhaustive):
 
-  * data mining
-  * predictive maintenance / predictive analytics (without explicit ML)
-  * robotics, robot control
-  * image processing (without explicit computer vision / deep learning)
-  * signal processing
-  * automation of complex processes
-  * RPA / Robotic Process Automation (without explicit AI/ML/NLP/computer vision)
-  * anomaly detection (without explicit ML)
-  * forecasting models (without explicit ML/AI wording)
+  - data mining
+  - robotics, robot control
+  - general signal processing
+  - general automation
+  - general optimization 
+  - predictive analytics
+  - RPA / Robotic Process Automation (without explicit AI/ML/NLP/computer vision)
 
 - These skills/concepts are clearly part of the candidate’s profile, responsibilities, or tools used in the role.
 
@@ -253,6 +255,7 @@ Return JSON with fields:
 - ai_requirement: one of "True", "Maybe", or "False"
 - reason: a very short justification (<=150 chars)
 - keywords: a list of relevant AI or AI-adjacent keywords EXACTLY IN TEH WAY TAHT TEHY ARE WRITTEN IN TEH TEXT (use [] if none). If the classificatino is "True", add only the keywords that are really AI specific as described in the "Rules for True"."""
+
 
         )
 
