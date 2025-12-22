@@ -1,25 +1,13 @@
 {
   "dataset_gaps": {
     "industry_missing_exposure": {
-      "04": {
-        "count": 961,
-        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      "50": {
+        "count": 3255,
+        "reason": "comp_indu_noga not present in exposure lookup (collapsed NOGA mapping)"
       },
-      "34": {
-        "count": 2743,
-        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
-      },
-      "40": {
-        "count": 1066,
-        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
-      },
-      "44": {
-        "count": 8714,
-        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
-      },
-      "48": {
-        "count": 915,
-        "reason": "NOGA not present in exposure lookup (likely crosswalk gap)"
+      "51": {
+        "count": 4946,
+        "reason": "comp_indu_noga not present in exposure lookup (collapsed NOGA mapping)"
       }
     },
     "occupation_missing_exposure": {

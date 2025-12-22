@@ -1,0 +1,52 @@
+comp_indu_noga,noga_section,noga_section_list,noga_section_label
+1,MIXED,A/B,"Mixed: A (Agriculture, forestry and fishing); B (Mining and quarrying)"
+2,C,C,Manufacturing
+3,C,C,Manufacturing
+4,C,C,Manufacturing
+5,C,C,Manufacturing
+6,C,C,Manufacturing
+7,C,C,Manufacturing
+8,C,C,Manufacturing
+9,C,C,Manufacturing
+10,C,C,Manufacturing
+11,C,C,Manufacturing
+12,C,C,Manufacturing
+13,C,C,Manufacturing
+14,C,C,Manufacturing
+15,C,C,Manufacturing
+16,C,C,Manufacturing
+17,C,C,Manufacturing
+18,MIXED,D/E,"Mixed: D (Electricity, gas, steam and air conditioning supply); E (Water supply; sewerage, waste management)"
+19,F,F,Construction
+20,F,F,Construction
+21,F,F,Construction
+22,G,G,Wholesale and retail trade; repair of motor vehicles
+23,G,G,Wholesale and retail trade; repair of motor vehicles
+24,G,G,Wholesale and retail trade; repair of motor vehicles
+25,H,H,Transportation and storage
+26,H,H,Transportation and storage
+27,H,H,Transportation and storage
+28,H,H,Transportation and storage
+29,I,I,Accommodation and food service activities
+30,I,I,Accommodation and food service activities
+31,J,J,Information and communication
+32,J,J,Information and communication
+33,K,K,Financial and insurance activities
+34,K,K,Financial and insurance activities
+35,K,K,Financial and insurance activities
+36,L,L,Real estate activities
+37,M,M,"Professional, scientific and technical activities"
+38,M,M,"Professional, scientific and technical activities"
+39,M,M,"Professional, scientific and technical activities"
+40,M,M,"Professional, scientific and technical activities"
+41,N,N,Administrative and support service activities
+42,O,O,Public administration and defence; compulsory social security
+43,P,P,Education
+44,Q,Q,Human health and social work activities
+45,Q,Q,Human health and social work activities
+46,Q,Q,Human health and social work activities
+47,R,R,"Arts, entertainment and recreation"
+48,S,S,Other service activities
+49,S,S,Other service activities
+50,T,T,Activities of households as employers
+51,U,U,Activities of extraterritorial organisations

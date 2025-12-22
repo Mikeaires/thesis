@@ -1,0 +1,52 @@
+comp_indu_noga,noga_divisions_group,label_de,label_full_de
+1,1/2/3/5/6/7/8/9,"Land- und Forstwirtschaft, Fischerei","1/2/3/5/6/7/8/9 Land- und Forstwirtschaft, Fischerei"
+2,10/11/12,Herstellung von Nahrungsmitteln und Tabakerzeugnissen,10/11/12 Herstellung von Nahrungsmitteln und Tabakerzeugnissen
+3,13/14/15,Herstellung von Textilien und Bekleidung,13/14/15 Herstellung von Textilien und Bekleidung
+4,16,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)","16 Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)"
+5,17,Herstellung von Papier. Pappe und Waren daraus,17 Herstellung von Papier. Pappe und Waren daraus
+6,18,"Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern","18 Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+7,19/20,"Herstellung von chemischen Erzeugnissen, Kokerei und Mineralölverarbeitung","19/20 Herstellung von chemischen Erzeugnissen, Kokerei und Mineralölverarbeitung"
+8,21,Herstellung von pharmazeutischen Erzeugnissen,21 Herstellung von pharmazeutischen Erzeugnissen
+9,22,Herstellung von Gummi- und Kunststoffwaren,22 Herstellung von Gummi- und Kunststoffwaren
+10,23,"Herstellung von Glas und Glaswaren, Keramik. Verarbeitung von Steinen und Erden","23 Herstellung von Glas und Glaswaren, Keramik. Verarbeitung von Steinen und Erden"
+11,24,Metallerzeugung und -bearbeitung,24 Metallerzeugung und -bearbeitung
+12,25,Herstellung von Metallerzeugnissen,25 Herstellung von Metallerzeugnissen
+13,26,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen","26 Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen"
+14,27,Herstellung von elektrischen Ausrüstungen,27 Herstellung von elektrischen Ausrüstungen
+15,28,Maschinenbau,28 Maschinenbau
+16,29/30,Fahrzeugbau,29/30 Fahrzeugbau
+17,31/32/33,"Sonstige Herstellung von Waren, Reparatur und Installation","31/32/33 Sonstige Herstellung von Waren, Reparatur und Installation"
+18,35/36/37/38/39,"Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","35/36/37/38/39 Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen"
+19,41,Hochbau,41 Hochbau
+20,42,Tiefbau,42 Tiefbau
+21,43,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe","43 Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe"
+22,45,Handel mit Motorfahrzeugen; Instandhaltung und Reparatur von Motorfahrzeugen,45 Handel mit Motorfahrzeugen; Instandhaltung und Reparatur von Motorfahrzeugen
+23,46,Grosshandel (ohne Handel mit Motorfahrzeugen),46 Grosshandel (ohne Handel mit Motorfahrzeugen)
+24,47,Detailhandel (ohne Handel mit Motorfahrzeugen),47 Detailhandel (ohne Handel mit Motorfahrzeugen)
+25,49,Landverkehr und Transport in Rohrfernleitungen,49 Landverkehr und Transport in Rohrfernleitungen
+26,50/51,Schifffahrt und Luftfahrt,50/51 Schifffahrt und Luftfahrt
+27,52,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,52 Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr
+28,53,"Post-, Kurier- und Expressdienste","53 Post-, Kurier- und Expressdienste"
+29,55,Beherbergung,55 Beherbergung
+30,56,Gastronomie,56 Gastronomie
+31,58/59/60,"Verlagswesen, audiovisuelle Medien und Rundfunk","58/59/60 Verlagswesen, audiovisuelle Medien und Rundfunk"
+32,61/62/63,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen","61/62/63 Telekommunikation, Informationstechnologische und Informationsdienstleistungen"
+33,64,Erbringung von Finanzdienstleistungen,64 Erbringung von Finanzdienstleistungen
+34,65,"Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)","65 Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)"
+35,66,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,66 Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten
+36,68,Grundstücks- und Wohnungswesen,68 Grundstücks- und Wohnungswesen
+37,69,Rechts- und Steuerberatung. Wirtschaftsprüfung,69 Rechts- und Steuerberatung. Wirtschaftsprüfung
+38,70,Verwaltung und Führung von Untemehmen und Betrieben; Unternehmensberatung,70 Verwaltung und Führung von Untemehmen und Betrieben; Unternehmensberatung
+39,71,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung","71 Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung"
+40,72/73/74/75,"Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen","72/73/74/75 Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen"
+41,77178179180/81/82,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,77178179180/81/82 Erbringung von sonstigen wirtschaftlichen Dienstleistungen
+42,84,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung","84 Öffentliche Verwaltung, Verteidigung; Sozialversicherung"
+43,85,Erziehung und Unterricht,85 Erziehung und Unterricht
+44,86,Gesundheitswesen,86 Gesundheitswesen
+45,87,Heime (ohne Erholungs- und Ferienheime),87 Heime (ohne Erholungs- und Ferienheime)
+46,88,Sozialwesen (ohne Heime),88 Sozialwesen (ohne Heime)
+47,80/91/92/93,"Kunst, Unterhaltung und Erholung","80/91/92/93 Kunst, Unterhaltung und Erholung"
+48,94,Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport),94 Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport)
+49,95/96,"Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern, Erbringung von sonstigen überwiegend persönlichen Dienstleistungen","95/96 Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern, Erbringung von sonstigen überwiegend persönlichen Dienstleistungen"
+50,97/98,Private Haushalte,97/98 Private Haushalte
+51,NA/99,"keine Angabe, Exterritoriale Organisationen und Körperschaften","NA/99 keine Angabe, Exterritoriale Organisationen und Körperschaften"
