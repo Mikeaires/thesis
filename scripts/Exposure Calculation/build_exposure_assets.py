@@ -6,6 +6,8 @@ The script relies on pandas to wrangle the Excel/CSV inputs provided in the
 
   * derived/exposures/isco_aioe.json
   * derived/exposures/noga_aiie.json
+  * derived/exposures/comp_indu_noga_aiie.json
+  * derived/exposures/noga_section_aiie.json
   * derived/exposures/exposure_gaps.json
   * derived/sjmm_ai_exposure.jsonl
 """
@@ -238,11 +240,24 @@ def build_industry_lookup() -> tuple[pd.DataFrame, Dict[str, str]]:
     return noga_aiie, naics_gaps
 
 
+def load_noga_crosswalk() -> pd.DataFrame:
+    """Load comp_indu_noga ↔ NOGA2 ↔ NOGA section crosswalk."""
+    path = CROSSWALKS_DIR / "comp_indu_noga_noga2_and_noga_section_crosswalk.csv"
+    df = pd.read_csv(path, dtype=str)
+    df["comp_code"] = pd.to_numeric(df["comp_indu_noga"], errors="coerce")
+    df = df.dropna(subset=["comp_code", "noga2", "noga_section"]).copy()
+    df["comp_code"] = df["comp_code"].astype(int).apply(lambda x: f"{x:02d}")
+    df["noga2"] = df["noga2"].astype(str).str.strip().str.zfill(2)
+    df["noga_section"] = df["noga_section"].astype(str).str.strip().str.upper()
+    return df
+
+
 def write_mapping_files(
     occupation_df: pd.DataFrame,
     industry_df: pd.DataFrame,
     comp_indu_df: pd.DataFrame,
-) -> tuple[dict, dict]:
+    section_df: pd.DataFrame,
+) -> tuple[dict, dict, dict, dict]:
     occ_payload = {}
     for isco, row in occupation_df.iterrows():
         aioe = row["aioe"]
@@ -291,28 +306,35 @@ def write_mapping_files(
     (EXPOSURE_DIR / "comp_indu_noga_aiie.json").write_text(
         json.dumps(comp_payload, indent=2, sort_keys=True), encoding="utf-8"
     )
-    return occ_payload, industry_payload, comp_payload
+    section_payload = {}
+    for section_code, row in section_df.iterrows():
+        aiie = row["aiie"]
+        aiie_weighted = row["aiie_weighted"]
+        contrib_list = row["contributions"]
+        naics_codes = sorted({item["naics"] for item in contrib_list})
+        isic_codes = sorted({code for item in contrib_list for code in item["isic_codes"]})
+        section_payload[section_code] = {
+            "aiie": None if pd.isna(aiie) else float(aiie),
+            "aiie_weighted": None if pd.isna(aiie_weighted) else float(aiie_weighted),
+            "contributions": contrib_list,
+            "naics_codes": naics_codes,
+            "isic_codes": isic_codes,
+            "section_label": row.get("section_label"),
+        }
+
+    (EXPOSURE_DIR / "noga_section_aiie.json").write_text(
+        json.dumps(section_payload, indent=2, sort_keys=True), encoding="utf-8"
+    )
+    return occ_payload, industry_payload, comp_payload, section_payload
 
 
 def collapse_noga_to_comp(
     industry_df: pd.DataFrame,
+    crosswalk: pd.DataFrame,
 ) -> pd.DataFrame:
     """Collapse NOGA-2 exposure to SJMM comp_indu_noga groups using the same weighting logic."""
-    crosswalk = pd.read_csv(
-        CROSSWALKS_DIR / "comp_indu_noga_to_noga2digit_expanded.csv",
-        dtype=str,
-    )
-    crosswalk["comp_indu_noga"] = pd.to_numeric(
-        crosswalk["comp_indu_noga"], errors="coerce"
-    )
-    crosswalk = crosswalk.dropna(subset=["comp_indu_noga", "noga_2digit"]).copy()
-    crosswalk["comp_code"] = crosswalk["comp_indu_noga"].astype(int).apply(lambda x: f"{x:02d}")
-    crosswalk["noga_2digit"] = (
-        crosswalk["noga_2digit"].astype(str).str.strip().str.zfill(2)
-    )
-
     comp_groups = (
-        crosswalk.groupby("comp_code")["noga_2digit"]
+        crosswalk.groupby("comp_code")["noga2"]
         .apply(lambda s: sorted(set(s)))
         .to_dict()
     )
@@ -352,10 +374,67 @@ def collapse_noga_to_comp(
     return comp_df
 
 
+def collapse_noga_to_section(
+    industry_df: pd.DataFrame,
+    crosswalk: pd.DataFrame,
+) -> pd.DataFrame:
+    """Collapse NOGA-2 exposure to NOGA section level."""
+    section_groups = (
+        crosswalk.groupby("noga_section")["noga2"]
+        .apply(lambda s: sorted(set(s)))
+        .to_dict()
+    )
+    section_labels = (
+        crosswalk.dropna(subset=["noga_section_label"])
+        .drop_duplicates(subset=["noga_section"])
+        .set_index("noga_section")["noga_section_label"]
+        .to_dict()
+    )
+
+    rows = []
+    for section_code, noga_list in section_groups.items():
+        pooled = []
+        for noga in noga_list:
+            if noga in industry_df.index:
+                pooled.extend(industry_df.loc[noga, "contributions"])
+        if not pooled:
+            rows.append(
+                {
+                    "noga_section": section_code,
+                    "aiie": np.nan,
+                    "aiie_weighted": np.nan,
+                    "contributions": [],
+                    "section_label": section_labels.get(section_code),
+                }
+            )
+            continue
+        aiies = [item["aiie"] for item in pooled]
+        weights = [item["isic_count"] for item in pooled]
+        aiie = float(np.mean(aiies)) if aiies else np.nan
+        aiie_weighted = (
+            float(np.average(aiies, weights=weights)) if aiies else np.nan
+        )
+        rows.append(
+            {
+                "noga_section": section_code,
+                "aiie": aiie,
+                "aiie_weighted": aiie_weighted,
+                "contributions": pooled,
+                "section_label": section_labels.get(section_code),
+            }
+        )
+
+    section_df = pd.DataFrame(rows).set_index("noga_section")
+    return section_df
+
+
 def enrich_job_ads(
     occupation_lookup: dict,
     industry_lookup: dict,
     comp_indu_lookup: dict,
+    section_lookup: dict,
+    comp_to_section: Dict[str, str],
+    comp_to_section_label: Dict[str, str],
 ) -> tuple[Dict[str, int], Dict[str, dict], Dict[str, dict]]:
     stats = {
         "total_ads": 0,
@@ -363,6 +442,8 @@ def enrich_job_ads(
         "occupation_missing": 0,
         "industry_exposure_attached": 0,
         "industry_missing": 0,
+        "section_exposure_attached": 0,
+        "section_missing": 0,
     }
     occ_dataset_gaps: defaultdict[str, dict] = defaultdict(dict)
     ind_dataset_gaps: defaultdict[str, dict] = defaultdict(dict)
@@ -450,6 +531,18 @@ def enrich_job_ads(
                                 else "comp_indu_noga not present in exposure lookup (collapsed NOGA mapping)"
                             )
 
+                    section_code = comp_to_section.get(noga_code)
+                    section_label = comp_to_section_label.get(noga_code)
+                    section_entry = section_lookup.get(section_code) if section_code else None
+                    if section_entry and section_entry.get("aiie") is not None:
+                        stats["section_exposure_attached"] += 1
+                        section_exposure = section_entry["aiie"]
+                        section_exposure_weighted = section_entry.get("aiie_weighted")
+                    else:
+                        stats["section_missing"] += 1
+                        section_exposure = None
+                        section_exposure_weighted = None
+
                     enriched = {
                         "adve_iden_sjob": record.get("adve_iden_sjob"),
                         "occu_isco_2008": isco_code,
@@ -463,6 +556,10 @@ def enrich_job_ads(
                         "industry_contribution_count": ind_contribs,
                         "industry_source_naics": source_naics,
                         "industry_source_isic": source_isic,
+                        "industry_section": section_code,
+                        "industry_section_label": section_label,
+                        "industry_section_exposure": section_exposure,
+                        "industry_section_exposure_weighted": section_exposure_weighted,
                     }
                     out_fh.write(json.dumps(enriched) + "\n")
 
@@ -478,20 +575,58 @@ def main() -> None:
     industry_df, naics_gaps = build_industry_lookup()
     print(f"  NOGA sections covered: {industry_df.shape[0]}")
 
+    print("Loading NOGA crosswalks (comp ↔ NOGA2 ↔ section)...")
+    noga_crosswalk = load_noga_crosswalk()
+
     print("Collapsing NOGA exposure to comp_indu_noga groups...")
-    comp_indu_df = collapse_noga_to_comp(industry_df)
+    comp_indu_df = collapse_noga_to_comp(industry_df, noga_crosswalk)
     print(f"  comp_indu_noga groups covered: {comp_indu_df.shape[0]}")
 
+    print("Collapsing NOGA exposure to section groups...")
+    section_df = collapse_noga_to_section(industry_df, noga_crosswalk)
+    print(f"  NOGA sections covered: {section_df.shape[0]}")
+
+    comp_section_groups = (
+        noga_crosswalk.groupby("comp_code")["noga_section"]
+        .apply(lambda s: sorted(set(s)))
+        .to_dict()
+    )
+    section_label_map = (
+        noga_crosswalk.dropna(subset=["noga_section_label"])
+        .drop_duplicates(subset=["noga_section"])
+        .set_index("noga_section")["noga_section_label"]
+        .to_dict()
+    )
+    comp_to_section: Dict[str, str] = {}
+    comp_to_section_label: Dict[str, str] = {}
+    for comp_code, sections in comp_section_groups.items():
+        if len(sections) == 1:
+            section_code = sections[0]
+            comp_to_section[comp_code] = section_code
+            comp_to_section_label[comp_code] = section_label_map.get(section_code)
+        else:
+            section_code = "/".join(sections)
+            comp_to_section[comp_code] = section_code
+            comp_to_section_label[comp_code] = "/".join(
+                [section_label_map.get(sec, sec) for sec in sections]
+            )
+
     print("Writing mapping JSON assets...")
-    occupation_lookup, industry_lookup, comp_indu_lookup = write_mapping_files(
+    occupation_lookup, industry_lookup, comp_indu_lookup, section_lookup = write_mapping_files(
         occupation_df,
         industry_df,
         comp_indu_df,
+        section_df,
     )
 
     print("Creating job-level enrichment file...")
     stats, occ_dataset_gaps, ind_dataset_gaps = enrich_job_ads(
-        occupation_lookup, industry_lookup, comp_indu_lookup
+        occupation_lookup,
+        industry_lookup,
+        comp_indu_lookup,
+        section_lookup,
+        comp_to_section,
+        comp_to_section_label,
     )
     gap_payload = {
         "lookup_gaps": {

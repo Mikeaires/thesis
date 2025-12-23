@@ -1,0 +1,136 @@
+loca_regi_kant_label,_section_label,demand_tru2,section_exposure_weighted,rank
+AG,Manufacturing,26627.243199999997,-0.4504258140306123,1.0
+AG,Wholesale and retail trade; repair of motor vehicles,20155.1047,0.12015324719999998,2.0
+AG,Human health and social work activities,18500.4375,0.6271384727272727,3.0
+AG,"Professional, scientific and technical activities",7022.3178,1.0473557260869566,4.0
+AG,Construction,6336.692300000001,-1.128441925,5.0
+AI,Human health and social work activities,736.0944000000001,0.6271384727272726,1.0
+AI,Information and communication,364.9466,1.177146225,2.0
+AI,Manufacturing,304.5958,-0.4504258140306122,3.0
+AI,Accommodation and food service activities,125.1812,-0.9862055454545455,4.0
+AI,Wholesale and retail trade; repair of motor vehicles,124.54589999999999,0.12015324720000001,5.0
+AR,Human health and social work activities,2743.4818999999998,0.6271384727272729,1.0
+AR,Wholesale and retail trade; repair of motor vehicles,935.044,0.12015324719999997,2.0
+AR,Manufacturing,832.2869999999997,-0.45042581403061227,3.0
+AR,Activities of extraterritorial organisations,710.9686999999999,,4.0
+AR,Public administration and defence; compulsory social security,511.0035000000001,-0.06395094999999994,5.0
+BE,Manufacturing,36894.385299999994,-0.4504258140306124,1.0
+BE,Human health and social work activities,36248.2453,0.6271384727272726,2.0
+BE,Wholesale and retail trade; repair of motor vehicles,26004.4018,0.12015324719999998,3.0
+BE,"Professional, scientific and technical activities",18867.8459,1.0473557260869566,4.0
+BE,Accommodation and food service activities,14504.3884,-0.9862055454545456,5.0
+BL,Manufacturing,9631.365099999999,-0.4504258140306123,1.0
+BL,Information and communication,7154.187499999998,1.1771462250000002,2.0
+BL,Wholesale and retail trade; repair of motor vehicles,6464.7838,0.12015324719999997,3.0
+BL,Human health and social work activities,4751.112399999999,0.6271384727272727,4.0
+BL,"Professional, scientific and technical activities",2791.5353999999993,1.0473557260869566,5.0
+BS,"Professional, scientific and technical activities",18070.3334,1.0473557260869568,1.0
+BS,Manufacturing,12101.3849,-0.4504258140306123,2.0
+BS,Wholesale and retail trade; repair of motor vehicles,10868.560000000001,0.12015324719999997,3.0
+BS,Human health and social work activities,10799.4415,0.6271384727272727,4.0
+BS,Financial and insurance activities,4968.8433,2.0728481538461536,5.0
+FR,Manufacturing,6629.8122,-0.4504258140306122,1.0
+FR,Wholesale and retail trade; repair of motor vehicles,3590.9144000000006,0.12015324719999997,2.0
+FR,Human health and social work activities,3158.4894999999997,0.6271384727272727,3.0
+FR,Education,2855.3291,1.186285442857143,4.0
+FR,Administrative and support service activities,2365.4449,-0.07928617380952381,5.0
+GE,Wholesale and retail trade; repair of motor vehicles,8747.5777,0.12015324719999998,1.0
+GE,"Professional, scientific and technical activities",8415.5951,1.0473557260869566,2.0
+GE,Manufacturing,7725.1164,-0.45042581403061227,3.0
+GE,Financial and insurance activities,6427.5075,2.0728481538461536,4.0
+GE,Human health and social work activities,6344.939100000001,0.6271384727272726,5.0
+GL,Accommodation and food service activities,1527.8554,-0.9862055454545456,1.0
+GL,Construction,1403.0956,-1.1284419250000002,2.0
+GL,Human health and social work activities,1178.7197,0.6271384727272727,3.0
+GL,Education,1102.6880999999998,1.186285442857143,4.0
+GL,Manufacturing,496.24559999999997,-0.45042581403061227,5.0
+GR,Wholesale and retail trade; repair of motor vehicles,6095.271599999999,0.1201532472,1.0
+GR,Human health and social work activities,5220.6365,0.6271384727272727,2.0
+GR,Construction,5008.915,-1.128441925,3.0
+GR,Accommodation and food service activities,4528.140399999999,-0.9862055454545458,4.0
+GR,Manufacturing,3619.5132,-0.45042581403061227,5.0
+JU,Manufacturing,1102.8175999999999,-0.4504258140306123,1.0
+JU,Education,598.0982,1.186285442857143,2.0
+JU,Activities of extraterritorial organisations,499.3967,,3.0
+JU,"Professional, scientific and technical activities",463.4916,1.0473557260869566,4.0
+JU,Construction,460.06510000000003,-1.1284419250000002,5.0
+LU,Manufacturing,14752.586400000002,-0.45042581403061227,1.0
+LU,Construction,12338.2062,-1.128441925,2.0
+LU,Wholesale and retail trade; repair of motor vehicles,10599.194899999999,0.12015324720000001,3.0
+LU,Human health and social work activities,7449.5305,0.6271384727272729,4.0
+LU,Transportation and storage,4882.818800000001,-0.5259826270833331,5.0
+NE,Manufacturing,6969.6851,-0.45042581403061216,1.0
+NE,Wholesale and retail trade; repair of motor vehicles,2645.9337,0.12015324719999995,2.0
+NE,Information and communication,2185.7486,1.1771462250000002,3.0
+NE,"Professional, scientific and technical activities",1774.6428,1.0473557260869568,4.0
+NE,Activities of households as employers,1588.3932,,5.0
+NW,Accommodation and food service activities,1370.929,-0.9862055454545455,1.0
+NW,Manufacturing,910.0268999999998,-0.45042581403061227,2.0
+NW,Wholesale and retail trade; repair of motor vehicles,860.3744000000002,0.12015324719999997,3.0
+NW,Activities of households as employers,335.181,,4.0
+NW,Financial and insurance activities,210.5897,2.0728481538461536,5.0
+OW,Construction,5882.5289999999995,-1.128441925,1.0
+OW,Manufacturing,1565.8750000000005,-0.45042581403061194,2.0
+OW,Accommodation and food service activities,656.9170999999999,-0.9862055454545458,3.0
+OW,Activities of extraterritorial organisations,437.4592,,4.0
+OW,Education,296.5435,1.186285442857143,5.0
+SG,Manufacturing,24401.714,-0.4504258140306123,1.0
+SG,Wholesale and retail trade; repair of motor vehicles,19536.0508,0.12015324719999998,2.0
+SG,Construction,14522.9448,-1.1284419249999997,3.0
+SG,Human health and social work activities,8838.5342,0.6271384727272727,4.0
+SG,"Professional, scientific and technical activities",8697.7581,1.0473557260869568,5.0
+SH,Manufacturing,5781.177499999999,-0.4504258140306124,1.0
+SH,Wholesale and retail trade; repair of motor vehicles,2113.3001,0.1201532472,2.0
+SH,Human health and social work activities,1959.554,0.6271384727272727,3.0
+SH,Administrative and support service activities,1289.2519999999995,-0.07928617380952387,4.0
+SH,Accommodation and food service activities,1220.8037,-0.9862055454545456,5.0
+SO,Manufacturing,13166.8574,-0.4504258140306122,1.0
+SO,"Professional, scientific and technical activities",10626.4308,1.0473557260869566,2.0
+SO,Wholesale and retail trade; repair of motor vehicles,8093.176000000001,0.12015324719999995,3.0
+SO,Human health and social work activities,7839.169800000002,0.6271384727272725,4.0
+SO,Accommodation and food service activities,4336.799400000002,-0.9862055454545452,5.0
+SZ,Wholesale and retail trade; repair of motor vehicles,5085.3454,0.1201532472,1.0
+SZ,Activities of extraterritorial organisations,2599.2927999999993,,2.0
+SZ,Education,2149.9071,1.1862854428571434,3.0
+SZ,Manufacturing,1765.5221000000001,-0.4504258140306123,4.0
+SZ,Financial and insurance activities,1588.4347,2.0728481538461536,5.0
+TG,Manufacturing,9050.400800000001,-0.45042581403061216,1.0
+TG,Human health and social work activities,5574.0432,0.6271384727272725,2.0
+TG,Wholesale and retail trade; repair of motor vehicles,5546.084999999999,0.1201532472,3.0
+TG,"Electricity, gas, water supply; sewerage, waste management",4967.5844,-0.6259457333333334,4.0
+TG,Construction,3030.0428,-1.1284419249999997,5.0
+TI,Human health and social work activities,1781.4355,0.6271384727272726,1.0
+TI,Wholesale and retail trade; repair of motor vehicles,1619.5132999999998,0.12015324719999998,2.0
+TI,Construction,1569.0431999999998,-1.128441925,3.0
+TI,Manufacturing,1467.3329999999999,-0.45042581403061244,4.0
+TI,Administrative and support service activities,1325.1535000000001,-0.0792861738095238,5.0
+UR,"Professional, scientific and technical activities",1951.5795,1.0473557260869566,1.0
+UR,Accommodation and food service activities,1705.1906,-0.9862055454545456,2.0
+UR,Manufacturing,1163.0012,-0.4504258140306122,3.0
+UR,Wholesale and retail trade; repair of motor vehicles,350.67359999999996,0.1201532472,4.0
+UR,Construction,294.192,-1.128441925,5.0
+Unknown,Manufacturing,17691.8796,-0.45042581403061227,1.0
+Unknown,Wholesale and retail trade; repair of motor vehicles,14802.467499999999,0.12015324720000001,2.0
+Unknown,"Professional, scientific and technical activities",10701.918000000001,1.0473557260869566,3.0
+Unknown,Information and communication,9116.400699999998,1.1771462250000002,4.0
+Unknown,Construction,8472.2621,-1.1284419250000002,5.0
+VD,Human health and social work activities,15923.416399999998,0.6271384727272729,1.0
+VD,Manufacturing,12505.0889,-0.4504258140306122,2.0
+VD,Wholesale and retail trade; repair of motor vehicles,10430.3707,0.12015324720000001,3.0
+VD,"Professional, scientific and technical activities",7830.271199999999,1.0473557260869568,4.0
+VD,Education,6275.324100000002,1.1862854428571425,5.0
+VS,Wholesale and retail trade; repair of motor vehicles,7009.105799999999,0.1201532472,1.0
+VS,Construction,5328.3861,-1.128441925,2.0
+VS,Education,4821.5485,1.186285442857143,3.0
+VS,Manufacturing,4208.241099999999,-0.4504258140306123,4.0
+VS,Public administration and defence; compulsory social security,2950.2558,-0.06395094999999995,5.0
+ZG,Manufacturing,5966.4338,-0.4504258140306122,1.0
+ZG,Wholesale and retail trade; repair of motor vehicles,4374.1338000000005,0.12015324719999997,2.0
+ZG,Human health and social work activities,2722.7942999999996,0.6271384727272729,3.0
+ZG,Transportation and storage,2662.7090999999996,-0.5259826270833334,4.0
+ZG,"Professional, scientific and technical activities",2484.3522,1.0473557260869566,5.0
+ZH,Human health and social work activities,55916.532100000004,0.6271384727272726,1.0
+ZH,Wholesale and retail trade; repair of motor vehicles,54162.6313,0.12015324719999998,2.0
+ZH,"Professional, scientific and technical activities",50844.5426,1.0473557260869566,3.0
+ZH,Manufacturing,49431.67360000001,-0.45042581403061216,4.0
+ZH,Financial and insurance activities,41012.21519999999,2.072848153846154,5.0

@@ -62,7 +62,7 @@ def load_crosswalks() -> dict:
         cross["isco2_map"] = {}
 
     # NOGA labels (comp_indu_noga)
-    noga_path = CROSSWALK_DIR / "comp_indu_noga_to_noga2digit_expanded.csv"
+    noga_path = CROSSWALK_DIR / "comp_indu_noga_noga2_and_noga_section_crosswalk.csv"
     if noga_path.exists():
         noga = pd.read_csv(noga_path)
         # one label per comp_indu_noga
@@ -70,7 +70,7 @@ def load_crosswalks() -> dict:
         noga_map = (
             noga.dropna(subset=["comp_indu_noga"])
             .drop_duplicates(subset=["comp_indu_noga"])
-            .set_index("comp_indu_noga")["label_de"]
+            .set_index("comp_indu_noga")["indu_comp_noga_label_en"]
             .to_dict()
         )
         cross["noga_map"] = noga_map
@@ -177,6 +177,12 @@ def main() -> None:
                 record["occupation_exposure"] = exp.get("occupation_exposure")
                 record["industry_exposure"] = exp.get("industry_exposure")
                 record["industry_exposure_weighted"] = exp.get("industry_exposure_weighted")
+                record["industry_section"] = exp.get("industry_section")
+                record["industry_section_label"] = exp.get("industry_section_label")
+                record["industry_section_exposure"] = exp.get("industry_section_exposure")
+                record["industry_section_exposure_weighted"] = exp.get(
+                    "industry_section_exposure_weighted"
+                )
 
                 # Merge AI requirement
                 record["ai_requirement"] = lookup_ai_requirement(ad_id, ai_req)
@@ -199,7 +205,13 @@ def main() -> None:
     df["ai_requirement"] = df["ai_requirement"].astype("string")
 
     # Exposure fields as float
-    for col in ["occupation_exposure", "industry_exposure", "industry_exposure_weighted"]:
+    for col in [
+        "occupation_exposure",
+        "industry_exposure",
+        "industry_exposure_weighted",
+        "industry_section_exposure",
+        "industry_section_exposure_weighted",
+    ]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
 

@@ -1,26 +1,6 @@
 region,rank,indu_label,exposed_demand_tru2
-ZH,1,Erbringung von Finanzdienstleistungen,14119.7416
-ZH,2,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",9066.0623
-ZH,3,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",8471.2451
-ZH,4,"Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)",6883.3695
-ZH,5,Verwaltung und Führung von Untemehmen und Betrieben; Unternehmensberatung,4802.6126
-BE,1,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",3681.342
-BE,2,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",3030.8232000000003
-BE,3,Erziehung und Unterricht,2308.3862
-BE,4,"Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)",2053.7565
-BE,5,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",1821.0504
-Unknown,1,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",2480.9928
-Unknown,2,Erbringung von Finanzdienstleistungen,2111.5802
-Unknown,3,Verwaltung und Führung von Untemehmen und Betrieben; Unternehmensberatung,2087.7068
-Unknown,4,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",1943.5773
-Unknown,5,"keine Angabe, Exterritoriale Organisationen und Körperschaften",1893.5052
-VD,1,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",2514.85
-VD,2,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",1812.897
-VD,3,"Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)",1516.6593
-VD,4,Erbringung von Finanzdienstleistungen,1486.9525
-VD,5,Erziehung und Unterricht,1389.9126
-AG,1,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",2401.3766
-AG,2,Detailhandel (ohne Handel mit Motorfahrzeugen),1964.0604
-AG,3,"Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)",1049.8102
-AG,4,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung",853.4089
-AG,5,Erbringung von Finanzdienstleistungen,790.376
+ZH,1,Unknown,90939.9977
+BE,1,Unknown,33334.7247
+Unknown,1,Unknown,22140.5317
+VD,1,Unknown,18875.7723
+AG,1,Unknown,17211.8889

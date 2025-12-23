@@ -180,7 +180,7 @@ of job ads were collapsed according to proximity in classification
 - **Missing:** 0 (complete rate 1)
 
 - **Additional helper fields:**
-  - `comp_indu_noga_label` (string): German label for the NOGA division, mapped from `External datasets/Cross-walks/comp_indu_noga_to_noga2digit_expanded.csv`.
+  - `comp_indu_noga_label` (string): English label for the NOGA division, mapped from `External datasets/Cross-walks/comp_indu_noga_noga2_and_noga_section_crosswalk.csv`.
 
 
 ### `comp_recr_agen`
@@ -1443,6 +1443,26 @@ This section documents **non-SJMM** columns you added to the SJMM SUF, plus a fe
 **Meaning:** **Preferred industry exposure** score to use in analyses.  
 **Important:** Use **`industry_exposure_weighted` instead of `industry_exposure`** for your thesis analyses (per your project convention).  
 **Missingness:** Typically indicates “no valid mapping / no score available for this industry-code instance.”  
+
+### `industry_section`
+**Type:** string  
+**Meaning:** NOGA section code (A–U) mapped from `comp_indu_noga` via the crosswalk.  
+**Notes:**  
+- Some collapsed `comp_indu_noga` codes map to combined sections; these are labeled explicitly (e.g., `AB`, `DE`) and treated as valid sections.  
+
+### `industry_section_label`
+**Type:** string  
+**Meaning:** English label for the NOGA section (e.g., “Manufacturing”).  
+
+### `industry_section_exposure`
+**Type:** numeric (float)  
+**Meaning:** Section-level AI exposure mapped to each posting via `industry_section`.  
+**Notes:** Missing only when the source industry code is missing or has no valid NOGA‑2 exposure mapping.  
+
+### `industry_section_exposure_weighted`
+**Type:** numeric (float)  
+**Meaning:** Weighted section-level AI exposure (preferred section measure).  
+**Notes:** Use this instead of `industry_section_exposure` for analyses; missing only when no valid mapping exists.
 
 ### `loca_regi_kant_clean`, `loca_regi_nuts_clean`
 **Type:** numeric (Int64)  

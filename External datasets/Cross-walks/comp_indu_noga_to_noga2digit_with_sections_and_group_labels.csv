@@ -1,0 +1,89 @@
+comp_indu_noga,noga2,noga_section,indu_comp_noga_label_en,indu_comp_noga_label_de,noga_section_label
+1,01,A,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei","Agriculture, forestry and fishing"
+1,02,A,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei","Agriculture, forestry and fishing"
+1,03,A,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei","Agriculture, forestry and fishing"
+1,05,B,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei",Mining and quarrying
+1,06,B,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei",Mining and quarrying
+1,07,B,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei",Mining and quarrying
+1,08,B,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei",Mining and quarrying
+1,09,B,"Agriculture, forestry and fishing","Land- und Forstwirtschaft, Fischerei",Mining and quarrying
+2,10,C,Manufacture of food products and tobacco products,Herstellung von Nahrungsmitteln und Tabakerzeugnissen,Manufacturing
+2,11,C,Manufacture of food products and tobacco products,Herstellung von Nahrungsmitteln und Tabakerzeugnissen,Manufacturing
+2,12,C,Manufacture of food products and tobacco products,Herstellung von Nahrungsmitteln und Tabakerzeugnissen,Manufacturing
+3,13,C,Manufacture of textiles and wearing apparel,Herstellung von Textilien und Bekleidung,Manufacturing
+3,14,C,Manufacture of textiles and wearing apparel,Herstellung von Textilien und Bekleidung,Manufacturing
+3,15,C,Manufacture of textiles and wearing apparel,Herstellung von Textilien und Bekleidung,Manufacturing
+4,16,C,"Manufacture of wood and of products of wood, straw and plaiting materials (excluding furniture)","Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)",Manufacturing
+5,17,C,Manufacture of paper and paper products,Herstellung von Papier. Pappe und Waren daraus,Manufacturing
+6,18,C,Printing and reproduction of recorded media,"Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",Manufacturing
+7,19,C,Manufacture of chemicals; coke and refined petroleum products,"Herstellung von chemischen Erzeugnissen, Kokerei und Mineralölverarbeitung",Manufacturing
+7,20,C,Manufacture of chemicals; coke and refined petroleum products,"Herstellung von chemischen Erzeugnissen, Kokerei und Mineralölverarbeitung",Manufacturing
+8,21,C,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Herstellung von pharmazeutischen Erzeugnissen,Manufacturing
+9,22,C,Manufacture of rubber and plastic products,Herstellung von Gummi- und Kunststoffwaren,Manufacturing
+10,23,C,Manufacture of glass and glass products; ceramics; processing of stones and earth,"Herstellung von Glas und Glaswaren, Keramik. Verarbeitung von Steinen und Erden",Manufacturing
+11,24,C,Manufacture and processing of basic metals,Metallerzeugung und -bearbeitung,Manufacturing
+12,25,C,Manufacture of fabricated metal products,Herstellung von Metallerzeugnissen,Manufacturing
+13,26,C,"Manufacture of computer, electronic and optical products","Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",Manufacturing
+14,27,C,Manufacture of electrical equipment,Herstellung von elektrischen Ausrüstungen,Manufacturing
+15,28,C,Manufacture of machinery and equipment,Maschinenbau,Manufacturing
+16,29,C,"Manufacture of motor vehicles, trailers and other transport equipment",Fahrzeugbau,Manufacturing
+16,30,C,"Manufacture of motor vehicles, trailers and other transport equipment",Fahrzeugbau,Manufacturing
+17,31,C,Other manufacturing; repair and installation of machinery and equipment,"Sonstige Herstellung von Waren, Reparatur und Installation",Manufacturing
+17,32,C,Other manufacturing; repair and installation of machinery and equipment,"Sonstige Herstellung von Waren, Reparatur und Installation",Manufacturing
+17,33,C,Other manufacturing; repair and installation of machinery and equipment,"Sonstige Herstellung von Waren, Reparatur und Installation",Manufacturing
+18,35,D,"Electricity, gas, water supply; sewerage, waste management and remediation activities","Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","Electricity, gas, steam and air conditioning supply"
+18,36,E,"Electricity, gas, water supply; sewerage, waste management and remediation activities","Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","Water supply; sewerage, waste management"
+18,37,E,"Electricity, gas, water supply; sewerage, waste management and remediation activities","Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","Water supply; sewerage, waste management"
+18,38,E,"Electricity, gas, water supply; sewerage, waste management and remediation activities","Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","Water supply; sewerage, waste management"
+18,39,E,"Electricity, gas, water supply; sewerage, waste management and remediation activities","Energieversorgung, Wasserversorgung, Abwasserentsorgung, Beseitigung von Umweltverschmutzungen","Water supply; sewerage, waste management"
+19,41,F,Construction of buildings,Hochbau,Construction
+20,42,F,Civil engineering,Tiefbau,Construction
+21,43,F,Specialised construction activities,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",Construction
+22,45,G,Wholesale and retail trade and repair of motor vehicles and motorcycles,Handel mit Motorfahrzeugen; Instandhaltung und Reparatur von Motorfahrzeugen,Wholesale and retail trade; repair of motor vehicles
+23,46,G,Wholesale trade (excluding motor vehicles and motorcycles),Grosshandel (ohne Handel mit Motorfahrzeugen),Wholesale and retail trade; repair of motor vehicles
+24,47,G,Retail trade (excluding motor vehicles and motorcycles),Detailhandel (ohne Handel mit Motorfahrzeugen),Wholesale and retail trade; repair of motor vehicles
+25,49,H,Land transport and transport via pipelines,Landverkehr und Transport in Rohrfernleitungen,Transportation and storage
+26,50,H,Water transport and air transport,Schifffahrt und Luftfahrt,Transportation and storage
+26,51,H,Water transport and air transport,Schifffahrt und Luftfahrt,Transportation and storage
+27,52,H,Warehousing and support activities for transportation,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,Transportation and storage
+28,53,H,Postal and courier activities,"Post-, Kurier- und Expressdienste",Transportation and storage
+29,55,I,Accommodation,Beherbergung,Accommodation and food service activities
+30,56,I,Food and beverage service activities,Gastronomie,Accommodation and food service activities
+31,58,J,Publishing; audiovisual and broadcasting activities,"Verlagswesen, audiovisuelle Medien und Rundfunk",Information and communication
+31,59,J,Publishing; audiovisual and broadcasting activities,"Verlagswesen, audiovisuelle Medien und Rundfunk",Information and communication
+31,60,J,Publishing; audiovisual and broadcasting activities,"Verlagswesen, audiovisuelle Medien und Rundfunk",Information and communication
+32,61,J,Telecommunications; IT services; information service activities,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",Information and communication
+32,62,J,Telecommunications; IT services; information service activities,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",Information and communication
+32,63,J,Telecommunications; IT services; information service activities,"Telekommunikation, Informationstechnologische und Informationsdienstleistungen",Information and communication
+33,64,K,Financial service activities,Erbringung von Finanzdienstleistungen,Financial and insurance activities
+34,65,K,"Insurance, reinsurance and pension funding (excluding social security)","Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)",Financial and insurance activities
+35,66,K,Activities auxiliary to financial and insurance services,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,Financial and insurance activities
+36,68,L,Real estate activities,Grundstücks- und Wohnungswesen,Real estate activities
+37,69,M,Legal and accounting activities; auditing; tax consultancy,Rechts- und Steuerberatung. Wirtschaftsprüfung,"Professional, scientific and technical activities"
+38,70,M,Activities of head offices; management consultancy activities,Verwaltung und Führung von Untemehmen und Betrieben; Unternehmensberatung,"Professional, scientific and technical activities"
+39,71,M,Architectural and engineering activities; technical testing and analysis,"Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung","Professional, scientific and technical activities"
+40,72,M,"Scientific research and development; other professional, scientific and technical activities; veterinary activities","Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen","Professional, scientific and technical activities"
+40,73,M,"Scientific research and development; other professional, scientific and technical activities; veterinary activities","Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen","Professional, scientific and technical activities"
+40,74,M,"Scientific research and development; other professional, scientific and technical activities; veterinary activities","Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen","Professional, scientific and technical activities"
+40,75,M,"Scientific research and development; other professional, scientific and technical activities; veterinary activities","Wissenschaftliche Forschung und Entwicklung, Sonstige freibenufliche, wissenschaftliche und technische Tätigkeiten, Veterinärwesen","Professional, scientific and technical activities"
+41,77,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+41,78,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+41,79,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+41,80,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+41,81,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+41,82,N,Administrative and other business support service activities,Erbringung von sonstigen wirtschaftlichen Dienstleistungen,Administrative and support service activities
+42,84,O,Public administration and defence; compulsory social security,"Öffentliche Verwaltung, Verteidigung; Sozialversicherung",Public administration and defence; compulsory social security
+43,85,P,Education,Erziehung und Unterricht,Education
+44,86,Q,Human health activities,Gesundheitswesen,Human health and social work activities
+45,87,Q,Residential care activities (excluding holiday and recreational homes),Heime (ohne Erholungs- und Ferienheime),Human health and social work activities
+46,88,Q,Social work activities without accommodation,Sozialwesen (ohne Heime),Human health and social work activities
+47,90,R,"Arts, entertainment and recreation","Kunst, Unterhaltung und Erholung","Arts, entertainment and recreation"
+47,91,R,"Arts, entertainment and recreation","Kunst, Unterhaltung und Erholung","Arts, entertainment and recreation"
+47,92,R,"Arts, entertainment and recreation","Kunst, Unterhaltung und Erholung","Arts, entertainment and recreation"
+47,93,R,"Arts, entertainment and recreation","Kunst, Unterhaltung und Erholung","Arts, entertainment and recreation"
+48,94,S,Membership organisations; religious and other associations (excluding social work and sports),Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport),Other service activities
+49,95,S,Repair of computers and personal/household goods; other predominantly personal service activities,"Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern, Erbringung von sonstigen überwiegend persönlichen Dienstleistungen",Other service activities
+49,96,S,Repair of computers and personal/household goods; other predominantly personal service activities,"Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern, Erbringung von sonstigen überwiegend persönlichen Dienstleistungen",Other service activities
+50,97,T,Activities of households as employers; undifferentiated goods- and services-producing activities of households,Private Haushalte,Activities of households as employers
+50,98,T,Activities of households as employers; undifferentiated goods- and services-producing activities of households,Private Haushalte,Activities of households as employers
+51,99,U,Not stated; activities of extraterritorial organisations and bodies,"keine Angabe, Exterritoriale Organisationen und Körperschaften",Activities of extraterritorial organisations
