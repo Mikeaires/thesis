@@ -1,26 +1,26 @@
 region,rank,occ2_label,exposed_demand_tru2
 ZH,1,Business and administration professionals,21700.8368
-ZH,2,Information and communications technology professionals,20291.498
+ZH,2,Information and communications technology professionals,20722.7247
 ZH,3,General and keyboard clerks,12301.2931
 ZH,4,Administrative and commercial managers,10961.2717
-ZH,5,"Legal, social and cultural professionals",7959.1331
-BE,1,Information and communications technology professionals,8334.8527
+ZH,5,"Legal, social and cultural professionals",8398.8388
+BE,1,Information and communications technology professionals,8420.781500000001
 BE,2,General and keyboard clerks,6863.5182
 BE,3,Business and administration professionals,5452.3908
 BE,4,Administrative and commercial managers,3735.475
-BE,5,Science and engineering professionals,2806.0314
-Unknown,1,Information and communications technology professionals,6712.979
+BE,5,Science and engineering professionals,3038.5518
+Unknown,1,Information and communications technology professionals,6934.4173
 Unknown,2,Business and administration professionals,5283.9514
 Unknown,3,Administrative and commercial managers,3771.2902
 Unknown,4,General and keyboard clerks,3074.0045
 Unknown,5,Business and administration associate professionals,975.2344
 VD,1,General and keyboard clerks,3859.6203
-VD,2,Information and communications technology professionals,3449.4939
+VD,2,Information and communications technology professionals,3467.0877
 VD,3,Business and administration professionals,2988.6533
 VD,4,Administrative and commercial managers,2235.8948
-VD,5,Science and engineering professionals,1496.4125
+VD,5,Science and engineering professionals,1844.943
 AG,1,General and keyboard clerks,4710.606
-AG,2,Information and communications technology professionals,3890.9207
+AG,2,Information and communications technology professionals,3910.6826
 AG,3,Administrative and commercial managers,2239.8444
 AG,4,Business and administration professionals,2230.9413
-AG,5,Science and engineering professionals,1007.5826
+AG,5,Numerical and material recording clerks,1436.6351

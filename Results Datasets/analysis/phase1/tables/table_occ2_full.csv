@@ -1,0 +1,50 @@
+occ2_code,occ2_label,demand_total_tru2,postings_total_tru1,n_ads,mean_occ_exp_tru2
+24,Business and administration professionals,94457.2123,90997.9087,3911,1.293706162215531
+12,Administrative and commercial managers,46026.6106,46044.4836,1830,1.253742970186475
+41,General and keyboard clerks,64141.7672,57852.5017,2535,1.2213061570791275
+26,"Legal, social and cultural professionals",34916.8839,30927.6603,1409,1.2079945932272302
+25,Information and communications technology professionals,114012.381,112983.82430000001,4066,1.1943636139008964
+33,Business and administration associate professionals,98144.907,93285.477,4270,1.0478081639659278
+21,Science and engineering professionals,96075.5559,94896.6775,3141,1.045776739799056
+11,"Chief executives, senior officials and legislators",11207.6684,11158.4538,661,0.9610230216035534
+43,Numerical and material recording clerks,45651.0499,42173.126,2000,0.9230494529805006
+44,Other clerical support workers,44907.6461,43076.3148,1807,0.8912907744771499
+23,Teaching professionals,47242.8023,45834.8461,1905,0.876818073832164
+13,Production and specialised services managers,26859.8616,26353.3891,1354,0.857573033629368
+42,Customer services clerks,21552.5951,19757.1394,865,0.6303640354643951
+35,Information and communications technicians,20496.3431,20017.0385,800,0.4995513847055337
+34,"Legal, social, cultural and related associate professionals",28476.0547,26157.4579,992,0.3598008232852465
+22,Health professionals,95133.3893,85010.7484,3798,0.2887832058201766
+14,"Hospitality, retail and other services managers",5530.2606,5116.8947,178,0.16352363563212194
+31,Science and engineering associate professionals,126177.1509,121935.7483,3928,0.16136436653651046
+52,Sales workers,97580.3636,87779.4093,2895,0.033129014706379
+32,Health associate professionals,35465.5819,32322.7972,1409,-0.21068215870004492
+54,Protective services workers,10562.3099,6679.1131,431,-0.251524094174202
+53,Personal care workers,32886.2864,26308.966,872,-0.3070549324017815
+73,Handicraft and printing workers,8802.6997,7627.7083,320,-0.32556086158275016
+83,Drivers and mobile plant operators,24782.2944,20993.4606,888,-0.6473029805426307
+75,"Food processing, woodworking, garment and other craft and related trades workers",14409.2453,13538.6825,510,-0.6779829308451333
+74,Electrical and electronic trades workers,50530.3119,44962.2802,1681,-0.7349496179052712
+51,Personal service workers,88879.9641,79812.6263,3210,-0.7577211531984667
+82,Assemblers,6464.1293,5738.0369,205,-0.8593871556341274
+81,Stationary plant and machine operators,19677.6511,18103.7953,697,-0.9626187364989638
+62,"Market-oriented skilled forestry, fishery and hunting workers",305.1636,305.1636,13,-0.9638657600000005
+96,Refuse workers and other elementary workers,8570.7685,5718.7688,171,-1.043410505531454
+72,"Metal, machinery and related trades workers",76047.2743,70972.403,2600,-1.0504398253684317
+61,Market-oriented skilled agricultural workers,9317.1972,8486.1273,350,-1.1063309154106995
+71,Building and related trades workers (excluding electricians),77395.5064,65703.5673,1841,-1.2907143748320926
+93,"Labourers in mining, construction, manufacturing and transport",9618.4168,7507.7351,349,-1.3370254996261164
+91,Cleaners and helpers,10923.6018,9524.779,488,-1.4997705789853673
+92,"Agricultural, forestry and fishery labourers",3518.3808,2918.2827,76,-1.5142456066346772
+94,Food preparation assistants,3539.3653,2966.0518,152,-1.5850964494043671
+00,Unknown,993.0318,858.115,47,
+01,Commissioned armed forces officers,33.8192,32.8192,7,
+03,"Armed forces occupations, other ranks",167.4966,146.7955,13,
+10,Unknown sub-major (major group only),1912.8111999999999,1905.109,74,
+20,Unknown sub-major (major group only),6348.16,5492.5782,301,
+30,Unknown sub-major (major group only),17170.3413,16791.9204,715,
+40,Unknown sub-major (major group only),38.6911,25.787,2,
+50,Unknown sub-major (major group only),36.062,36.062,1,
+70,Unknown sub-major (major group only),519.4554,162.3161,11,
+80,Unknown sub-major (major group only),11.7143,11.7143,1,
+90,Unknown sub-major (major group only),628.6123,274.0646,14,

@@ -1,6 +1,26 @@
 region,rank,indu_label,exposed_demand_tru2
-ZH,1,Unknown,289578.812
-BE,1,Unknown,131683.2722
-AG,1,Unknown,74698.3188
-VD,1,Unknown,64579.2548
-BS,1,Unknown,63352.8476
+ZH,1,Financial service activities,26377.1369
+ZH,2,Telecommunications; IT services; information service activities,20212.9753
+ZH,3,Education,14830.2086
+ZH,4,"Insurance, reinsurance and pension funding (excluding social security)",12488.3006
+ZH,5,Activities of head offices; management consultancy activities,8964.1409
+BE,1,Education,11731.9414
+BE,2,Telecommunications; IT services; information service activities,8321.6828
+BE,3,Legal and accounting activities; auditing; tax consultancy,3507.5749
+BE,4,Publishing; audiovisual and broadcasting activities,3418.2256
+BE,5,"Insurance, reinsurance and pension funding (excluding social security)",3103.389
+VD,1,Education,6275.3241
+VD,2,Telecommunications; IT services; information service activities,4392.525
+VD,3,Membership organisations; religious and other associations (excluding social work and sports),3307.4901999999997
+VD,4,Financial service activities,2437.4513
+VD,5,"Insurance, reinsurance and pension funding (excluding social security)",2148.3663
+Unknown,1,Telecommunications; IT services; information service activities,6290.9179
+Unknown,2,Financial service activities,4560.7808
+Unknown,3,Publishing; audiovisual and broadcasting activities,2825.4827999999998
+Unknown,4,Activities of head offices; management consultancy activities,2782.9438
+Unknown,5,"Insurance, reinsurance and pension funding (excluding social security)",2168.8342
+AG,1,Telecommunications; IT services; information service activities,5816.4881
+AG,2,Education,4455.7314
+AG,3,Financial service activities,3128.2005
+AG,4,"Insurance, reinsurance and pension funding (excluding social security)",2396.6579
+AG,5,Real estate activities,1978.8984

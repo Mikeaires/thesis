@@ -1,26 +1,26 @@
 region,rank,occ2_label,exposed_demand_tru2
-ZH,1,Information and communications technology professionals,32055.0688
-ZH,2,Business and administration professionals,28692.0408
-ZH,3,Business and administration associate professionals,23743.8222
-ZH,4,Health professionals,20173.0006
-ZH,5,Sales workers,18325.9944
-BE,1,Health professionals,15913.7214
-BE,2,Information and communications technology professionals,11910.154700000001
-BE,3,Sales workers,11272.217
-BE,4,Science and engineering associate professionals,8922.8233
-BE,5,Business and administration associate professionals,6900.4779
-AG,1,Health professionals,9791.7511
-AG,2,Sales workers,8232.0747
-AG,3,Information and communications technology professionals,5990.0298999999995
-AG,4,Science and engineering professionals,4393.8549
-AG,5,General and keyboard clerks,3865.5262000000002
-VD,1,Health professionals,6842.1702
-VD,2,Information and communications technology professionals,4486.731
-VD,3,Science and engineering professionals,4451.4498
-VD,4,Business and administration associate professionals,4274.0102
-VD,5,Sales workers,3947.4518
-BS,1,Science and engineering professionals,9036.3507
-BS,2,Business and administration associate professionals,5929.1972000000005
-BS,3,Science and engineering associate professionals,5911.5707
-BS,4,Information and communications technology professionals,5749.2534000000005
-BS,5,Health professionals,5135.0355
+ZH,1,Information and communications technology professionals,23640.8855
+ZH,2,Business and administration professionals,15448.7566
+ZH,3,Business and administration associate professionals,13461.4397
+ZH,4,Teaching professionals,8561.7443
+ZH,5,"Legal, social and cultural professionals",5259.1753
+BE,1,Information and communications technology professionals,8215.1267
+BE,2,Teaching professionals,4400.8409
+BE,3,Business and administration professionals,2953.5766
+BE,4,General and keyboard clerks,2851.2826
+BE,5,Business and administration associate professionals,2816.8535
+VD,1,Information and communications technology professionals,3698.9395
+VD,2,Business and administration associate professionals,2519.1482
+VD,3,Teaching professionals,2502.7099
+VD,4,Business and administration professionals,1858.6525
+VD,5,Science and engineering professionals,1590.6969
+Unknown,1,Information and communications technology professionals,8201.9756
+Unknown,2,Business and administration associate professionals,3290.9638
+Unknown,3,Business and administration professionals,2965.9147
+Unknown,4,Customer services clerks,902.573
+Unknown,5,Science and engineering professionals,891.9386999999999
+AG,1,Information and communications technology professionals,4301.0842999999995
+AG,2,Teaching professionals,2022.083
+AG,3,Business and administration associate professionals,1814.0223
+AG,4,General and keyboard clerks,1710.9145
+AG,5,Building and related trades workers (excluding electricians),1558.2948000000001

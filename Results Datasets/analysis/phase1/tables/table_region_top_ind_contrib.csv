@@ -1,6 +1,26 @@
 region,rank,indu_label,exposed_demand_tru2
-ZH,1,Unknown,90939.9977
-BE,1,Unknown,33334.7247
-Unknown,1,Unknown,22140.5317
-VD,1,Unknown,18875.7723
-AG,1,Unknown,17211.8889
+ZH,1,Financial service activities,14371.7607
+ZH,2,Architectural and engineering activities; technical testing and analysis,9171.6623
+ZH,3,Telecommunications; IT services; information service activities,8503.452800000001
+ZH,4,"Insurance, reinsurance and pension funding (excluding social security)",6904.0362000000005
+ZH,5,Activities of head offices; management consultancy activities,4802.6126
+BE,1,Telecommunications; IT services; information service activities,3681.342
+BE,2,Architectural and engineering activities; technical testing and analysis,3184.1935
+BE,3,Education,2344.729
+BE,4,"Insurance, reinsurance and pension funding (excluding social security)",2090.4595
+BE,5,Public administration and defence; compulsory social security,1962.7751
+Unknown,1,Telecommunications; IT services; information service activities,2655.9305
+Unknown,2,Financial service activities,2111.5802
+Unknown,3,Activities of head offices; management consultancy activities,2087.7068
+Unknown,4,Architectural and engineering activities; technical testing and analysis,2033.4046
+Unknown,5,Not stated; activities of extraterritorial organisations and bodies,1903.1719
+VD,1,Telecommunications; IT services; information service activities,2514.85
+VD,2,Architectural and engineering activities; technical testing and analysis,1822.497
+VD,3,"Insurance, reinsurance and pension funding (excluding social security)",1524.9926
+VD,4,Financial service activities,1494.9525
+VD,5,Education,1450.3889
+AG,1,Retail trade (excluding motor vehicles and motorcycles),2669.7052
+AG,2,Telecommunications; IT services; information service activities,2401.3766
+AG,3,"Insurance, reinsurance and pension funding (excluding social security)",1049.8102
+AG,4,Human health activities,988.0410999999999
+AG,5,Public administration and defence; compulsory social security,859.8992000000001
