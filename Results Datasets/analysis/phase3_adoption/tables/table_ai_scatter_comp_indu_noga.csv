@@ -1,39 +1,39 @@
-group,ai_demand_tru2,mean_exposure
-Activities of head offices; management consultancy activities,587.5132,1.6030056666666663
-Activities of households as employers; undifferentiated goods- and services-producing activities of households,201.51390000000004,
-Administrative and other business support service activities,55.256,-0.07928617380952382
-Architectural and engineering activities; technical testing and analysis,912.316,0.6304446666666667
-"Arts, entertainment and recreation",78.0,-0.14435774545454547
-Construction of buildings,8.2339,-0.71173755
-Education,996.5923999999999,1.186285442857143
-"Electricity, gas, water supply; sewerage, waste management and remediation activities",149.9727,-0.6259457333333334
-Financial service activities,909.3992000000001,2.032305333333333
-Human health activities,659.8353,0.7141869727272727
-"Insurance, reinsurance and pension funding (excluding social security)",179.21499999999997,2.0891727500000004
-Land transport and transport via pipelines,24.0192,-0.11150409999999998
-Legal and accounting activities; auditing; tax consultancy,108.49350000000001,1.6582044999999999
-Manufacture and processing of basic metals,32.3451,-0.9047726199999998
-Manufacture of basic pharmaceutical products and pharmaceutical preparations,214.9189,0.12862043333333334
-Manufacture of chemicals; coke and refined petroleum products,173.886,-0.2618408666666667
-"Manufacture of computer, electronic and optical products",500.2245,0.7901558666666666
-Manufacture of electrical equipment,76.45629999999998,-0.12439562173913044
-Manufacture of fabricated metal products,25.0113,-0.5680944147058823
-Manufacture of food products and tobacco products,56.6721,-0.922205610810811
-Manufacture of machinery and equipment,192.6173,-0.18536159666666668
-Manufacture of paper and paper products,9.8511,-0.64109755
-Manufacture of rubber and plastic products,81.2706,-0.7135245611111111
-Manufacture of textiles and wearing apparel,6.0345,-0.6592031552631579
-Membership organisations; religious and other associations (excluding social work and sports),30.4122,1.1480757222222222
-Not stated; activities of extraterritorial organisations and bodies,51.915,
-Postal and courier activities,49.2664,-1.2160006666666667
-Printing and reproduction of recorded media,117.68619999999999,-0.08492830000000004
-Public administration and defence; compulsory social security,313.2749,-0.06395094999999996
-Publishing; audiovisual and broadcasting activities,750.1001,1.3283719699999998
-Real estate activities,65.0508,0.9475425749999999
-Retail trade (excluding motor vehicles and motorcycles),226.10490000000001,0.029031561818181832
-"Scientific research and development; other professional, scientific and technical activities; veterinary activities",507.07410000000004,0.8867297999999998
-Specialised construction activities,83.48230000000001,-1.2805669647058824
-Telecommunications; IT services; information service activities,362.4708,0.9881140437500001
-Warehousing and support activities for transportation,53.3334,-0.9599344375000001
-Water transport and air transport,99.7842,-0.3848308454545455
-Wholesale trade (excluding motor vehicles and motorcycles),769.5295000000001,0.2887353557692308
+group,ai_demand_tru2,mean_exposure,total_demand_tru2,ai_share
+Activities of head offices; management consultancy activities,587.5132,1.6030056666666663,18400.4988,0.031929199658435346
+Activities of households as employers; undifferentiated goods- and services-producing activities of households,201.51390000000004,,21889.6328,0.009205905911770253
+Administrative and other business support service activities,55.256,-0.07928617380952382,31162.4703,0.0017731585290913217
+Architectural and engineering activities; technical testing and analysis,912.316,0.6304446666666667,115402.8238,0.007905491130625176
+"Arts, entertainment and recreation",78.0,-0.14435774545454547,8916.6844,0.008747646154214004
+Construction of buildings,8.2339,-0.71173755,19091.7561,0.0004312803891308878
+Education,996.5923999999999,1.186285442857143,66308.8791,0.015029546774528418
+"Electricity, gas, water supply; sewerage, waste management and remediation activities",149.9727,-0.6259457333333334,24187.2066,0.006200496918895958
+Financial service activities,909.3992000000001,2.032305333333333,54824.1448,0.016587567454403776
+Human health activities,659.8353,0.7141869727272727,141793.9634,0.004653479486560427
+"Insurance, reinsurance and pension funding (excluding social security)",179.21499999999997,2.0891727500000004,34800.1121,0.005149839732843849
+Land transport and transport via pipelines,24.0192,-0.11150409999999998,22429.5099,0.001070874936950807
+Legal and accounting activities; auditing; tax consultancy,108.49350000000001,1.6582044999999999,16349.1446,0.006636035257771224
+Manufacture and processing of basic metals,32.3451,-0.9047726199999998,19332.6856,0.0016730784676910072
+Manufacture of basic pharmaceutical products and pharmaceutical preparations,214.9189,0.12862043333333334,10010.2696,0.02146984133174595
+Manufacture of chemicals; coke and refined petroleum products,173.886,-0.2618408666666667,21438.2841,0.008111003622719973
+"Manufacture of computer, electronic and optical products",500.2245,0.7901558666666666,37043.8228,0.01350358743212647
+Manufacture of electrical equipment,76.45629999999998,-0.12439562173913044,17841.0881,0.004285405664243089
+Manufacture of fabricated metal products,25.0113,-0.5680944147058823,24825.4274,0.0010074871863031852
+Manufacture of food products and tobacco products,56.6721,-0.922205610810811,18587.4235,0.003048948661443045
+Manufacture of machinery and equipment,192.6173,-0.18536159666666668,41602.3136,0.004629966060349105
+Manufacture of paper and paper products,9.8511,-0.64109755,9098.035600000001,0.0010827721975499853
+Manufacture of rubber and plastic products,81.2706,-0.7135245611111111,8063.0697,0.010079362206183088
+Manufacture of textiles and wearing apparel,6.0345,-0.6592031552631579,7471.7782,0.0008076390704424283
+Membership organisations; religious and other associations (excluding social work and sports),30.4122,1.1480757222222222,20243.5116,0.0015023184021096417
+Not stated; activities of extraterritorial organisations and bodies,51.915,,61633.6396,0.0008423159874530596
+Postal and courier activities,49.2664,-1.2160006666666667,14339.8674,0.0034356245163048023
+Printing and reproduction of recorded media,117.68619999999999,-0.08492830000000004,19204.9432,0.006127911901348398
+Public administration and defence; compulsory social security,313.2749,-0.06395094999999996,43721.6674,0.007165209348809053
+Publishing; audiovisual and broadcasting activities,750.1001,1.3283719699999998,28005.366,0.026784156293476042
+Real estate activities,65.0508,0.9475425749999999,14723.8277,0.004418063110043049
+Retail trade (excluding motor vehicles and motorcycles),226.10490000000001,0.029031561818181832,142257.3845,0.0015894071214278514
+"Scientific research and development; other professional, scientific and technical activities; veterinary activities",507.07410000000004,0.8867297999999998,14178.3945,0.035763858876969465
+Specialised construction activities,83.48230000000001,-1.2805669647058824,96390.5839,0.0008660835594336514
+Telecommunications; IT services; information service activities,362.4708,0.9881140437500001,62738.4589,0.0057774896985874164
+Warehousing and support activities for transportation,53.3334,-0.9599344375000001,15441.954,0.0034537986578641535
+Water transport and air transport,99.7842,-0.3848308454545455,9867.4431,0.010112467737462808
+Wholesale trade (excluding motor vehicles and motorcycles),769.5295000000001,0.2887353557692308,63259.0955,0.012164724991997397

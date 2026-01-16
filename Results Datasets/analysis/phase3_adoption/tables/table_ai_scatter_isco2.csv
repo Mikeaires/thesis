@@ -1,24 +1,24 @@
-group,ai_demand_tru2,mean_exposure
-Administrative and commercial managers,406.1514,1.1927383320181157
-Business and administration associate professionals,215.81100000000004,1.019129611114316
-Business and administration professionals,1249.5329,1.3253691878634895
-"Chief executives, senior officials and legislators",123.3276,0.95456165
-Electrical and electronic trades workers,38.9278,-0.7606392000000001
-Health associate professionals,351.2984,-0.04121528138761806
-Health professionals,81.02709999999999,0.49084064000000016
-Information and communications technicians,76.21499999999999,0.6024514753521489
-Information and communications technology professionals,3027.5658,1.2423945174874478
-"Labourers in mining, construction, manufacturing and transport",52.6978,-0.9225249999999999
-"Legal, social and cultural professionals",171.4269,1.2700641499701233
-"Legal, social, cultural and related associate professionals",50.186800000000005,0.8335613000000001
-"Metal, machinery and related trades workers",79.991,-1.0474146222222227
-Non-commissioned armed forces officers,14.6868,
-Numerical and material recording clerks,35.6667,1.1866020000000002
-Other clerical support workers,29.0453,0.9943220500000001
-Production and specialised services managers,389.8461,0.9371367197091572
-Protective services workers,1.0,-0.5603311999999999
-Science and engineering associate professionals,459.9378,0.46446180547413096
-Science and engineering professionals,2012.3130000000003,1.2862549636898406
-Stationary plant and machine operators,67.00189999999999,-0.6306796330648411
-Teaching professionals,319.90090000000004,1.239840074285714
-Unknown,465.5748,
+group,ai_demand_tru2,mean_exposure,total_demand_tru2,ai_share
+Administrative and commercial managers,406.1514,1.1927383320181157,45991.3992,0.008831029432998856
+Business and administration associate professionals,215.81100000000004,1.019129611114316,98037.5109,0.00220131047819167
+Business and administration professionals,1249.5329,1.3253691878634895,94131.0949,0.013274390373631997
+"Chief executives, senior officials and legislators",123.3276,0.95456165,11239.8717,0.010972331650369285
+Electrical and electronic trades workers,38.9278,-0.7606392000000001,50517.3462,0.0007705828379401291
+Health associate professionals,351.2984,-0.04121528138761806,35440.1807,0.009912432528878162
+Health professionals,81.02709999999999,0.49084064000000016,95048.0815,0.000852485381306723
+Information and communications technicians,76.21499999999999,0.6024514753521489,20472.060699999998,0.0037228787622733063
+Information and communications technology professionals,3027.5658,1.2423945174874478,113868.4817,0.026588268806257385
+"Labourers in mining, construction, manufacturing and transport",52.6978,-0.9225249999999999,9566.6742,0.005508476498551608
+"Legal, social and cultural professionals",171.4269,1.2700641499701233,34877.2568,0.004915148601939358
+"Legal, social, cultural and related associate professionals",50.186800000000005,0.8335613000000001,28467.9831,0.0017629208161220246
+"Metal, machinery and related trades workers",79.991,-1.0474146222222227,76012.0264,0.0010523466323481673
+Non-commissioned armed forces officers,14.6868,,993.0318,0.01478985869334698
+Numerical and material recording clerks,35.6667,1.1866020000000002,45651.0499,0.0007812898077509495
+Other clerical support workers,29.0453,0.9943220500000001,44843.7736,0.0006476997288203239
+Production and specialised services managers,389.8461,0.9371367197091572,26793.2359,0.014550168611772645
+Protective services workers,1.0,-0.5603311999999999,10562.3099,9.467626016161484e-05
+Science and engineering associate professionals,459.9378,0.46446180547413096,126263.3322,0.003642687009649504
+Science and engineering professionals,2012.3130000000003,1.2862549636898406,96041.1772,0.020952606565926186
+Stationary plant and machine operators,67.00189999999999,-0.6306796330648411,19644.8202,0.003410664965006908
+Teaching professionals,319.90090000000004,1.239840074285714,47223.1293,0.006774241875580237
+Unknown,465.5748,,26665.8476,0.017459591271345897
