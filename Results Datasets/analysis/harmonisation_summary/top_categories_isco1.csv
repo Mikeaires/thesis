@@ -1,0 +1,11 @@
+code,count,share,label,level
+2,18578,0.3107000702411613,Professionals,isco1
+3,12127,0.20281299127002708,Technicians and associate professionals,isco1
+5,7409,0.12390875338662742,Service and sales workers,isco1
+4,7209,0.12056393618088772,Clerical support workers,isco1
+7,6963,0.11644981101782788,Craft and related trades workers,isco1
+1,4104,0.06863564906177877,Managers,isco1
+8,1791,0.02995283807739907,"Plant and machine operators, and assemblers",isco1
+9,1250,0.020905107535873164,Elementary occupations,isco1
+6,363,0.006070843228417567,"Skilled agricultural, forestry and fishery workers",isco1
+,0,0.0,,isco1

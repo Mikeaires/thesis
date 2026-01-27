@@ -1,0 +1,6 @@
+variable,column,unique_non_missing,missing
+ISCO-08 4-digit (raw),occu_isco_2008,437,0
+ISCO-08 2-digit (harmonised),occu_isco2_code,47,0
+ISCO-08 1-digit (harmonised),occu_isco1_code,9,0
+comp_indu_noga (raw),comp_indu_noga,51,0
+NOGA section (harmonised),industry_section,19,0

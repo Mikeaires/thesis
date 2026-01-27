@@ -1,0 +1,9 @@
+check,fail_count,total,examples,fail_share
+isco_format_4digit,67,59794,2;310;110,0.0011205137639228016
+isco_in_lookup,4932,59727,7200;3000;4320;2500;2140,0.08257571952383344
+isco_in_official_list,4932,59727,7200;3000;4320;2500;2140,0.08257571952383344
+comp_indu_noga_format_2digit,0,59794,,0.0
+comp_indu_noga_in_lookup,0,59794,,0.0
+industry_section_format,0,59794,,0.0
+industry_section_in_crosswalk,0,59794,,0.0
+isco08_not_5digit,0,59794,,0.0

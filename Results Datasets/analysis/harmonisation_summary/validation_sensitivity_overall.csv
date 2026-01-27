@@ -1,0 +1,5 @@
+scenario,n,mean_occ_exposure,mean_ind_exposure_weighted,mean_ind_exposure_unweighted
+base_all,59794,0.3747824749323224,0.216118446866642,0.1925225537865698
+occ_no_partial,31795,0.5943220824963192,0.3106984867907662,0.28929569721039944
+ind_single_contrib,2664,0.2671720610316631,,
+occ_no_partial_ind_single,1395,0.5416861747261092,,

@@ -1,0 +1,166 @@
+adve_time_year,_cat,count,share,level,label
+2010,15,186,0.04553243574051408,comp_indu_noga,Manufacture of machinery and equipment
+2010,21,309,0.07564259485924113,comp_indu_noga,Specialised construction activities
+2010,24,341,0.08347613219094248,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2010,30,194,0.04749082007343941,comp_indu_noga,Food and beverage service activities
+2010,32,172,0.042105263157894736,comp_indu_noga,Telecommunications; IT services; information service activities
+2010,33,194,0.04749082007343941,comp_indu_noga,Financial service activities
+2010,39,267,0.06536107711138311,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2010,42,167,0.0408812729498164,comp_indu_noga,Public administration and defence; compulsory social security
+2010,43,173,0.0423500611995104,comp_indu_noga,Education
+2010,44,355,0.08690330477356181,comp_indu_noga,Human health activities
+2010,Other,1727,0.42276621787025703,comp_indu_noga,
+2011,15,272,0.06477732793522267,comp_indu_noga,Manufacture of machinery and equipment
+2011,21,319,0.07597046915932365,comp_indu_noga,Specialised construction activities
+2011,24,304,0.07239819004524888,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2011,30,170,0.04048582995951417,comp_indu_noga,Food and beverage service activities
+2011,32,168,0.04000952607763753,comp_indu_noga,Telecommunications; IT services; information service activities
+2011,33,199,0.04739223624672541,comp_indu_noga,Financial service activities
+2011,39,287,0.06834960704929745,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2011,42,183,0.043581805191712314,comp_indu_noga,Public administration and defence; compulsory social security
+2011,43,139,0.033103119790426294,comp_indu_noga,Education
+2011,44,367,0.08740176232436295,comp_indu_noga,Human health activities
+2011,Other,1791,0.4265301262205287,comp_indu_noga,
+2012,15,147,0.03458009880028229,comp_indu_noga,Manufacture of machinery and equipment
+2012,21,307,0.07221830157609974,comp_indu_noga,Specialised construction activities
+2012,24,337,0.07927546459656551,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2012,30,161,0.03787344154316631,comp_indu_noga,Food and beverage service activities
+2012,32,147,0.03458009880028229,comp_indu_noga,Telecommunications; IT services; information service activities
+2012,33,190,0.04469536579628323,comp_indu_noga,Financial service activities
+2012,39,219,0.051517290049400144,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2012,42,237,0.05575158786167961,comp_indu_noga,Public administration and defence; compulsory social security
+2012,43,189,0.04446012702893437,comp_indu_noga,Education
+2012,44,371,0.08727358268642672,comp_indu_noga,Human health activities
+2012,Other,1946,0.4577746412608798,comp_indu_noga,
+2013,15,135,0.03125,comp_indu_noga,Manufacture of machinery and equipment
+2013,21,235,0.05439814814814815,comp_indu_noga,Specialised construction activities
+2013,24,345,0.0798611111111111,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2013,30,167,0.038657407407407404,comp_indu_noga,Food and beverage service activities
+2013,32,132,0.030555555555555555,comp_indu_noga,Telecommunications; IT services; information service activities
+2013,33,136,0.03148148148148148,comp_indu_noga,Financial service activities
+2013,39,192,0.044444444444444446,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2013,42,264,0.06111111111111111,comp_indu_noga,Public administration and defence; compulsory social security
+2013,43,247,0.05717592592592593,comp_indu_noga,Education
+2013,44,420,0.09722222222222222,comp_indu_noga,Human health activities
+2013,Other,2047,0.4738425925925926,comp_indu_noga,
+2014,15,126,0.03412784398699892,comp_indu_noga,Manufacture of machinery and equipment
+2014,21,225,0.06094257854821235,comp_indu_noga,Specialised construction activities
+2014,24,334,0.090465872156013,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2014,30,137,0.037107258938244854,comp_indu_noga,Food and beverage service activities
+2014,32,106,0.028710725893824486,comp_indu_noga,Telecommunications; IT services; information service activities
+2014,33,118,0.031960996749729145,comp_indu_noga,Financial service activities
+2014,39,169,0.045774647887323945,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2014,42,233,0.06310942578548212,comp_indu_noga,Public administration and defence; compulsory social security
+2014,43,176,0.047670639219934995,comp_indu_noga,Education
+2014,44,353,0.09561213434452871,comp_indu_noga,Human health activities
+2014,Other,1715,0.4645178764897075,comp_indu_noga,
+2015,15,105,0.02835538752362949,comp_indu_noga,Manufacture of machinery and equipment
+2015,21,204,0.05509046718876587,comp_indu_noga,Specialised construction activities
+2015,24,278,0.07507426411018094,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2015,30,150,0.040507696462327845,comp_indu_noga,Food and beverage service activities
+2015,32,117,0.03159600324061572,comp_indu_noga,Telecommunications; IT services; information service activities
+2015,33,137,0.036997029435592764,comp_indu_noga,Financial service activities
+2015,39,166,0.044828517418309476,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2015,42,247,0.06670267350796652,comp_indu_noga,Public administration and defence; compulsory social security
+2015,43,211,0.05698082635700783,comp_indu_noga,Education
+2015,44,384,0.10369970294355928,comp_indu_noga,Human health activities
+2015,Other,1704,0.4601674318120443,comp_indu_noga,
+2016,15,118,0.029918864097363083,comp_indu_noga,Manufacture of machinery and equipment
+2016,21,219,0.05552738336713996,comp_indu_noga,Specialised construction activities
+2016,24,307,0.07783975659229209,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2016,30,133,0.03372210953346856,comp_indu_noga,Food and beverage service activities
+2016,32,135,0.03422920892494929,comp_indu_noga,Telecommunications; IT services; information service activities
+2016,33,165,0.041835699797160245,comp_indu_noga,Financial service activities
+2016,39,234,0.05933062880324544,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2016,42,234,0.05933062880324544,comp_indu_noga,Public administration and defence; compulsory social security
+2016,43,224,0.056795131845841784,comp_indu_noga,Education
+2016,44,412,0.10446247464503043,comp_indu_noga,Human health activities
+2016,Other,1763,0.4470081135902637,comp_indu_noga,
+2017,15,128,0.03287108371854135,comp_indu_noga,Manufacture of machinery and equipment
+2017,21,269,0.06908063687724705,comp_indu_noga,Specialised construction activities
+2017,24,263,0.06753980482794042,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2017,30,143,0.03672316384180791,comp_indu_noga,Food and beverage service activities
+2017,32,116,0.029789419619928096,comp_indu_noga,Telecommunications; IT services; information service activities
+2017,33,172,0.044170518746789934,comp_indu_noga,Financial service activities
+2017,39,183,0.04699537750385208,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2017,42,223,0.05726759116589625,comp_indu_noga,Public administration and defence; compulsory social security
+2017,43,178,0.04571135079609656,comp_indu_noga,Education
+2017,44,430,0.11042629686697483,comp_indu_noga,Human health activities
+2017,Other,1789,0.45942475603492555,comp_indu_noga,
+2018,15,150,0.03712871287128713,comp_indu_noga,Manufacture of machinery and equipment
+2018,21,235,0.05816831683168317,comp_indu_noga,Specialised construction activities
+2018,24,279,0.06905940594059407,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2018,30,134,0.03316831683168317,comp_indu_noga,Food and beverage service activities
+2018,32,155,0.038366336633663366,comp_indu_noga,Telecommunications; IT services; information service activities
+2018,33,171,0.04232673267326733,comp_indu_noga,Financial service activities
+2018,39,212,0.05247524752475247,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2018,42,309,0.07648514851485148,comp_indu_noga,Public administration and defence; compulsory social security
+2018,43,209,0.05173267326732673,comp_indu_noga,Education
+2018,44,385,0.0952970297029703,comp_indu_noga,Human health activities
+2018,Other,1801,0.4457920792079208,comp_indu_noga,
+2019,15,150,0.03671071953010279,comp_indu_noga,Manufacture of machinery and equipment
+2019,21,188,0.04601076847772883,comp_indu_noga,Specialised construction activities
+2019,24,319,0.0780714635340186,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2019,30,79,0.019334312285854135,comp_indu_noga,Food and beverage service activities
+2019,32,125,0.03059226627508566,comp_indu_noga,Telecommunications; IT services; information service activities
+2019,33,180,0.04405286343612335,comp_indu_noga,Financial service activities
+2019,39,178,0.04356338717572198,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2019,42,232,0.056779246206558984,comp_indu_noga,Public administration and defence; compulsory social security
+2019,43,220,0.05384238864415076,comp_indu_noga,Education
+2019,44,444,0.10866372980910426,comp_indu_noga,Human health activities
+2019,Other,1971,0.48237885462555063,comp_indu_noga,
+2020,15,122,0.031138335885655948,comp_indu_noga,Manufacture of machinery and equipment
+2020,21,174,0.0444104134762634,comp_indu_noga,Specialised construction activities
+2020,24,295,0.07529351710056151,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2020,30,96,0.02450229709035222,comp_indu_noga,Food and beverage service activities
+2020,32,129,0.032924961715160794,comp_indu_noga,Telecommunications; IT services; information service activities
+2020,33,159,0.04058192955589587,comp_indu_noga,Financial service activities
+2020,39,168,0.042879019908116385,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2020,42,224,0.05717202654415518,comp_indu_noga,Public administration and defence; compulsory social security
+2020,43,217,0.05538540071465033,comp_indu_noga,Education
+2020,44,456,0.11638591117917305,comp_indu_noga,Human health activities
+2020,Other,1878,0.4793261868300153,comp_indu_noga,
+2021,15,141,0.03522358231326505,comp_indu_noga,Manufacture of machinery and equipment
+2021,21,236,0.05895578316262803,comp_indu_noga,Specialised construction activities
+2021,24,277,0.06919810142393205,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2021,30,53,0.013240069947539346,comp_indu_noga,Food and beverage service activities
+2021,32,156,0.0389707719210592,comp_indu_noga,Telecommunications; IT services; information service activities
+2021,33,182,0.045465900574569076,comp_indu_noga,Financial service activities
+2021,39,163,0.04071946040469648,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2021,42,234,0.05845615788158881,comp_indu_noga,Public administration and defence; compulsory social security
+2021,43,235,0.05870597052210842,comp_indu_noga,Education
+2021,44,486,0.1214089432925306,comp_indu_noga,Human health activities
+2021,Other,1840,0.4596552585560829,comp_indu_noga,
+2022,15,87,0.02193645990922844,comp_indu_noga,Manufacture of machinery and equipment
+2022,21,104,0.026222894604135148,comp_indu_noga,Specialised construction activities
+2022,24,245,0.06177508825012607,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2022,30,67,0.016893595562279373,comp_indu_noga,Food and beverage service activities
+2022,32,77,0.019415027735753907,comp_indu_noga,Telecommunications; IT services; information service activities
+2022,33,206,0.05194150277357539,comp_indu_noga,Financial service activities
+2022,39,144,0.036308623298033284,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2022,42,77,0.019415027735753907,comp_indu_noga,Public administration and defence; compulsory social security
+2022,43,172,0.04336863338376198,comp_indu_noga,Education
+2022,44,476,0.1200201714573878,comp_indu_noga,Human health activities
+2022,Other,2311,0.5827029752899647,comp_indu_noga,
+2023,15,94,0.025323275862068964,comp_indu_noga,Manufacture of machinery and equipment
+2023,21,107,0.02882543103448276,comp_indu_noga,Specialised construction activities
+2023,24,271,0.07300646551724138,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2023,30,85,0.022898706896551723,comp_indu_noga,Food and beverage service activities
+2023,32,87,0.0234375,comp_indu_noga,Telecommunications; IT services; information service activities
+2023,33,144,0.03879310344827586,comp_indu_noga,Financial service activities
+2023,39,94,0.025323275862068964,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2023,42,64,0.017241379310344827,comp_indu_noga,Public administration and defence; compulsory social security
+2023,43,161,0.04337284482758621,comp_indu_noga,Education
+2023,44,449,0.12095905172413793,comp_indu_noga,Human health activities
+2023,Other,2156,0.5808189655172413,comp_indu_noga,
+2024,15,96,0.024114544084400905,comp_indu_noga,Manufacture of machinery and equipment
+2024,21,106,0.026626475759859332,comp_indu_noga,Specialised construction activities
+2024,24,276,0.0693293142426526,comp_indu_noga,Retail trade (excluding motor vehicles and motorcycles)
+2024,30,95,0.023863350916855063,comp_indu_noga,Food and beverage service activities
+2024,32,71,0.017834714895754836,comp_indu_noga,Telecommunications; IT services; information service activities
+2024,33,174,0.04370761115297664,comp_indu_noga,Financial service activities
+2024,39,75,0.018839487565938208,comp_indu_noga,Architectural and engineering activities; technical testing and analysis
+2024,42,55,0.013815624215021352,comp_indu_noga,Public administration and defence; compulsory social security
+2024,43,174,0.04370761115297664,comp_indu_noga,Education
+2024,44,477,0.11981914091936699,comp_indu_noga,Human health activities
+2024,Other,2382,0.5983421250941975,comp_indu_noga,

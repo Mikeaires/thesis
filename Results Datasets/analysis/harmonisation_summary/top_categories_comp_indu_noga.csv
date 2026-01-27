@@ -1,0 +1,11 @@
+code,count,share,label,level
+44,6265,0.1047763989697963,Human health activities,comp_indu_noga
+24,4471,0.07477338863431114,Retail trade (excluding motor vehicles and motorcycles),comp_indu_noga
+21,3237,0.05413586647489715,Specialised construction activities,comp_indu_noga
+42,2983,0.04988794862360772,Public administration and defence; compulsory social security,comp_indu_noga
+43,2925,0.048917951633943205,Education,comp_indu_noga
+39,2751,0.04600796066494966,Architectural and engineering activities; technical testing and analysis,comp_indu_noga
+33,2527,0.042261765394521186,Financial service activities,comp_indu_noga
+15,2057,0.03440144496103288,Manufacture of machinery and equipment,comp_indu_noga
+32,1893,0.03165869485232632,Telecommunications; IT services; information service activities,comp_indu_noga
+30,1864,0.031173696357494063,Food and beverage service activities,comp_indu_noga

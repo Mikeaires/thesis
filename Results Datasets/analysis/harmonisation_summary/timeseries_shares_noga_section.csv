@@ -1,0 +1,166 @@
+adve_time_year,_cat,count,share,level,label
+2010,C,714,0.1747858017135863,noga_section,Manufacturing
+2010,F,309,0.07564259485924113,noga_section,Construction
+2010,G,477,0.11676866585067319,noga_section,Wholesale and retail trade; repair of motor vehicles
+2010,H,215,0.05263157894736842,noga_section,Transportation and storage
+2010,J,172,0.042105263157894736,noga_section,Information and communication
+2010,K,519,0.1270501835985312,noga_section,Financial and insurance activities
+2010,M,344,0.08421052631578947,noga_section,"Professional, scientific and technical activities"
+2010,O,167,0.0408812729498164,noga_section,Public administration and defence; compulsory social security
+2010,Other,640,0.15667074663402691,noga_section,
+2010,P,173,0.0423500611995104,noga_section,Education
+2010,Q,355,0.08690330477356181,noga_section,Human health and social work activities
+2011,C,919,0.21886163372231485,noga_section,Manufacturing
+2011,F,319,0.07597046915932365,noga_section,Construction
+2011,G,458,0.10907358894974994,noga_section,Wholesale and retail trade; repair of motor vehicles
+2011,H,249,0.059299833293641344,noga_section,Transportation and storage
+2011,J,168,0.04000952607763753,noga_section,Information and communication
+2011,K,433,0.10311979042629198,noga_section,Financial and insurance activities
+2011,M,341,0.08120981185996666,noga_section,"Professional, scientific and technical activities"
+2011,O,183,0.043581805191712314,noga_section,Public administration and defence; compulsory social security
+2011,Other,623,0.1483686592045725,noga_section,
+2011,P,139,0.033103119790426294,noga_section,Education
+2011,Q,367,0.08740176232436295,noga_section,Human health and social work activities
+2012,C,791,0.18607386497294753,noga_section,Manufacturing
+2012,F,359,0.08445071747824041,noga_section,Construction
+2012,G,510,0.11997177134791814,noga_section,Wholesale and retail trade; repair of motor vehicles
+2012,H,194,0.04563632086567866,noga_section,Transportation and storage
+2012,J,164,0.03857915784521289,noga_section,Information and communication
+2012,K,316,0.07433545048223947,noga_section,Financial and insurance activities
+2012,M,334,0.07856974829451893,noga_section,"Professional, scientific and technical activities"
+2012,O,237,0.05575158786167961,noga_section,Public administration and defence; compulsory social security
+2012,Other,697,0.1639614208421548,noga_section,
+2012,P,189,0.04446012702893437,noga_section,Education
+2012,Q,460,0.10820983298047518,noga_section,Human health and social work activities
+2013,C,756,0.175,noga_section,Manufacturing
+2013,F,315,0.07291666666666667,noga_section,Construction
+2013,G,593,0.1372685185185185,noga_section,Wholesale and retail trade; repair of motor vehicles
+2013,H,190,0.04398148148148148,noga_section,Transportation and storage
+2013,J,149,0.03449074074074074,noga_section,Information and communication
+2013,K,261,0.06041666666666667,noga_section,Financial and insurance activities
+2013,M,303,0.07013888888888889,noga_section,"Professional, scientific and technical activities"
+2013,O,264,0.06111111111111111,noga_section,Public administration and defence; compulsory social security
+2013,Other,645,0.14930555555555555,noga_section,
+2013,P,247,0.05717592592592593,noga_section,Education
+2013,Q,597,0.13819444444444445,noga_section,Human health and social work activities
+2014,C,736,0.19934994582881907,noga_section,Manufacturing
+2014,F,273,0.07394366197183098,noga_section,Construction
+2014,G,484,0.13109425785482123,noga_section,Wholesale and retail trade; repair of motor vehicles
+2014,H,156,0.04225352112676056,noga_section,Transportation and storage
+2014,J,121,0.03277356446370531,noga_section,Information and communication
+2014,K,239,0.06473456121343445,noga_section,Financial and insurance activities
+2014,M,256,0.06933911159263272,noga_section,"Professional, scientific and technical activities"
+2014,O,233,0.06310942578548212,noga_section,Public administration and defence; compulsory social security
+2014,Other,544,0.14734561213434452,noga_section,
+2014,P,176,0.047670639219934995,noga_section,Education
+2014,Q,474,0.12838569880823403,noga_section,Human health and social work activities
+2015,C,647,0.1747231974075074,noga_section,Manufacturing
+2015,F,264,0.07129354577369701,noga_section,Construction
+2015,G,420,0.11342155009451796,noga_section,Wholesale and retail trade; repair of motor vehicles
+2015,H,158,0.04266810694031866,noga_section,Transportation and storage
+2015,J,132,0.035646772886848505,noga_section,Information and communication
+2015,K,223,0.06022144207399406,noga_section,Financial and insurance activities
+2015,M,270,0.07291385363219012,noga_section,"Professional, scientific and technical activities"
+2015,O,247,0.06670267350796652,noga_section,Public administration and defence; compulsory social security
+2015,Other,612,0.1652714015662976,noga_section,
+2015,P,211,0.05698082635700783,noga_section,Education
+2015,Q,519,0.14015662975965434,noga_section,Human health and social work activities
+2016,C,725,0.18382352941176472,noga_section,Manufacturing
+2016,F,264,0.06693711967545639,noga_section,Construction
+2016,G,458,0.11612576064908722,noga_section,Wholesale and retail trade; repair of motor vehicles
+2016,H,149,0.0377789046653144,noga_section,Transportation and storage
+2016,J,148,0.037525354969574036,noga_section,Information and communication
+2016,K,291,0.07378296146044624,noga_section,Financial and insurance activities
+2016,M,340,0.08620689655172414,noga_section,"Professional, scientific and technical activities"
+2016,O,234,0.05933062880324544,noga_section,Public administration and defence; compulsory social security
+2016,Other,563,0.14274847870182555,noga_section,
+2016,P,224,0.056795131845841784,noga_section,Education
+2016,Q,548,0.1389452332657201,noga_section,Human health and social work activities
+2017,C,789,0.20261941448382126,noga_section,Manufacturing
+2017,F,303,0.07781201848998459,noga_section,Construction
+2017,G,411,0.10554699537750385,noga_section,Wholesale and retail trade; repair of motor vehicles
+2017,H,150,0.03852080123266564,noga_section,Transportation and storage
+2017,J,131,0.03364149974319466,noga_section,Information and communication
+2017,K,278,0.07139188495120699,noga_section,Financial and insurance activities
+2017,M,275,0.07062146892655367,noga_section,"Professional, scientific and technical activities"
+2017,O,223,0.05726759116589625,noga_section,Public administration and defence; compulsory social security
+2017,Other,602,0.15459681561376476,noga_section,
+2017,P,178,0.04571135079609656,noga_section,Education
+2017,Q,554,0.14227015921931177,noga_section,Human health and social work activities
+2018,C,801,0.19826732673267328,noga_section,Manufacturing
+2018,F,286,0.07079207920792079,noga_section,Construction
+2018,G,443,0.10965346534653465,noga_section,Wholesale and retail trade; repair of motor vehicles
+2018,H,151,0.037376237623762375,noga_section,Transportation and storage
+2018,J,171,0.04232673267326733,noga_section,Information and communication
+2018,K,297,0.07351485148514851,noga_section,Financial and insurance activities
+2018,M,313,0.07747524752475247,noga_section,"Professional, scientific and technical activities"
+2018,O,309,0.07648514851485148,noga_section,Public administration and defence; compulsory social security
+2018,Other,548,0.13564356435643565,noga_section,
+2018,P,209,0.05173267326732673,noga_section,Education
+2018,Q,512,0.12673267326732673,noga_section,Human health and social work activities
+2019,C,846,0.20704845814977973,noga_section,Manufacturing
+2019,F,252,0.06167400881057269,noga_section,Construction
+2019,G,521,0.12750856583455702,noga_section,Wholesale and retail trade; repair of motor vehicles
+2019,H,191,0.046744982868330884,noga_section,Transportation and storage
+2019,J,149,0.036465981399902106,noga_section,Information and communication
+2019,K,305,0.07464512971120901,noga_section,Financial and insurance activities
+2019,M,292,0.0714635340186001,noga_section,"Professional, scientific and technical activities"
+2019,O,232,0.056779246206558984,noga_section,Public administration and defence; compulsory social security
+2019,Other,437,0.10695056289769946,noga_section,
+2019,P,220,0.05384238864415076,noga_section,Education
+2019,Q,641,0.15687714145863926,noga_section,Human health and social work activities
+2020,C,748,0.19091373149566104,noga_section,Manufacturing
+2020,F,253,0.06457376212353241,noga_section,Construction
+2020,G,517,0.13195507912200102,noga_section,Wholesale and retail trade; repair of motor vehicles
+2020,H,164,0.04185809086268504,noga_section,Transportation and storage
+2020,J,154,0.039305768249106685,noga_section,Information and communication
+2020,K,280,0.07146503318019398,noga_section,Financial and insurance activities
+2020,M,263,0.06712608473711078,noga_section,"Professional, scientific and technical activities"
+2020,O,224,0.05717202654415518,noga_section,Public administration and defence; compulsory social security
+2020,Other,441,0.1125574272588055,noga_section,
+2020,P,217,0.05538540071465033,noga_section,Education
+2020,Q,657,0.16768759571209801,noga_section,Human health and social work activities
+2021,C,750,0.1873594803897077,noga_section,Manufacturing
+2021,F,310,0.0774419185610792,noga_section,Construction
+2021,G,465,0.11616287784161879,noga_section,Wholesale and retail trade; repair of motor vehicles
+2021,H,162,0.040469647764176865,noga_section,Transportation and storage
+2021,J,174,0.04346739945041219,noga_section,Information and communication
+2021,K,323,0.08068948288783412,noga_section,Financial and insurance activities
+2021,M,297,0.07419435423432426,noga_section,"Professional, scientific and technical activities"
+2021,O,234,0.05845615788158881,noga_section,Public administration and defence; compulsory social security
+2021,Other,383,0.09567824131901075,noga_section,
+2021,P,235,0.05870597052210842,noga_section,Education
+2021,Q,670,0.1673744691481389,noga_section,Human health and social work activities
+2022,C,797,0.20095814422592032,noga_section,Manufacturing
+2022,F,181,0.04563792233988906,noga_section,Construction
+2022,G,415,0.10463943519919314,noga_section,Wholesale and retail trade; repair of motor vehicles
+2022,H,95,0.02395360564800807,noga_section,Transportation and storage
+2022,J,288,0.07261724659606657,noga_section,Information and communication
+2022,K,248,0.06253151790216843,noga_section,Financial and insurance activities
+2022,M,210,0.0529500756429652,noga_section,"Professional, scientific and technical activities"
+2022,O,77,0.019415027735753907,noga_section,Public administration and defence; compulsory social security
+2022,Other,849,0.2140695915279879,noga_section,
+2022,P,172,0.04336863338376198,noga_section,Education
+2022,Q,634,0.15985879979828543,noga_section,Human health and social work activities
+2023,C,727,0.1958512931034483,noga_section,Manufacturing
+2023,F,183,0.049299568965517244,noga_section,Construction
+2023,G,432,0.11637931034482758,noga_section,Wholesale and retail trade; repair of motor vehicles
+2023,H,87,0.0234375,noga_section,Transportation and storage
+2023,J,221,0.05953663793103448,noga_section,Information and communication
+2023,K,196,0.052801724137931036,noga_section,Financial and insurance activities
+2023,M,154,0.041487068965517244,noga_section,"Professional, scientific and technical activities"
+2023,O,64,0.017241379310344827,noga_section,Public administration and defence; compulsory social security
+2023,Other,905,0.24380387931034483,noga_section,
+2023,P,161,0.04337284482758621,noga_section,Education
+2023,Q,582,0.1567887931034483,noga_section,Human health and social work activities
+2024,C,750,0.18839487565938207,noga_section,Manufacturing
+2024,F,176,0.04420999748806832,noga_section,Construction
+2024,G,401,0.10072846018588294,noga_section,Wholesale and retail trade; repair of motor vehicles
+2024,H,127,0.03190153227832203,noga_section,Transportation and storage
+2024,J,211,0.05300175835217282,noga_section,Information and communication
+2024,K,229,0.05752323536799799,noga_section,Financial and insurance activities
+2024,M,139,0.03491585028887214,noga_section,"Professional, scientific and technical activities"
+2024,O,55,0.013815624215021352,noga_section,Public administration and defence; compulsory social security
+2024,Other,1067,0.2680231097714142,noga_section,
+2024,P,174,0.04370761115297664,noga_section,Education
+2024,Q,652,0.16377794523988948,noga_section,Human health and social work activities

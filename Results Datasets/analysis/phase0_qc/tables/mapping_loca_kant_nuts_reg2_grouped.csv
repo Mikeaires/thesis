@@ -1,0 +1,27 @@
+nuts_region,kanton,reg2_list,reg2_count,postings
+Espace Mittelland,Bern,"Aareland, Berner Oberland, Region Bern, Region Biel–Jura, Region Neuenburg",5,7491
+Espace Mittelland,Fribourg,"Region Bern, Region Freiburg, Region Lausanne",3,1157
+Espace Mittelland,Jura,"Region Biel–Jura, Region Neuenburg",2,216
+Espace Mittelland,Neuchâtel,Region Neuenburg,1,977
+Espace Mittelland,Solothurn,"Aareland, Region Basel, Region Biel–Jura",3,1710
+Nordwestschweiz,Argovia,"Aareland, Region Basel, Region Zürich, Zentralschweiz",4,3719
+Nordwestschweiz,Basel-City,Region Basel,1,2710
+Nordwestschweiz,Basel-Land,Region Basel,1,1447
+Ostschweiz,Appenzell Inner Rhodes,Bodenseeregion,1,109
+Ostschweiz,Appenzell Outer Rhodes,Bodenseeregion,1,303
+Ostschweiz,Glarus,Region Zürich,1,306
+Ostschweiz,Grisons,"Ostalpen, Sopraceneri",2,1143
+Ostschweiz,Schaffhausen,Region Zürich,1,660
+Ostschweiz,St. Gallen,"Bodenseeregion, Ostalpen, Region Zürich",3,3295
+Ostschweiz,Thurgovia,"Bodenseeregion, Region Zürich",2,1307
+Région lémanique,Geneva,Region Genf,1,2713
+Région lémanique,Valais,"Region Lausanne, Westalpen",2,1568
+Région lémanique,Vaud,"Berner Oberland, Region Freiburg, Region Genf, Region Lausanne",4,3244
+Ticino,Ticino,"Sopraceneri, Sottoceneri",2,808
+Zentralschweiz,Lucerne,"Aareland, Zentralschweiz",2,2328
+Zentralschweiz,Nidwald,Zentralschweiz,1,201
+Zentralschweiz,Obwald,Zentralschweiz,1,238
+Zentralschweiz,Schwyz,"Region Zürich, Zentralschweiz",2,688
+Zentralschweiz,Uri,Zentralschweiz,1,127
+Zentralschweiz,Zug,Zentralschweiz,1,1115
+Zürich,Zurich,"Region Zürich, Zentralschweiz",2,14532

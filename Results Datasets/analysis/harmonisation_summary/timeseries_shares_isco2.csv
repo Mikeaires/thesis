@@ -1,0 +1,166 @@
+adve_time_year,_cat,count,share,level,label
+2010,21,231,0.05654834761321909,isco2,Science and engineering professionals
+2010,22,170,0.0416156670746634,isco2,Health professionals
+2010,24,313,0.0766217870257038,isco2,Business and administration professionals
+2010,25,282,0.06903304773561811,isco2,Information and communications technology professionals
+2010,31,228,0.05581395348837209,isco2,Science and engineering associate professionals
+2010,33,427,0.10452876376988984,isco2,Business and administration associate professionals
+2010,41,188,0.04602203182374541,isco2,General and keyboard clerks
+2010,51,207,0.050673194614443084,isco2,Personal service workers
+2010,52,213,0.052141982864137085,isco2,Sales workers
+2010,72,129,0.031578947368421054,isco2,"Metal, machinery and related trades workers"
+2010,Other,1697,0.41542227662178705,isco2,
+2011,21,214,0.05096451536080019,isco2,Science and engineering professionals
+2011,22,170,0.04048582995951417,isco2,Health professionals
+2011,24,305,0.07263634198618718,isco2,Business and administration professionals
+2011,25,324,0.07716122886401525,isco2,Information and communications technology professionals
+2011,31,290,0.0690640628721124,isco2,Science and engineering associate professionals
+2011,33,384,0.09145034532031436,isco2,Business and administration associate professionals
+2011,41,179,0.04262919742795904,isco2,General and keyboard clerks
+2011,51,225,0.053584186711121695,isco2,Personal service workers
+2011,52,226,0.053822338652060014,isco2,Sales workers
+2011,72,185,0.04405810907358895,isco2,"Metal, machinery and related trades workers"
+2011,Other,1697,0.40414384377232676,isco2,
+2012,21,213,0.05010585744530699,isco2,Science and engineering professionals
+2012,22,214,0.050341096212655846,isco2,Health professionals
+2012,24,283,0.06657257115972712,isco2,Business and administration professionals
+2012,25,251,0.05904493060456363,isco2,Information and communications technology professionals
+2012,31,334,0.07856974829451893,isco2,Science and engineering associate professionals
+2012,33,343,0.08068689720065866,isco2,Business and administration associate professionals
+2012,41,157,0.03693248647377088,isco2,General and keyboard clerks
+2012,51,217,0.051046812514702423,isco2,Personal service workers
+2012,52,205,0.048223947306516114,isco2,Sales workers
+2012,72,151,0.03552105386967772,isco2,"Metal, machinery and related trades workers"
+2012,Other,1883,0.4429545989179017,isco2,
+2013,21,188,0.04351851851851852,isco2,Science and engineering professionals
+2013,22,289,0.06689814814814815,isco2,Health professionals
+2013,24,236,0.05462962962962963,isco2,Business and administration professionals
+2013,25,218,0.050462962962962966,isco2,Information and communications technology professionals
+2013,31,322,0.07453703703703704,isco2,Science and engineering associate professionals
+2013,33,311,0.07199074074074074,isco2,Business and administration associate professionals
+2013,41,195,0.04513888888888889,isco2,General and keyboard clerks
+2013,51,251,0.05810185185185185,isco2,Personal service workers
+2013,52,244,0.05648148148148148,isco2,Sales workers
+2013,72,171,0.03958333333333333,isco2,"Metal, machinery and related trades workers"
+2013,Other,1895,0.4386574074074074,isco2,
+2014,21,183,0.049566630552546044,isco2,Science and engineering professionals
+2014,22,230,0.06229685807150596,isco2,Health professionals
+2014,24,211,0.05715059588299025,isco2,Business and administration professionals
+2014,25,204,0.0552546045503792,isco2,Information and communications technology professionals
+2014,31,243,0.06581798483206934,isco2,Science and engineering associate professionals
+2014,33,269,0.0728602383531961,isco2,Business and administration associate professionals
+2014,41,169,0.045774647887323945,isco2,General and keyboard clerks
+2014,51,216,0.05850487540628386,isco2,Personal service workers
+2014,52,208,0.056338028169014086,isco2,Sales workers
+2014,72,170,0.04604550379198267,isco2,"Metal, machinery and related trades workers"
+2014,Other,1589,0.4303900325027086,isco2,
+2015,21,159,0.04293815825006751,isco2,Science and engineering professionals
+2015,22,234,0.06319200648123144,isco2,Health professionals
+2015,24,258,0.06967323791520388,isco2,Business and administration professionals
+2015,25,224,0.06049149338374291,isco2,Information and communications technology professionals
+2015,31,243,0.0656224682689711,isco2,Science and engineering associate professionals
+2015,33,199,0.0537402106400216,isco2,Business and administration associate professionals
+2015,41,172,0.046448825276802594,isco2,General and keyboard clerks
+2015,51,265,0.07156359708344585,isco2,Personal service workers
+2015,52,187,0.05049959492303538,isco2,Sales workers
+2015,72,155,0.041857953011072105,isco2,"Metal, machinery and related trades workers"
+2015,Other,1607,0.4339724547664056,isco2,
+2016,21,190,0.048174442190669374,isco2,Science and engineering professionals
+2016,22,238,0.0603448275862069,isco2,Health professionals
+2016,24,301,0.0763184584178499,isco2,Business and administration professionals
+2016,25,245,0.06211967545638945,isco2,Information and communications technology professionals
+2016,31,241,0.06110547667342799,isco2,Science and engineering associate professionals
+2016,33,260,0.06592292089249494,isco2,Business and administration associate professionals
+2016,41,179,0.04538539553752535,isco2,General and keyboard clerks
+2016,51,259,0.06566937119675456,isco2,Personal service workers
+2016,52,184,0.04665314401622718,isco2,Sales workers
+2016,72,158,0.04006085192697769,isco2,"Metal, machinery and related trades workers"
+2016,Other,1689,0.42824543610547666,isco2,
+2017,21,222,0.05701078582434515,isco2,Science and engineering professionals
+2017,22,234,0.060092449922958396,isco2,Health professionals
+2017,24,248,0.06368772470467386,isco2,Business and administration professionals
+2017,25,233,0.05983564458140729,isco2,Information and communications technology professionals
+2017,31,262,0.06728299948638931,isco2,Science and engineering associate professionals
+2017,33,261,0.06702619414483821,isco2,Business and administration associate professionals
+2017,41,178,0.04571135079609656,isco2,General and keyboard clerks
+2017,51,253,0.06497175141242938,isco2,Personal service workers
+2017,52,168,0.04314329738058552,isco2,Sales workers
+2017,72,207,0.053158705701078585,isco2,"Metal, machinery and related trades workers"
+2017,Other,1628,0.4180790960451977,isco2,
+2018,21,221,0.0547029702970297,isco2,Science and engineering professionals
+2018,22,246,0.06089108910891089,isco2,Health professionals
+2018,24,262,0.06485148514851485,isco2,Business and administration professionals
+2018,25,281,0.06955445544554456,isco2,Information and communications technology professionals
+2018,31,263,0.0650990099009901,isco2,Science and engineering associate professionals
+2018,33,297,0.07351485148514851,isco2,Business and administration associate professionals
+2018,41,177,0.04381188118811881,isco2,General and keyboard clerks
+2018,51,227,0.05618811881188119,isco2,Personal service workers
+2018,52,181,0.0448019801980198,isco2,Sales workers
+2018,72,184,0.04554455445544554,isco2,"Metal, machinery and related trades workers"
+2018,Other,1701,0.421039603960396,isco2,
+2019,21,266,0.06510034263338228,isco2,Science and engineering professionals
+2019,22,290,0.07097405775819873,isco2,Health professionals
+2019,24,274,0.06705824767498776,isco2,Business and administration professionals
+2019,25,315,0.07709251101321586,isco2,Information and communications technology professionals
+2019,31,290,0.07097405775819873,isco2,Science and engineering associate professionals
+2019,33,265,0.06485560450318159,isco2,Business and administration associate professionals
+2019,41,145,0.03548702887909937,isco2,General and keyboard clerks
+2019,51,197,0.048213411649535,isco2,Personal service workers
+2019,52,198,0.048458149779735685,isco2,Sales workers
+2019,72,199,0.04870288790993637,isco2,"Metal, machinery and related trades workers"
+2019,Other,1647,0.40308370044052866,isco2,
+2020,21,224,0.05717202654415518,isco2,Science and engineering professionals
+2020,22,299,0.07631444614599285,isco2,Health professionals
+2020,24,257,0.06559469116896376,isco2,Business and administration professionals
+2020,25,340,0.08677896886166411,isco2,Information and communications technology professionals
+2020,31,247,0.0630423685553854,isco2,Science and engineering associate professionals
+2020,33,254,0.06482899438489025,isco2,Business and administration associate professionals
+2020,41,106,0.027054619703930576,isco2,General and keyboard clerks
+2020,51,196,0.050025523226135786,isco2,Personal service workers
+2020,52,192,0.04900459418070444,isco2,Sales workers
+2020,72,188,0.0479836651352731,isco2,"Metal, machinery and related trades workers"
+2020,Other,1615,0.41220010209290453,isco2,
+2021,21,274,0.06844866350237322,isco2,Science and engineering professionals
+2021,22,320,0.0799400449662753,isco2,Health professionals
+2021,24,247,0.06170372220834374,isco2,Business and administration professionals
+2021,25,344,0.08593554833874593,isco2,Information and communications technology professionals
+2021,31,254,0.06345241069198101,isco2,Science and engineering associate professionals
+2021,33,268,0.06694978765925556,isco2,Business and administration associate professionals
+2021,41,170,0.04246814888833375,isco2,General and keyboard clerks
+2021,51,143,0.03572320759430427,isco2,Personal service workers
+2021,52,166,0.04146889832625531,isco2,Sales workers
+2021,72,189,0.047214589058206344,isco2,"Metal, machinery and related trades workers"
+2021,Other,1628,0.40669497876592553,isco2,
+2022,21,206,0.05194150277357539,isco2,Science and engineering professionals
+2022,22,319,0.08043368633383761,isco2,Health professionals
+2022,24,277,0.06984367120524458,isco2,Business and administration professionals
+2022,25,318,0.08018154311649017,isco2,Information and communications technology professionals
+2022,31,226,0.05698436712052446,isco2,Science and engineering associate professionals
+2022,33,252,0.06354009077155824,isco2,Business and administration associate professionals
+2022,41,218,0.054967221381744834,isco2,General and keyboard clerks
+2022,51,174,0.04387291981845688,isco2,Personal service workers
+2022,52,131,0.033030761472516386,isco2,Sales workers
+2022,72,159,0.040090771558245086,isco2,"Metal, machinery and related trades workers"
+2022,Other,1686,0.42511346444780634,isco2,
+2023,21,175,0.04714439655172414,isco2,Science and engineering professionals
+2023,22,276,0.07435344827586207,isco2,Health professionals
+2023,24,222,0.05980603448275862,isco2,Business and administration professionals
+2023,25,252,0.06788793103448276,isco2,Information and communications technology professionals
+2023,31,225,0.060614224137931036,isco2,Science and engineering associate professionals
+2023,33,245,0.0660021551724138,isco2,Business and administration associate professionals
+2023,41,148,0.03987068965517242,isco2,General and keyboard clerks
+2023,51,166,0.0447198275862069,isco2,Personal service workers
+2023,52,186,0.050107758620689655,isco2,Sales workers
+2023,72,163,0.04391163793103448,isco2,"Metal, machinery and related trades workers"
+2023,Other,1654,0.44558189655172414,isco2,
+2024,21,175,0.04395880432052248,isco2,Science and engineering professionals
+2024,22,269,0.0675709620698317,isco2,Health professionals
+2024,24,217,0.05450891735744788,isco2,Business and administration professionals
+2024,25,235,0.059030394373273044,isco2,Information and communications technology professionals
+2024,31,273,0.06857573474001508,isco2,Science and engineering associate professionals
+2024,33,235,0.059030394373273044,isco2,Business and administration associate professionals
+2024,41,154,0.038683747802059784,isco2,General and keyboard clerks
+2024,51,214,0.05375533785481035,isco2,Personal service workers
+2024,52,206,0.051745792514443605,isco2,Sales workers
+2024,72,192,0.04822908816880181,isco2,"Metal, machinery and related trades workers"
+2024,Other,1811,0.4549108264255212,isco2,

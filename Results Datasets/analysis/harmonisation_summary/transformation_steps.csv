@@ -1,0 +1,13 @@
+domain,step,count,share,total
+occupation,raw_isco_present,59794,1.0,59794
+occupation,occupation_exposure_mapped,54743,0.9155266414690437,59794
+occupation,occupation_exposure_missing,5051,0.08447335853095628,59794
+occupation,isco2_assigned,59794,1.0,59794
+occupation,isco1_assigned,59794,1.0,59794
+occupation,partial_soc_to_isco_mapping,27999,0.4682576847175302,59794
+industry,raw_comp_indu_noga_present,59794,1.0,59794
+industry,industry_exposure_mapped,57130,0.9554470348195471,59794
+industry,industry_exposure_missing,2664,0.04455296518045289,59794
+industry,industry_section_assigned,59794,1.0,59794
+industry,industry_section_exposure_mapped,57130,0.9554470348195471,59794
+industry,multi_contribution_mappings,57130,0.9554470348195471,59794

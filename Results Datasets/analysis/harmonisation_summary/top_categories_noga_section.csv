@@ -1,0 +1,11 @@
+code,count,share,label,level
+C,11496,0.1922600929859183,Manufacturing,noga_section
+Q,8222,0.13750543532795934,Human health and social work activities,noga_section
+G,7005,0.11715222263103321,Wholesale and retail trade; repair of motor vehicles,noga_section
+K,4438,0.07422149379536408,Financial and insurance activities,noga_section
+M,4131,0.06908719938455364,"Professional, scientific and technical activities",noga_section
+F,4047,0.06768237615814296,Construction,noga_section
+O,2983,0.04988794862360772,Public administration and defence; compulsory social security,noga_section
+P,2925,0.048917951633943205,Education,noga_section
+J,2553,0.04269659163126735,Information and communication,noga_section
+H,2438,0.04077332173796702,Transportation and storage,noga_section

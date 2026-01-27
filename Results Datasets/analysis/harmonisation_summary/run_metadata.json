@@ -1,0 +1,9 @@
+{
+  "rows": 59794,
+  "year_min": 2010,
+  "year_max": 2024,
+  "top_n": 10,
+  "data_path": "/Users/miguel/Documents/Master Thesis/Thesis/Results Datasets/final_analysis_dataset.parquet",
+  "exposure_path": "/Users/miguel/Documents/Master Thesis/Thesis/Results Datasets/sjmm_ai_exposure.jsonl",
+  "gaps_path": "/Users/miguel/Documents/Master Thesis/Thesis/Results Datasets/exposures/exposure_gaps.json"
+}

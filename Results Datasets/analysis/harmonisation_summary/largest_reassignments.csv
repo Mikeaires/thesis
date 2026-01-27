@@ -1,0 +1,76 @@
+occu_isco_2008,occu_isco2_code,count,mapping,target_label,occu_isco1_code,comp_indu_noga,industry_section
+5223,52,2349,isco4_to_isco2,Sales workers,,,
+2221,22,2293,isco4_to_isco2,Health professionals,,,
+4110,41,2216,isco4_to_isco2,General and keyboard clerks,,,
+2512,25,1667,isco4_to_isco2,Information and communications technology professionals,,,
+4419,44,1400,isco4_to_isco2,Other clerical support workers,,,
+3112,31,1033,isco4_to_isco2,Science and engineering associate professionals,,,
+5131,51,1015,isco4_to_isco2,Personal service workers,,,
+1221,12,945,isco4_to_isco2,Administrative and commercial managers,,,
+2431,24,919,isco4_to_isco2,Business and administration professionals,,,
+3313,33,806,isco4_to_isco2,Business and administration associate professionals,,,
+2511,25,799,isco4_to_isco2,Information and communications technology professionals,,,
+5120,51,793,isco4_to_isco2,Personal service workers,,,
+7200,72,769,isco4_to_isco2,"Metal, machinery and related trades workers",,,
+7233,72,745,isco4_to_isco2,"Metal, machinery and related trades workers",,,
+3000,30,715,isco4_to_isco2,,,,
+3322,33,704,isco4_to_isco2,Business and administration associate professionals,,,
+7411,74,693,isco4_to_isco2,Electrical and electronic trades workers,,,
+2411,24,627,isco4_to_isco2,Business and administration professionals,,,
+5153,51,626,isco4_to_isco2,Personal service workers,,,
+3118,31,624,isco4_to_isco2,Science and engineering associate professionals,,,
+7126,71,585,isco4_to_isco2,Building and related trades workers (excluding electricians),,,
+2423,24,574,isco4_to_isco2,Business and administration professionals,,,
+7412,74,558,isco4_to_isco2,Electrical and electronic trades workers,,,
+2212,22,545,isco4_to_isco2,Health professionals,,,
+4320,43,519,isco4_to_isco2,Numerical and material recording clerks,,,
+,33,4270,isco2_to_isco1,Technicians and associate professionals,3,,
+,25,4066,isco2_to_isco1,Professionals,2,,
+,31,3941,isco2_to_isco1,Technicians and associate professionals,3,,
+,24,3911,isco2_to_isco1,Professionals,2,,
+,22,3798,isco2_to_isco1,Professionals,2,,
+,51,3210,isco2_to_isco1,Service and sales workers,5,,
+,21,3141,isco2_to_isco1,Professionals,2,,
+,52,2895,isco2_to_isco1,Service and sales workers,5,,
+,72,2600,isco2_to_isco1,Craft and related trades workers,7,,
+,41,2535,isco2_to_isco1,Clerical support workers,4,,
+,43,2000,isco2_to_isco1,Clerical support workers,4,,
+,23,1905,isco2_to_isco1,Professionals,2,,
+,71,1841,isco2_to_isco1,Craft and related trades workers,7,,
+,12,1830,isco2_to_isco1,Managers,1,,
+,44,1807,isco2_to_isco1,Clerical support workers,4,,
+,74,1681,isco2_to_isco1,Craft and related trades workers,7,,
+,32,1409,isco2_to_isco1,Technicians and associate professionals,3,,
+,26,1409,isco2_to_isco1,Professionals,2,,
+,13,1354,isco2_to_isco1,Managers,1,,
+,34,992,isco2_to_isco1,Technicians and associate professionals,3,,
+,83,888,isco2_to_isco1,"Plant and machine operators, and assemblers",8,,
+,53,872,isco2_to_isco1,Service and sales workers,5,,
+,42,865,isco2_to_isco1,Clerical support workers,4,,
+,35,800,isco2_to_isco1,Technicians and associate professionals,3,,
+,30,715,isco2_to_isco1,Technicians and associate professionals,3,,
+,,6265,comp_to_section,Human health and social work activities,,44,Q
+,,4471,comp_to_section,Wholesale and retail trade; repair of motor vehicles,,24,G
+,,3237,comp_to_section,Construction,,21,F
+,,2983,comp_to_section,Public administration and defence; compulsory social security,,42,O
+,,2925,comp_to_section,Education,,43,P
+,,2751,comp_to_section,"Professional, scientific and technical activities",,39,M
+,,2527,comp_to_section,Financial and insurance activities,,33,K
+,,2057,comp_to_section,Manufacturing,,15,C
+,,1893,comp_to_section,Information and communication,,32,J
+,,1864,comp_to_section,Accommodation and food service activities,,30,I
+,,1737,comp_to_section,Activities of extraterritorial organisations,,51,U
+,,1680,comp_to_section,Financial and insurance activities,,34,K
+,,1656,comp_to_section,Wholesale and retail trade; repair of motor vehicles,,23,G
+,,1621,comp_to_section,Manufacturing,,13,C
+,,1514,comp_to_section,Human health and social work activities,,45,Q
+,,1312,comp_to_section,Administrative and support service activities,,41,N
+,,1072,comp_to_section,Manufacturing,,7,C
+,,982,comp_to_section,"Electricity, gas, water supply; sewerage, waste management",,18,DE
+,,977,comp_to_section,Manufacturing,,2,C
+,,962,comp_to_section,Transportation and storage,,25,H
+,,927,comp_to_section,Activities of households as employers,,50,T
+,,883,comp_to_section,Manufacturing,,17,C
+,,878,comp_to_section,Wholesale and retail trade; repair of motor vehicles,,22,G
+,,850,comp_to_section,Manufacturing,,11,C
+,,809,comp_to_section,"Professional, scientific and technical activities",,40,M
